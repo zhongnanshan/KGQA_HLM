@@ -5,7 +5,7 @@ with open("./raw_data/relation.txt", encoding='utf-8') as f:
     for line in f.readlines():
         rela_array=line.strip("\n").split(",")
         print(rela_array)
-        graph.run("MERGE(p: Person{cate:'%s',Name: '%s'})"%(rela_array[3],rela_array[0]))
+        graph.run("MERGE(p: Person{cate:'%s',Name: '%s'})" % (rela_array[3], rela_array[0]))
         graph.run("MERGE(p: Person{cate:'%s',Name: '%s'})" % (rela_array[4], rela_array[1]))
         graph.run(
             "MATCH(e: Person), (cc: Person) \
