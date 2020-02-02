@@ -46,7 +46,7 @@ def merge_node(node_name):
 def create_relation(p1, p2, rel):
     cmd = """MATCH (e: Person),(cc: Person)
         WHERE e.Name='{0}' AND cc.Name='{1}'
-        CREATE (e)-[r:{2}]->(cc)""".format(p1, p2, rel)
+        CREATE (e)-[r:{2} {{relation: '{2}'}}]->(cc)""".format(p1, p2, rel)
     return cmd
 
 # 生成RELATION检测cypher指令
