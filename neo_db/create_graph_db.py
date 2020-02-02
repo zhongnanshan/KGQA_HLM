@@ -31,6 +31,8 @@ def relation_property_process(datas):
             property_dict['num'] = dt[1]
         elif dt[0] == '封号':
             property_dict['title'] = dt[1]
+        elif dt[0] == '出自':
+            property_dict['from'] = dt[1]
         else:
             raise ValueError('不能识别的关系属性!')
     return property_dict
@@ -124,6 +126,8 @@ def node_property_key_process(datas):
         data = 'goodat', datas[2]
     elif datas[1] == '绰号':
         data = 'nickname', datas[2]
+    elif datas[1] == '归类':
+        data = 'class', datas[2]
     else:
         raise ValueError('不能识别节点属性!')
     return data
