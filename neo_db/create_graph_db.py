@@ -43,6 +43,13 @@ def create_relation(p1, p2, rel):
         CREATE (e)-[r:{2}]->(cc)""".format(p1, p2, rel)
     return cmd
 
+# 生成RELATION检测cypher指令
+def create_relation_check(p1, p2, rel):
+    cmd = """MATCH (e: Person)-[r:{2}]->(cc: Person)
+        WHERE e.Name='{0}' AND cc.Name='{1}'
+        RETURN count(r)""".format(p1, p2, rel)
+    return cmd
+
 # 生成SET RELATION PROPERTY cypher指令
 def set_relation_property(p1, p2, rel, key, val):
     cmd = """MATCH (e: Person)-[r:{2}]->(cc:Person)
@@ -50,11 +57,17 @@ def set_relation_property(p1, p2, rel, key, val):
         SET r.{3}='{4}'""".format(p1, p2, rel, key, val)
     return cmd
 
+# 生成SET NODE PEOPERTY cypher指令
 def set_node_property(node_name, key, val):
     cmd = """MATCH (n: Person)
         WHERE n.Name='{0}'
         SET n.{1}='{2}'""".format(node_name, key, val)
     return cmd
+
+# 检测数据中是否已存在关系
+def is_exist_relation(p1, p2, rel):
+    ret = graph.run(create_relation_check(p1, p2, rel))
+    return ret.evaluate() > 0
 
 # 处理关系行
 def realtion_process(line):
@@ -67,7 +80,8 @@ def realtion_process(line):
     rel = rel_data[2].strip()
     graph.run(merge_node(p1))
     graph.run(merge_node(p2))
-    graph.run(create_relation(p1, p2, rel))
+    if not is_exist_relation(p1, p2, rel):
+        graph.run(create_relation(p1, p2, rel))
     for key in rel_property.keys():
         graph.run(set_relation_property(p1, p2, rel, key, rel_property[key]))
 
@@ -116,8 +130,10 @@ def line_process(line):
     else:
         raise ValueError('不能识别输入行是关系还是属性!')
 
-with open('./raw_data/relation1.txt', encoding='utf-8') as fd:
-    lines = fd.readlines()
-    for line in lines:
-        if not (is_comment_line(line) or is_empty_line(line)):
-            line_process(line)
+# 脚本主入口
+if __name__ == '__main__':
+    with open('./raw_data/relation1.txt', encoding='utf-8') as fd:
+        lines = fd.readlines()
+        for line in lines:
+            if not (is_comment_line(line) or is_empty_line(line)):
+                line_process(line)
