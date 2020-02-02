@@ -29,6 +29,10 @@ def relation_property_process(datas):
         dt = re.split(r",", data.strip())
         if dt[0] == '排行':
             property_dict['num'] = dt[1]
+        elif dt[0] == '封号':
+            property_dict['title'] = dt[1]
+        else:
+            raise ValueError('不能识别的关系属性!')
     return property_dict
 
 # 生成MERGE cypher指令
@@ -110,6 +114,16 @@ def node_property_key_process(datas):
         data = 'name', datas[2]
     elif datas[1] == '别号':
         data = 'number', datas[2]
+    elif datas[1] == '爵位':
+        data = 'rank', datas[2]
+    elif datas[1] == '出身':
+        data = 'origin', datas[2]
+    elif datas[1] == '世袭':
+        data = 'inherit', datas[2]
+    elif datas[1] == '擅长':
+        data = 'goodat', datas[2]
+    elif datas[1] == '绰号':
+        data = 'nickname', datas[2]
     else:
         raise ValueError('不能识别节点属性!')
     return data
@@ -119,6 +133,7 @@ def node_property_process(line):
     datas = re.split(r";", line.strip())
     prop_datas = re.split(r",", datas[0].strip())
     props = node_property_key_process(prop_datas)
+    graph.run(merge_node(prop_datas[0].strip()))
     graph.run(set_node_property(prop_datas[0].strip(), props[0], props[1]))
 
 # 单行处理函数
