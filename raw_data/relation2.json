@@ -7130,7 +7130,7 @@
  {
   "p1": {
    "labels": [
-    "Person"
+    "Book"
    ],
    "properties": {
     "Name": "红楼梦"
@@ -7144,7 +7144,7 @@
   },
   "p2": {
    "labels": [
-    "Person"
+    "Version"
    ],
    "properties": {
     "Name": "人民文学出版社1974年版"
@@ -7154,7 +7154,7 @@
  {
   "p1": {
    "labels": [
-    "Person"
+    "Book"
    ],
    "properties": {
     "Name": "红楼梦"
@@ -7168,7 +7168,7 @@
   },
   "p2": {
    "labels": [
-    "Person"
+    "Version"
    ],
    "properties": {
     "Name": "人民文学出版社1982年版"
@@ -7450,7 +7450,7 @@
   },
   "p2": {
    "labels": [
-    "Person"
+    "Book"
    ],
    "properties": {
     "Name": "红楼梦"
@@ -7612,7 +7612,7 @@
  {
   "p1": {
    "labels": [
-    "Person"
+    "Version"
    ],
    "properties": {
     "Name": "人民文学出版社1982年版"
@@ -7626,7 +7626,7 @@
   },
   "p2": {
    "labels": [
-    "Person"
+    "Book"
    ],
    "properties": {
     "Name": "脂砚斋重评石头记"
@@ -7636,7 +7636,7 @@
  {
   "p1": {
    "labels": [
-    "Person"
+    "Version"
    ],
    "properties": {
     "Name": "人民文学出版社1974年版"
@@ -7650,7 +7650,7 @@
   },
   "p2": {
    "labels": [
-    "Person"
+    "Book"
    ],
    "properties": {
     "Name": "程乙本"
