@@ -37,8 +37,8 @@ def relation_property_process(datas):
             raise ValueError('不能识别的关系属性!')
     return property_dict
 
-# 生成MERGE cypher指令
-def merge_node(node_name):
+# 生成MERGE Person cypher指令
+def merge_person_node(node_name):
     cmd = "MERGE(p: Person {{Name: '{0}'}})".format(node_name)
     return cmd
 
@@ -84,8 +84,8 @@ def realtion_process(line):
     p1 = rel_data[0].strip()
     p2 = rel_data[1].strip()
     rel = rel_data[2].strip()
-    graph.run(merge_node(p1))
-    graph.run(merge_node(p2))
+    graph.run(merge_person_node(p1))
+    graph.run(merge_person_node(p2))
     if not is_exist_relation(p1, p2, rel):
         graph.run(create_relation(p1, p2, rel))
     for key in rel_property.keys():
@@ -128,6 +128,12 @@ def node_property_key_process(datas):
         data = 'nickname', datas[2]
     elif datas[1] == '归类':
         data = 'class', datas[2]
+    elif datas[1] == '出生':
+        data = 'born', datas[2]
+    elif datas[1] == '读音':
+        data = 'pron', datas[2]
+    elif datas[1] == '卒于':
+        data = 'diedof', datas[2]
     else:
         raise ValueError('不能识别节点属性!')
     return data
@@ -137,7 +143,7 @@ def node_property_process(line):
     datas = re.split(r";", line.strip())
     prop_datas = re.split(r",", datas[0].strip())
     props = node_property_key_process(prop_datas)
-    graph.run(merge_node(prop_datas[0].strip()))
+    graph.run(merge_person_node(prop_datas[0].strip()))
     graph.run(set_node_property(prop_datas[0].strip(), props[0], props[1]))
 
 # 单行处理函数
