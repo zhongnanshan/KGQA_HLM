@@ -1,0 +1,11222 @@
+[
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "family": "王家",
+    "class": "金陵十二钗(正)",
+    "Name": "王熙凤"
+   }
+  },
+  "r": {
+   "type": "妹妹",
+   "properties": {
+    "relation": "妹妹"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "王仁"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "family": "王家",
+    "class": "金陵十二钗(正)",
+    "Name": "王熙凤"
+   }
+  },
+  "r": {
+   "type": "侄女",
+   "properties": {
+    "relation": "侄女"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "family": "王家",
+    "Name": "王夫人"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "family": "王家",
+    "class": "金陵十二钗(正)",
+    "Name": "王熙凤"
+   }
+  },
+  "r": {
+   "type": "母亲",
+   "properties": {
+    "relation": "母亲"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "address": "荣国府",
+    "family": "贾家",
+    "class": "金陵十二钗(正)",
+    "Name": "贾巧姐"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "family": "王家",
+    "class": "金陵十二钗(正)",
+    "Name": "王熙凤"
+   }
+  },
+  "r": {
+   "type": "妻",
+   "properties": {
+    "relation": "妻"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "official": "同知",
+    "address": "荣国府",
+    "family": "贾家",
+    "Name": "贾琏"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "family": "王家",
+    "class": "金陵十二钗(正)",
+    "Name": "王熙凤"
+   }
+  },
+  "r": {
+   "type": "儿媳",
+   "properties": {
+    "relation": "儿媳"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "邢夫人"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "address": "荣国府",
+    "family": "贾家",
+    "class": "金陵十二钗(正)",
+    "Name": "贾巧姐"
+   }
+  },
+  "r": {
+   "type": "被抚养",
+   "properties": {
+    "relation": "被抚养"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "刘姥姥"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "address": "荣国府",
+    "family": "贾家",
+    "class": "金陵十二钗(正)",
+    "Name": "贾巧姐"
+   }
+  },
+  "r": {
+   "type": "女儿",
+   "properties": {
+    "relation": "女儿"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "official": "同知",
+    "address": "荣国府",
+    "family": "贾家",
+    "Name": "贾琏"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "address": "荣国府",
+    "family": "贾家",
+    "class": "金陵十二钗(正)",
+    "Name": "贾巧姐"
+   }
+  },
+  "r": {
+   "type": "女儿",
+   "properties": {
+    "relation": "女儿"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "family": "王家",
+    "class": "金陵十二钗(正)",
+    "Name": "王熙凤"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "赵姨娘"
+   }
+  },
+  "r": {
+   "type": "母亲",
+   "properties": {
+    "relation": "母亲"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "address": "秋爽斋",
+    "family": "贾家",
+    "class": "金陵十二钗(正)",
+    "origin": "庶出",
+    "Name": "贾探春"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "赵姨娘"
+   }
+  },
+  "r": {
+   "type": "母亲",
+   "properties": {
+    "relation": "母亲"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "family": "贾家",
+    "origin": "庶出",
+    "Name": "贾环"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "赵姨娘"
+   }
+  },
+  "r": {
+   "type": "妾",
+   "properties": {
+    "relation": "妾"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "official": "工部员外郎",
+    "address": "荣国府",
+    "family": "贾家",
+    "word": "存周",
+    "Name": "贾政"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "pron": "shǐ|nài",
+    "Name": "史鼐"
+   }
+  },
+  "r": {
+   "type": "儿子",
+   "properties": {
+    "relation": "儿子"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "official": "尚书令",
+    "rank": "保龄侯",
+    "Name": "史公"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "family": "史家",
+    "class": "金陵十二钗(正)",
+    "Name": "史湘云"
+   }
+  },
+  "r": {
+   "type": "侄女",
+   "properties": {
+    "relation": "侄女"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "rank": "忠靖侯",
+    "Name": "史鼎"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "family": "史家",
+    "class": "金陵十二钗(正)",
+    "Name": "史湘云"
+   }
+  },
+  "r": {
+   "type": "侄女",
+   "properties": {
+    "relation": "侄女"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "pron": "shǐ|nài",
+    "Name": "史鼐"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "family": "史家",
+    "class": "金陵十二钗(正)",
+    "Name": "史湘云"
+   }
+  },
+  "r": {
+   "type": "孙女",
+   "properties": {
+    "relation": "孙女"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "alias": "史太君",
+    "address": "荣国府",
+    "family": "史家",
+    "Name": "贾母"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "family": "史家",
+    "class": "金陵十二钗(正)",
+    "Name": "史湘云"
+   }
+  },
+  "r": {
+   "type": "朋友",
+   "properties": {
+    "relation": "朋友"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "address": "蘅芜苑",
+    "family": "薛家",
+    "class": "金陵十二钗(正)",
+    "Name": "薛宝钗"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "family": "史家",
+    "class": "金陵十二钗(正)",
+    "Name": "史湘云"
+   }
+  },
+  "r": {
+   "type": "朋友",
+   "properties": {
+    "relation": "朋友"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "class": "金陵十二钗(正)",
+    "address": "潇湘馆",
+    "Name": "林黛玉"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "family": "史家",
+    "class": "金陵十二钗(正)",
+    "Name": "史湘云"
+   }
+  },
+  "r": {
+   "type": "朋友",
+   "properties": {
+    "relation": "朋友"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "family": "贾家",
+    "address": "荣国府",
+    "Name": "贾宝玉"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "王子胜"
+   }
+  },
+  "r": {
+   "type": "弟弟",
+   "properties": {
+    "relation": "弟弟"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "official": "金陵节度使",
+    "Name": "王子腾"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "name": "费",
+    "word": "士隐",
+    "Name": "甄士隐"
+   }
+  },
+  "r": {
+   "type": "父亲",
+   "properties": {
+    "relation": "父亲"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "alias": "甄英莲",
+    "class": "金陵十二钗(副)",
+    "Name": "香菱"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "傻大姐"
+   }
+  },
+  "r": {
+   "type": "丫环",
+   "properties": {
+    "relation": "丫环"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "alias": "史太君",
+    "address": "荣国府",
+    "family": "史家",
+    "Name": "贾母"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "雪雁"
+   }
+  },
+  "r": {
+   "type": "丫环",
+   "properties": {
+    "relation": "丫环"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "class": "金陵十二钗(正)",
+    "address": "潇湘馆",
+    "Name": "林黛玉"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "春纤"
+   }
+  },
+  "r": {
+   "type": "丫环",
+   "properties": {
+    "relation": "丫环"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "class": "金陵十二钗(正)",
+    "address": "潇湘馆",
+    "Name": "林黛玉"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "class": "金陵十二钗(又副)",
+    "Name": "鸳鸯"
+   }
+  },
+  "r": {
+   "type": "丫环",
+   "properties": {
+    "relation": "丫环"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "alias": "史太君",
+    "address": "荣国府",
+    "family": "史家",
+    "Name": "贾母"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "琥珀"
+   }
+  },
+  "r": {
+   "type": "丫环",
+   "properties": {
+    "relation": "丫环"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "alias": "史太君",
+    "address": "荣国府",
+    "family": "史家",
+    "Name": "贾母"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "珍珠"
+   }
+  },
+  "r": {
+   "type": "丫环",
+   "properties": {
+    "relation": "丫环"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "alias": "史太君",
+    "address": "荣国府",
+    "family": "史家",
+    "Name": "贾母"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "玻璃"
+   }
+  },
+  "r": {
+   "type": "丫环",
+   "properties": {
+    "relation": "丫环"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "alias": "史太君",
+    "address": "荣国府",
+    "family": "史家",
+    "Name": "贾母"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "翡翠"
+   }
+  },
+  "r": {
+   "type": "丫环",
+   "properties": {
+    "relation": "丫环"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "alias": "史太君",
+    "address": "荣国府",
+    "family": "史家",
+    "Name": "贾母"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "pron": "wàn|ér",
+    "Name": "卐儿"
+   }
+  },
+  "r": {
+   "type": "丫环",
+   "properties": {
+    "relation": "丫环"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "尤氏"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "pron": "wàn|ér",
+    "Name": "卐儿"
+   }
+  },
+  "r": {
+   "type": "丫环",
+   "properties": {
+    "relation": "丫环"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "address": "宁国府",
+    "family": "贾家",
+    "inherit": "三品爵威烈将军",
+    "Name": "贾珍"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "丰儿"
+   }
+  },
+  "r": {
+   "type": "丫环",
+   "properties": {
+    "relation": "丫环"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "family": "王家",
+    "class": "金陵十二钗(正)",
+    "Name": "王熙凤"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "善姐"
+   }
+  },
+  "r": {
+   "type": "丫环",
+   "properties": {
+    "relation": "丫环"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "class": "金陵十二钗(副)",
+    "Name": "尤二姐"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "善姐"
+   }
+  },
+  "r": {
+   "type": "丫环",
+   "properties": {
+    "relation": "丫环"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "family": "王家",
+    "class": "金陵十二钗(正)",
+    "Name": "王熙凤"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "class": "金陵十二钗(又副)",
+    "Name": "金钏"
+   }
+  },
+  "r": {
+   "type": "姐姐",
+   "properties": {
+    "relation": "姐姐"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "class": "金陵十二钗(又副)",
+    "Name": "玉钏"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "class": "金陵十二钗(又副)",
+    "Name": "金钏"
+   }
+  },
+  "r": {
+   "type": "丫环",
+   "properties": {
+    "relation": "丫环"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "family": "王家",
+    "Name": "王夫人"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "rank": "忠靖侯",
+    "Name": "史鼎"
+   }
+  },
+  "r": {
+   "type": "弟弟",
+   "properties": {
+    "relation": "弟弟"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "pron": "shǐ|nài",
+    "Name": "史鼐"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "rank": "忠靖侯",
+    "Name": "史鼎"
+   }
+  },
+  "r": {
+   "type": "儿子",
+   "properties": {
+    "relation": "儿子"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "official": "尚书令",
+    "rank": "保龄侯",
+    "Name": "史公"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "official": "金陵节度使",
+    "Name": "王子腾"
+   }
+  },
+  "r": {
+   "type": "伯父",
+   "properties": {
+    "relation": "伯父"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "family": "王家",
+    "class": "金陵十二钗(正)",
+    "Name": "王熙凤"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "official": "金陵节度使",
+    "Name": "王子腾"
+   }
+  },
+  "r": {
+   "type": "哥哥",
+   "properties": {
+    "relation": "哥哥"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "family": "王家",
+    "Name": "王夫人"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "family": "薛家",
+    "Name": "薛姨妈"
+   }
+  },
+  "r": {
+   "type": "母亲",
+   "properties": {
+    "relation": "母亲"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "address": "蘅芜苑",
+    "family": "薛家",
+    "class": "金陵十二钗(正)",
+    "Name": "薛宝钗"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "family": "薛家",
+    "Name": "薛姨妈"
+   }
+  },
+  "r": {
+   "type": "姑母",
+   "properties": {
+    "relation": "姑母"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "family": "薛家",
+    "class": "金陵十二钗(副)",
+    "Name": "薛宝琴"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "family": "薛家",
+    "Name": "薛姨妈"
+   }
+  },
+  "r": {
+   "type": "母亲",
+   "properties": {
+    "relation": "母亲"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "family": "薛家",
+    "word": "文起",
+    "Name": "薛蟠"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "family": "薛家",
+    "Name": "薛姨妈"
+   }
+  },
+  "r": {
+   "type": "妹妹",
+   "properties": {
+    "relation": "妹妹"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "family": "王家",
+    "Name": "王夫人"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "family": "薛家",
+    "word": "文起",
+    "Name": "薛蟠"
+   }
+  },
+  "r": {
+   "type": "哥哥",
+   "properties": {
+    "relation": "哥哥"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "address": "蘅芜苑",
+    "family": "薛家",
+    "class": "金陵十二钗(正)",
+    "Name": "薛宝钗"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "family": "薛家",
+    "word": "文起",
+    "Name": "薛蟠"
+   }
+  },
+  "r": {
+   "type": "儿子",
+   "properties": {
+    "relation": "儿子"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "family": "薛家",
+    "Name": "薛姨妈"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "family": "薛家",
+    "class": "金陵十二钗(副)",
+    "Name": "薛宝琴"
+   }
+  },
+  "r": {
+   "type": "胞妹",
+   "properties": {
+    "relation": "胞妹"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "family": "薛家",
+    "Name": "薛蝌"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "family": "薛家",
+    "class": "金陵十二钗(副)",
+    "Name": "薛宝琴"
+   }
+  },
+  "r": {
+   "type": "侄女",
+   "properties": {
+    "relation": "侄女"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "family": "薛家",
+    "Name": "薛姨妈"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "王狗儿"
+   }
+  },
+  "r": {
+   "type": "儿子",
+   "properties": {
+    "relation": "儿子"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "status": "王家的远亲",
+    "Name": "王成"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "class": "金陵十二钗(又副)",
+    "Name": "莺儿"
+   }
+  },
+  "r": {
+   "type": "丫环",
+   "properties": {
+    "relation": "丫环"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "address": "蘅芜苑",
+    "family": "薛家",
+    "class": "金陵十二钗(正)",
+    "Name": "薛宝钗"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "文杏"
+   }
+  },
+  "r": {
+   "type": "丫环",
+   "properties": {
+    "relation": "丫环"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "address": "蘅芜苑",
+    "family": "薛家",
+    "class": "金陵十二钗(正)",
+    "Name": "薛宝钗"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "class": "金陵十二钗(副)",
+    "Name": "平儿"
+   }
+  },
+  "r": {
+   "type": "丫环",
+   "properties": {
+    "relation": "丫环"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "family": "王家",
+    "class": "金陵十二钗(正)",
+    "Name": "王熙凤"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "alias": "林红玉",
+    "class": "金陵十二钗(又副)",
+    "Name": "小红"
+   }
+  },
+  "r": {
+   "type": "丫环",
+   "properties": {
+    "relation": "丫环"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "family": "王家",
+    "class": "金陵十二钗(正)",
+    "Name": "王熙凤"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "alias": "林红玉",
+    "class": "金陵十二钗(又副)",
+    "Name": "小红"
+   }
+  },
+  "r": {
+   "type": "丫环",
+   "properties": {
+    "relation": "丫环"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "family": "贾家",
+    "address": "荣国府",
+    "Name": "贾宝玉"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "秋桐"
+   }
+  },
+  "r": {
+   "type": "妾",
+   "properties": {
+    "relation": "妾"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "address": "荣国府",
+    "family": "贾家",
+    "word": "恩侯",
+    "inherit": "荣国公",
+    "Name": "贾赦"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "秋桐"
+   }
+  },
+  "r": {
+   "type": "丫环",
+   "properties": {
+    "relation": "丫环"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "address": "荣国府",
+    "family": "贾家",
+    "word": "恩侯",
+    "inherit": "荣国公",
+    "Name": "贾赦"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "class": "金陵十二钗(又副)",
+    "Name": "柳五儿"
+   }
+  },
+  "r": {
+   "type": "丫环",
+   "properties": {
+    "relation": "丫环"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "family": "贾家",
+    "address": "荣国府",
+    "Name": "贾宝玉"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "class": "金陵十二钗(又副)",
+    "Name": "柳五儿"
+   }
+  },
+  "r": {
+   "type": "好朋友",
+   "properties": {
+    "relation": "好朋友"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "class": "十二优伶",
+    "Name": "芳官"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "金文翔"
+   }
+  },
+  "r": {
+   "type": "买办",
+   "properties": {
+    "relation": "买办"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "alias": "史太君",
+    "address": "荣国府",
+    "family": "史家",
+    "Name": "贾母"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "金文翔"
+   }
+  },
+  "r": {
+   "type": "哥哥",
+   "properties": {
+    "relation": "哥哥"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "class": "金陵十二钗(又副)",
+    "Name": "鸳鸯"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "金文翔家的"
+   }
+  },
+  "r": {
+   "type": "妻",
+   "properties": {
+    "relation": "妻"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "金文翔"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "金文翔家的"
+   }
+  },
+  "r": {
+   "type": "嫂子",
+   "properties": {
+    "relation": "嫂子"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "class": "金陵十二钗(又副)",
+    "Name": "鸳鸯"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "周瑞家的"
+   }
+  },
+  "r": {
+   "type": "陪房",
+   "properties": {
+    "relation": "陪房"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "family": "王家",
+    "Name": "王夫人"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "来喜家的"
+   }
+  },
+  "r": {
+   "type": "陪房",
+   "properties": {
+    "relation": "陪房"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "family": "王家",
+    "Name": "王夫人"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "王善保家的"
+   }
+  },
+  "r": {
+   "type": "外祖母",
+   "properties": {
+    "relation": "外祖母"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "class": "金陵十二钗(又副)",
+    "Name": "司棋"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "王善保家的"
+   }
+  },
+  "r": {
+   "type": "陪房",
+   "properties": {
+    "relation": "陪房"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "邢夫人"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "status": "荣国府二管家",
+    "Name": "林之孝"
+   }
+  },
+  "r": {
+   "type": "父亲",
+   "properties": {
+    "relation": "父亲"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "林红玉"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "class": "金陵十二钗(又副)",
+    "Name": "袭人"
+   }
+  },
+  "r": {
+   "type": "丫环",
+   "properties": {
+    "relation": "丫环"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "family": "贾家",
+    "address": "荣国府",
+    "Name": "贾宝玉"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "媚人"
+   }
+  },
+  "r": {
+   "type": "丫环",
+   "properties": {
+    "relation": "丫环"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "family": "贾家",
+    "address": "荣国府",
+    "Name": "贾宝玉"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "class": "金陵十二钗(又副)",
+    "Name": "晴雯"
+   }
+  },
+  "r": {
+   "type": "丫环",
+   "properties": {
+    "relation": "丫环"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "family": "贾家",
+    "address": "荣国府",
+    "Name": "贾宝玉"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "class": "金陵十二钗(又副)",
+    "Name": "茜雪"
+   }
+  },
+  "r": {
+   "type": "丫环",
+   "properties": {
+    "relation": "丫环"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "family": "贾家",
+    "address": "荣国府",
+    "Name": "贾宝玉"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "class": "金陵十二钗(又副)",
+    "Name": "麝月"
+   }
+  },
+  "r": {
+   "type": "丫环",
+   "properties": {
+    "relation": "丫环"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "family": "贾家",
+    "address": "荣国府",
+    "Name": "贾宝玉"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "秋纹"
+   }
+  },
+  "r": {
+   "type": "丫环",
+   "properties": {
+    "relation": "丫环"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "family": "贾家",
+    "address": "荣国府",
+    "Name": "贾宝玉"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "alias": "碧痕",
+    "Name": "碧浪"
+   }
+  },
+  "r": {
+   "type": "丫环",
+   "properties": {
+    "relation": "丫环"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "family": "贾家",
+    "address": "荣国府",
+    "Name": "贾宝玉"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "坠儿"
+   }
+  },
+  "r": {
+   "type": "丫环",
+   "properties": {
+    "relation": "丫环"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "family": "贾家",
+    "address": "荣国府",
+    "Name": "贾宝玉"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "alias": "蕙香",
+    "Name": "四儿"
+   }
+  },
+  "r": {
+   "type": "丫环",
+   "properties": {
+    "relation": "丫环"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "family": "贾家",
+    "address": "荣国府",
+    "Name": "贾宝玉"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "class": "十二优伶",
+    "Name": "芳官"
+   }
+  },
+  "r": {
+   "type": "丫环",
+   "properties": {
+    "relation": "丫环"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "family": "贾家",
+    "address": "荣国府",
+    "Name": "贾宝玉"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "status": "荣国府大管家",
+    "Name": "赖大"
+   }
+  },
+  "r": {
+   "type": "父亲",
+   "properties": {
+    "relation": "父亲"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "赖上荣"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "word": "鲸卿",
+    "Name": "秦钟"
+   }
+  },
+  "r": {
+   "type": "朋友",
+   "properties": {
+    "relation": "朋友"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "family": "贾家",
+    "address": "荣国府",
+    "Name": "贾宝玉"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "word": "鲸卿",
+    "Name": "秦钟"
+   }
+  },
+  "r": {
+   "type": "儿子",
+   "properties": {
+    "relation": "儿子"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "official": "工部营缮郎",
+    "alias": "秦业",
+    "Name": "秦邦业"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "word": "鲸卿",
+    "Name": "秦钟"
+   }
+  },
+  "r": {
+   "type": "弟弟",
+   "properties": {
+    "relation": "弟弟"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "class": "金陵十二钗(正)",
+    "Name": "秦可卿"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "address": "水月庵",
+    "Name": "净虚",
+    "status": "尼姑"
+   }
+  },
+  "r": {
+   "type": "师傅",
+   "properties": {
+    "relation": "师傅"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "address": "水月庵",
+    "Name": "智善",
+    "status": "尼姑"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "address": "水月庵",
+    "Name": "净虚",
+    "status": "尼姑"
+   }
+  },
+  "r": {
+   "type": "师傅",
+   "properties": {
+    "relation": "师傅"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "alias": "能儿",
+    "address": "水月庵",
+    "Name": "智能",
+    "status": "尼姑"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "status": "神仙",
+    "Name": "绛珠仙子"
+   }
+  },
+  "r": {
+   "type": "前世",
+   "properties": {
+    "relation": "前世"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "class": "金陵十二钗(正)",
+    "address": "潇湘馆",
+    "Name": "林黛玉"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "冯紫英"
+   }
+  },
+  "r": {
+   "type": "儿子",
+   "properties": {
+    "relation": "儿子"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "rank": "神武将军",
+    "Name": "冯唐"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "class": "金陵十二钗(又副)",
+    "Name": "司棋"
+   }
+  },
+  "r": {
+   "type": "丫环",
+   "properties": {
+    "relation": "丫环"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "address": "缀锦楼",
+    "family": "贾家",
+    "class": "金陵十二钗(正)",
+    "origin": "庶出",
+    "Name": "贾迎春"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "莲花儿"
+   }
+  },
+  "r": {
+   "type": "丫环",
+   "properties": {
+    "relation": "丫环"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "address": "缀锦楼",
+    "family": "贾家",
+    "class": "金陵十二钗(正)",
+    "origin": "庶出",
+    "Name": "贾迎春"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "绣橘"
+   }
+  },
+  "r": {
+   "type": "丫环",
+   "properties": {
+    "relation": "丫环"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "address": "缀锦楼",
+    "family": "贾家",
+    "class": "金陵十二钗(正)",
+    "origin": "庶出",
+    "Name": "贾迎春"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "待书"
+   }
+  },
+  "r": {
+   "type": "丫环",
+   "properties": {
+    "relation": "丫环"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "address": "秋爽斋",
+    "family": "贾家",
+    "class": "金陵十二钗(正)",
+    "origin": "庶出",
+    "Name": "贾探春"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "翠墨"
+   }
+  },
+  "r": {
+   "type": "丫环",
+   "properties": {
+    "relation": "丫环"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "address": "秋爽斋",
+    "family": "贾家",
+    "class": "金陵十二钗(正)",
+    "origin": "庶出",
+    "Name": "贾探春"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "蝉姐"
+   }
+  },
+  "r": {
+   "type": "丫环",
+   "properties": {
+    "relation": "丫环"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "address": "秋爽斋",
+    "family": "贾家",
+    "class": "金陵十二钗(正)",
+    "origin": "庶出",
+    "Name": "贾探春"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "入画"
+   }
+  },
+  "r": {
+   "type": "丫环",
+   "properties": {
+    "relation": "丫环"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "address": "蓼风轩",
+    "family": "贾家",
+    "class": "金陵十二钗(正)",
+    "Name": "贾惜春"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "彩屏"
+   }
+  },
+  "r": {
+   "type": "丫环",
+   "properties": {
+    "relation": "丫环"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "address": "蓼风轩",
+    "family": "贾家",
+    "class": "金陵十二钗(正)",
+    "Name": "贾惜春"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "alias": "鹦哥",
+    "class": "金陵十二钗(又副)",
+    "Name": "紫鹃"
+   }
+  },
+  "r": {
+   "type": "丫环",
+   "properties": {
+    "relation": "丫环"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "class": "金陵十二钗(正)",
+    "address": "潇湘馆",
+    "Name": "林黛玉"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "alias": "鹦哥",
+    "class": "金陵十二钗(又副)",
+    "Name": "紫鹃"
+   }
+  },
+  "r": {
+   "type": "丫环",
+   "properties": {
+    "relation": "丫环"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "alias": "史太君",
+    "address": "荣国府",
+    "family": "史家",
+    "Name": "贾母"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "class": "金陵十二钗(副)",
+    "Name": "尤二姐"
+   }
+  },
+  "r": {
+   "type": "妹妹",
+   "properties": {
+    "relation": "妹妹"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "尤氏"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "class": "金陵十二钗(副)",
+    "Name": "尤二姐"
+   }
+  },
+  "r": {
+   "type": "二房",
+   "properties": {
+    "relation": "二房"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "official": "同知",
+    "address": "荣国府",
+    "family": "贾家",
+    "Name": "贾琏"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "class": "金陵十二钗(副)",
+    "Name": "尤二姐"
+   }
+  },
+  "r": {
+   "type": "女儿",
+   "properties": {
+    "relation": "女儿"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "尤氏继母"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "class": "金陵十二钗(又副)",
+    "Name": "玉钏"
+   }
+  },
+  "r": {
+   "type": "丫环",
+   "properties": {
+    "relation": "丫环"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "family": "王家",
+    "Name": "王夫人"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "class": "金陵十二钗(又副)",
+    "Name": "玉钏"
+   }
+  },
+  "r": {
+   "type": "妹妹",
+   "properties": {
+    "relation": "妹妹"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "class": "金陵十二钗(又副)",
+    "Name": "金钏"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "class": "金陵十二钗(副)",
+    "Name": "邢岫烟"
+   }
+  },
+  "r": {
+   "type": "侄女",
+   "properties": {
+    "relation": "侄女"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "邢夫人"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "class": "金陵十二钗(副)",
+    "Name": "邢岫烟"
+   }
+  },
+  "r": {
+   "type": "女儿",
+   "properties": {
+    "relation": "女儿"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "邢忠"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "class": "金陵十二钗(副)",
+    "Name": "邢岫烟"
+   }
+  },
+  "r": {
+   "type": "妻",
+   "properties": {
+    "relation": "妻"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "family": "薛家",
+    "Name": "薛蝌"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "夏金桂"
+   }
+  },
+  "r": {
+   "type": "妻",
+   "properties": {
+    "relation": "妻"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "family": "薛家",
+    "word": "文起",
+    "Name": "薛蟠"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "nickname": "冷郎君",
+    "Name": "柳湘莲"
+   }
+  },
+  "r": {
+   "type": "朋友",
+   "properties": {
+    "relation": "朋友"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "family": "贾家",
+    "address": "荣国府",
+    "Name": "贾宝玉"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "nickname": "冷郎君",
+    "Name": "柳湘莲"
+   }
+  },
+  "r": {
+   "type": "朋友",
+   "properties": {
+    "relation": "朋友"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "family": "薛家",
+    "word": "文起",
+    "Name": "薛蟠"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "pron": "lǐ|mó|mó",
+    "Name": "李嬷嬷"
+   }
+  },
+  "r": {
+   "type": "母亲",
+   "properties": {
+    "relation": "母亲"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "李贵"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "pron": "lǐ|mó|mó",
+    "Name": "李嬷嬷"
+   }
+  },
+  "r": {
+   "type": "乳母",
+   "properties": {
+    "relation": "乳母"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "family": "贾家",
+    "address": "荣国府",
+    "Name": "贾宝玉"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "class": "十二优伶",
+    "Name": "藕官"
+   }
+  },
+  "r": {
+   "type": "相好",
+   "properties": {
+    "relation": "相好"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "class": "十二优伶",
+    "Name": "蕊官"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "class": "十二优伶",
+    "Name": "藕官"
+   }
+  },
+  "r": {
+   "type": "丫环",
+   "properties": {
+    "relation": "丫环"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "class": "金陵十二钗(正)",
+    "address": "潇湘馆",
+    "Name": "林黛玉"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "class": "十二优伶",
+    "Name": "藕官"
+   }
+  },
+  "r": {
+   "type": "相好",
+   "properties": {
+    "relation": "相好"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "pron": "dì|guān",
+    "class": "十二优伶",
+    "Name": "菂官"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "pron": "dì|guān",
+    "class": "十二优伶",
+    "Name": "菂官"
+   }
+  },
+  "r": {
+   "type": "相好",
+   "properties": {
+    "relation": "相好"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "class": "十二优伶",
+    "Name": "藕官"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "邢忠"
+   }
+  },
+  "r": {
+   "type": "哥哥",
+   "properties": {
+    "relation": "哥哥"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "邢夫人"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "邢忠"
+   }
+  },
+  "r": {
+   "type": "父亲",
+   "properties": {
+    "relation": "父亲"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "class": "金陵十二钗(副)",
+    "Name": "邢岫烟"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "official": "工部营缮郎",
+    "alias": "秦业",
+    "Name": "秦邦业"
+   }
+  },
+  "r": {
+   "type": "养父",
+   "properties": {
+    "relation": "养父"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "class": "金陵十二钗(正)",
+    "Name": "秦可卿"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "official": "工部营缮郎",
+    "alias": "秦业",
+    "Name": "秦邦业"
+   }
+  },
+  "r": {
+   "type": "父亲",
+   "properties": {
+    "relation": "父亲"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "word": "鲸卿",
+    "Name": "秦钟"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "绣鸾"
+   }
+  },
+  "r": {
+   "type": "丫环",
+   "properties": {
+    "relation": "丫环"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "family": "王家",
+    "Name": "王夫人"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "绣凤"
+   }
+  },
+  "r": {
+   "type": "丫环",
+   "properties": {
+    "relation": "丫环"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "family": "王家",
+    "Name": "王夫人"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "彩云"
+   }
+  },
+  "r": {
+   "type": "丫环",
+   "properties": {
+    "relation": "丫环"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "family": "王家",
+    "Name": "王夫人"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "彩霞"
+   }
+  },
+  "r": {
+   "type": "丫环",
+   "properties": {
+    "relation": "丫环"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "family": "王家",
+    "Name": "王夫人"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "同喜"
+   }
+  },
+  "r": {
+   "type": "丫环",
+   "properties": {
+    "relation": "丫环"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "family": "薛家",
+    "Name": "薛姨妈"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "同贵"
+   }
+  },
+  "r": {
+   "type": "丫环",
+   "properties": {
+    "relation": "丫环"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "family": "薛家",
+    "Name": "薛姨妈"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "翠缕"
+   }
+  },
+  "r": {
+   "type": "丫环",
+   "properties": {
+    "relation": "丫环"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "family": "史家",
+    "class": "金陵十二钗(正)",
+    "Name": "史湘云"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "class": "金陵十二钗(副)",
+    "Name": "瑞珠"
+   }
+  },
+  "r": {
+   "type": "丫环",
+   "properties": {
+    "relation": "丫环"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "class": "金陵十二钗(正)",
+    "Name": "秦可卿"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "class": "金陵十二钗(副)",
+    "Name": "宝珠"
+   }
+  },
+  "r": {
+   "type": "丫环",
+   "properties": {
+    "relation": "丫环"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "class": "金陵十二钗(正)",
+    "Name": "秦可卿"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "姣杏"
+   }
+  },
+  "r": {
+   "type": "丫环",
+   "properties": {
+    "relation": "丫环"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "name": "费",
+    "word": "士隐",
+    "Name": "甄士隐"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "小螺"
+   }
+  },
+  "r": {
+   "type": "丫环",
+   "properties": {
+    "relation": "丫环"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "family": "薛家",
+    "class": "金陵十二钗(副)",
+    "Name": "薛宝琴"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "臻儿"
+   }
+  },
+  "r": {
+   "type": "丫环",
+   "properties": {
+    "relation": "丫环"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "alias": "甄英莲",
+    "class": "金陵十二钗(副)",
+    "Name": "香菱"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "篆儿"
+   }
+  },
+  "r": {
+   "type": "丫环",
+   "properties": {
+    "relation": "丫环"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "class": "金陵十二钗(副)",
+    "Name": "邢岫烟"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "小吉祥儿"
+   }
+  },
+  "r": {
+   "type": "丫环",
+   "properties": {
+    "relation": "丫环"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "赵姨娘"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "小鹊"
+   }
+  },
+  "r": {
+   "type": "丫环",
+   "properties": {
+    "relation": "丫环"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "赵姨娘"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "银碟"
+   }
+  },
+  "r": {
+   "type": "丫环",
+   "properties": {
+    "relation": "丫环"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "尤氏"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "炒豆儿"
+   }
+  },
+  "r": {
+   "type": "丫环",
+   "properties": {
+    "relation": "丫环"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "尤氏"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "小舍儿"
+   }
+  },
+  "r": {
+   "type": "丫环",
+   "properties": {
+    "relation": "丫环"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "夏金桂"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "class": "金陵十二钗(副)",
+    "Name": "宝蟾"
+   }
+  },
+  "r": {
+   "type": "陪房",
+   "properties": {
+    "relation": "陪房"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "夏金桂"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "茗烟"
+   }
+  },
+  "r": {
+   "type": "小厮",
+   "properties": {
+    "relation": "小厮"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "family": "贾家",
+    "address": "荣国府",
+    "Name": "贾宝玉"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "锄药"
+   }
+  },
+  "r": {
+   "type": "小厮",
+   "properties": {
+    "relation": "小厮"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "family": "贾家",
+    "address": "荣国府",
+    "Name": "贾宝玉"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "墨雨"
+   }
+  },
+  "r": {
+   "type": "小厮",
+   "properties": {
+    "relation": "小厮"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "family": "贾家",
+    "address": "荣国府",
+    "Name": "贾宝玉"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "伴鹤"
+   }
+  },
+  "r": {
+   "type": "小厮",
+   "properties": {
+    "relation": "小厮"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "family": "贾家",
+    "address": "荣国府",
+    "Name": "贾宝玉"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "扫花"
+   }
+  },
+  "r": {
+   "type": "小厮",
+   "properties": {
+    "relation": "小厮"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "family": "贾家",
+    "address": "荣国府",
+    "Name": "贾宝玉"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "引泉"
+   }
+  },
+  "r": {
+   "type": "小厮",
+   "properties": {
+    "relation": "小厮"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "family": "贾家",
+    "address": "荣国府",
+    "Name": "贾宝玉"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "挑芸"
+   }
+  },
+  "r": {
+   "type": "小厮",
+   "properties": {
+    "relation": "小厮"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "family": "贾家",
+    "address": "荣国府",
+    "Name": "贾宝玉"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "双瑞"
+   }
+  },
+  "r": {
+   "type": "小厮",
+   "properties": {
+    "relation": "小厮"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "family": "贾家",
+    "address": "荣国府",
+    "Name": "贾宝玉"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "双寿"
+   }
+  },
+  "r": {
+   "type": "小厮",
+   "properties": {
+    "relation": "小厮"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "family": "贾家",
+    "address": "荣国府",
+    "Name": "贾宝玉"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "王荣"
+   }
+  },
+  "r": {
+   "type": "仆人",
+   "properties": {
+    "relation": "仆人"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "family": "贾家",
+    "address": "荣国府",
+    "Name": "贾宝玉"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "钱启"
+   }
+  },
+  "r": {
+   "type": "仆人",
+   "properties": {
+    "relation": "仆人"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "family": "贾家",
+    "address": "荣国府",
+    "Name": "贾宝玉"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "张若锦"
+   }
+  },
+  "r": {
+   "type": "仆人",
+   "properties": {
+    "relation": "仆人"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "family": "贾家",
+    "address": "荣国府",
+    "Name": "贾宝玉"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "赵亦华"
+   }
+  },
+  "r": {
+   "type": "仆人",
+   "properties": {
+    "relation": "仆人"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "family": "贾家",
+    "address": "荣国府",
+    "Name": "贾宝玉"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "来旺"
+   }
+  },
+  "r": {
+   "type": "仆人",
+   "properties": {
+    "relation": "仆人"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "family": "王家",
+    "class": "金陵十二钗(正)",
+    "Name": "王熙凤"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "来旺"
+   }
+  },
+  "r": {
+   "type": "仆人",
+   "properties": {
+    "relation": "仆人"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "official": "同知",
+    "address": "荣国府",
+    "family": "贾家",
+    "Name": "贾琏"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "昭儿"
+   }
+  },
+  "r": {
+   "type": "小厮",
+   "properties": {
+    "relation": "小厮"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "family": "王家",
+    "class": "金陵十二钗(正)",
+    "Name": "王熙凤"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "昭儿"
+   }
+  },
+  "r": {
+   "type": "小厮",
+   "properties": {
+    "relation": "小厮"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "official": "同知",
+    "address": "荣国府",
+    "family": "贾家",
+    "Name": "贾琏"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "庆儿"
+   }
+  },
+  "r": {
+   "type": "小厮",
+   "properties": {
+    "relation": "小厮"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "family": "王家",
+    "class": "金陵十二钗(正)",
+    "Name": "王熙凤"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "庆儿"
+   }
+  },
+  "r": {
+   "type": "小厮",
+   "properties": {
+    "relation": "小厮"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "official": "同知",
+    "address": "荣国府",
+    "family": "贾家",
+    "Name": "贾琏"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "王信"
+   }
+  },
+  "r": {
+   "type": "小厮",
+   "properties": {
+    "relation": "小厮"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "family": "王家",
+    "class": "金陵十二钗(正)",
+    "Name": "王熙凤"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "王信"
+   }
+  },
+  "r": {
+   "type": "小厮",
+   "properties": {
+    "relation": "小厮"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "official": "同知",
+    "address": "荣国府",
+    "family": "贾家",
+    "Name": "贾琏"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "兴儿"
+   }
+  },
+  "r": {
+   "type": "小厮",
+   "properties": {
+    "relation": "小厮"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "address": "宁国府",
+    "family": "贾家",
+    "inherit": "三品爵威烈将军",
+    "Name": "贾珍"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "喜儿"
+   }
+  },
+  "r": {
+   "type": "小厮",
+   "properties": {
+    "relation": "小厮"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "address": "宁国府",
+    "family": "贾家",
+    "inherit": "三品爵威烈将军",
+    "Name": "贾珍"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "寿儿"
+   }
+  },
+  "r": {
+   "type": "小厮",
+   "properties": {
+    "relation": "小厮"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "address": "宁国府",
+    "family": "贾家",
+    "inherit": "三品爵威烈将军",
+    "Name": "贾珍"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "钱槐"
+   }
+  },
+  "r": {
+   "type": "侄子",
+   "properties": {
+    "relation": "侄子"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "赵姨娘"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "钱槐"
+   }
+  },
+  "r": {
+   "type": "小厮",
+   "properties": {
+    "relation": "小厮"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "family": "贾家",
+    "origin": "庶出",
+    "Name": "贾环"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "隆儿"
+   }
+  },
+  "r": {
+   "type": "小厮",
+   "properties": {
+    "relation": "小厮"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "official": "同知",
+    "address": "荣国府",
+    "family": "贾家",
+    "Name": "贾琏"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "杏奴"
+   }
+  },
+  "r": {
+   "type": "小厮",
+   "properties": {
+    "relation": "小厮"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "nickname": "冷郎君",
+    "Name": "柳湘莲"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "李贵"
+   }
+  },
+  "r": {
+   "type": "仆人",
+   "properties": {
+    "relation": "仆人"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "family": "贾家",
+    "address": "荣国府",
+    "Name": "贾宝玉"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "李贵"
+   }
+  },
+  "r": {
+   "type": "儿子",
+   "properties": {
+    "relation": "儿子"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "pron": "lǐ|mó|mó",
+    "Name": "李嬷嬷"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "佩凤"
+   }
+  },
+  "r": {
+   "type": "妾",
+   "properties": {
+    "relation": "妾"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "address": "宁国府",
+    "family": "贾家",
+    "inherit": "三品爵威烈将军",
+    "Name": "贾珍"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "偕鸾"
+   }
+  },
+  "r": {
+   "type": "妾",
+   "properties": {
+    "relation": "妾"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "address": "宁国府",
+    "family": "贾家",
+    "inherit": "三品爵威烈将军",
+    "Name": "贾珍"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "林之孝家的",
+    "status": "贾府中总领家事的媳妇"
+   }
+  },
+  "r": {
+   "type": "母亲",
+   "properties": {
+    "relation": "母亲"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "林红玉"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "class": "十二优伶",
+    "Name": "龄官"
+   }
+  },
+  "r": {
+   "type": "相好",
+   "properties": {
+    "relation": "相好"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "family": "贾家",
+    "address": "宁国府",
+    "Name": "贾蔷"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "class": "十二优伶",
+    "Name": "蕊官"
+   }
+  },
+  "r": {
+   "type": "相好",
+   "properties": {
+    "relation": "相好"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "class": "十二优伶",
+    "Name": "藕官"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "class": "十二优伶",
+    "Name": "蕊官"
+   }
+  },
+  "r": {
+   "type": "丫环",
+   "properties": {
+    "relation": "丫环"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "address": "蘅芜苑",
+    "family": "薛家",
+    "class": "金陵十二钗(正)",
+    "Name": "薛宝钗"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "class": "十二优伶",
+    "Name": "豆官"
+   }
+  },
+  "r": {
+   "type": "丫环",
+   "properties": {
+    "relation": "丫环"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "family": "薛家",
+    "class": "金陵十二钗(副)",
+    "Name": "薛宝琴"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "class": "十二优伶",
+    "Name": "文官"
+   }
+  },
+  "r": {
+   "type": "丫环",
+   "properties": {
+    "relation": "丫环"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "alias": "史太君",
+    "address": "荣国府",
+    "family": "史家",
+    "Name": "贾母"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "class": "十二优伶",
+    "Name": "茄官"
+   }
+  },
+  "r": {
+   "type": "丫环",
+   "properties": {
+    "relation": "丫环"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "尤氏"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "吴贵"
+   }
+  },
+  "r": {
+   "type": "姑舅哥哥",
+   "properties": {
+    "relation": "姑舅哥哥"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "class": "金陵十二钗(又副)",
+    "Name": "晴雯"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "name": "化",
+    "number": "雨村",
+    "word": "时飞",
+    "Name": "贾雨村"
+   }
+  },
+  "r": {
+   "type": "老师",
+   "properties": {
+    "relation": "老师"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "class": "金陵十二钗(正)",
+    "address": "潇湘馆",
+    "Name": "林黛玉"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "status": "贵顺亲王府的戏子",
+    "Name": "蒋玉菡"
+   }
+  },
+  "r": {
+   "type": "丈夫",
+   "properties": {
+    "relation": "丈夫"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "class": "金陵十二钗(又副)",
+    "Name": "袭人"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "status": "贵顺亲王府的戏子",
+    "Name": "蒋玉菡"
+   }
+  },
+  "r": {
+   "type": "朋友",
+   "properties": {
+    "relation": "朋友"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "family": "贾家",
+    "address": "荣国府",
+    "Name": "贾宝玉"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "class": "金陵十二钗(副)",
+    "Name": "尤三姐"
+   }
+  },
+  "r": {
+   "type": "妹妹",
+   "properties": {
+    "relation": "妹妹"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "尤氏"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "class": "金陵十二钗(副)",
+    "Name": "尤三姐"
+   }
+  },
+  "r": {
+   "type": "妹妹",
+   "properties": {
+    "relation": "妹妹"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "class": "金陵十二钗(副)",
+    "Name": "尤二姐"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "class": "金陵十二钗(副)",
+    "Name": "尤三姐"
+   }
+  },
+  "r": {
+   "type": "女儿",
+   "properties": {
+    "relation": "女儿"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "尤氏继母"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "尤老娘"
+   }
+  },
+  "r": {
+   "type": "母亲",
+   "properties": {
+    "relation": "母亲"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "class": "金陵十二钗(副)",
+    "Name": "尤三姐"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "尤老娘"
+   }
+  },
+  "r": {
+   "type": "母亲",
+   "properties": {
+    "relation": "母亲"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "class": "金陵十二钗(副)",
+    "Name": "尤二姐"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "尤老娘"
+   }
+  },
+  "r": {
+   "type": "继母",
+   "properties": {
+    "relation": "继母"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "尤氏"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "official": "国子监祭酒",
+    "Name": "李守中"
+   }
+  },
+  "r": {
+   "type": "父亲",
+   "properties": {
+    "relation": "父亲"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "class": "金陵十二钗(正)",
+    "address": "稻香村",
+    "Name": "李纨"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "王嬷嬷"
+   }
+  },
+  "r": {
+   "type": "乳母",
+   "properties": {
+    "relation": "乳母"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "class": "金陵十二钗(正)",
+    "address": "潇湘馆",
+    "Name": "林黛玉"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "拐子",
+    "status": "人贩子"
+   }
+  },
+  "r": {
+   "type": "贩卖者",
+   "properties": {
+    "relation": "贩卖者"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "alias": "甄英莲",
+    "class": "金陵十二钗(副)",
+    "Name": "香菱"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "class": "十二优伶",
+    "Name": "艾官"
+   }
+  },
+  "r": {
+   "type": "丫环",
+   "properties": {
+    "relation": "丫环"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "address": "秋爽斋",
+    "family": "贾家",
+    "class": "金陵十二钗(正)",
+    "origin": "庶出",
+    "Name": "贾探春"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "class": "十二优伶",
+    "Name": "葵官"
+   }
+  },
+  "r": {
+   "type": "丫环",
+   "properties": {
+    "relation": "丫环"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "family": "史家",
+    "class": "金陵十二钗(正)",
+    "Name": "史湘云"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "赖嬷嬷"
+   }
+  },
+  "r": {
+   "type": "母亲",
+   "properties": {
+    "relation": "母亲"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "status": "荣国府大管家",
+    "Name": "赖大"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "official": "县官",
+    "Name": "赖尚荣"
+   }
+  },
+  "r": {
+   "type": "儿子",
+   "properties": {
+    "relation": "儿子"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "status": "荣国府大管家",
+    "Name": "赖大"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "official": "县官",
+    "Name": "赖尚荣"
+   }
+  },
+  "r": {
+   "type": "孙子",
+   "properties": {
+    "relation": "孙子"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "赖嬷嬷"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "class": "金陵十二钗(副)",
+    "Name": "娇杏"
+   }
+  },
+  "r": {
+   "type": "妾",
+   "properties": {
+    "relation": "妾"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "name": "化",
+    "number": "雨村",
+    "word": "时飞",
+    "Name": "贾雨村"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "封肃",
+    "status": "地主"
+   }
+  },
+  "r": {
+   "type": "岳父",
+   "properties": {
+    "relation": "岳父"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "name": "费",
+    "word": "士隐",
+    "Name": "甄士隐"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "冷子兴",
+    "status": "古董商"
+   }
+  },
+  "r": {
+   "type": "女婿",
+   "properties": {
+    "relation": "女婿"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "周瑞"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "冷子兴",
+    "status": "古董商"
+   }
+  },
+  "r": {
+   "type": "朋友",
+   "properties": {
+    "relation": "朋友"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "name": "化",
+    "number": "雨村",
+    "word": "时飞",
+    "Name": "贾雨村"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "冷子兴",
+    "status": "古董商"
+   }
+  },
+  "r": {
+   "type": "女婿",
+   "properties": {
+    "relation": "女婿"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "周瑞家的"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "马道婆"
+   }
+  },
+  "r": {
+   "type": "乾娘",
+   "properties": {
+    "relation": "乾娘"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "family": "贾家",
+    "address": "荣国府",
+    "Name": "贾宝玉"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "alias": "能儿",
+    "address": "水月庵",
+    "Name": "智能",
+    "status": "尼姑"
+   }
+  },
+  "r": {
+   "type": "徒弟",
+   "properties": {
+    "relation": "徒弟"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "address": "水月庵",
+    "Name": "净虚",
+    "status": "尼姑"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "alias": "能儿",
+    "address": "水月庵",
+    "Name": "智能",
+    "status": "尼姑"
+   }
+  },
+  "r": {
+   "type": "相好",
+   "properties": {
+    "relation": "相好"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "word": "鲸卿",
+    "Name": "秦钟"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "封氏"
+   }
+  },
+  "r": {
+   "type": "妻",
+   "properties": {
+    "relation": "妻"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "name": "费",
+    "word": "士隐",
+    "Name": "甄士隐"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "status": "神仙",
+    "Name": "神瑛侍者"
+   }
+  },
+  "r": {
+   "type": "前世",
+   "properties": {
+    "relation": "前世"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "family": "贾家",
+    "address": "荣国府",
+    "Name": "贾宝玉"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "严老爷"
+   }
+  },
+  "r": {
+   "type": "朋友",
+   "properties": {
+    "relation": "朋友"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "name": "费",
+    "word": "士隐",
+    "Name": "甄士隐"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "霍启"
+   }
+  },
+  "r": {
+   "type": "仆人",
+   "properties": {
+    "relation": "仆人"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "name": "费",
+    "word": "士隐",
+    "Name": "甄士隐"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "address": "水月庵",
+    "Name": "智善",
+    "status": "尼姑"
+   }
+  },
+  "r": {
+   "type": "徒弟",
+   "properties": {
+    "relation": "徒弟"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "address": "水月庵",
+    "Name": "净虚",
+    "status": "尼姑"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "刘氏"
+   }
+  },
+  "r": {
+   "type": "女儿",
+   "properties": {
+    "relation": "女儿"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "刘姥姥"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "刘氏"
+   }
+  },
+  "r": {
+   "type": "妻",
+   "properties": {
+    "relation": "妻"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "王狗儿"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "单聘仁"
+   }
+  },
+  "r": {
+   "type": "清客相公",
+   "properties": {
+    "relation": "清客相公"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "official": "工部员外郎",
+    "address": "荣国府",
+    "family": "贾家",
+    "word": "存周",
+    "Name": "贾政"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "卜固修"
+   }
+  },
+  "r": {
+   "type": "清客相公",
+   "properties": {
+    "relation": "清客相公"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "official": "工部员外郎",
+    "address": "荣国府",
+    "family": "贾家",
+    "word": "存周",
+    "Name": "贾政"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "goodat": "画美人",
+    "status": "古董行老板",
+    "Name": "程日兴"
+   }
+  },
+  "r": {
+   "type": "清客相公",
+   "properties": {
+    "relation": "清客相公"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "official": "工部员外郎",
+    "address": "荣国府",
+    "family": "贾家",
+    "word": "存周",
+    "Name": "贾政"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "胡斯来"
+   }
+  },
+  "r": {
+   "type": "清客相公",
+   "properties": {
+    "relation": "清客相公"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "official": "工部员外郎",
+    "address": "荣国府",
+    "family": "贾家",
+    "word": "存周",
+    "Name": "贾政"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "张友士"
+   }
+  },
+  "r": {
+   "type": "老师",
+   "properties": {
+    "relation": "老师"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "冯紫英"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "inherit": "一等伯",
+    "Name": "牛继宗"
+   }
+  },
+  "r": {
+   "type": "孙子",
+   "properties": {
+    "relation": "孙子"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "rank": "镇国公",
+    "Name": "牛清"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "inherit": "一等子",
+    "Name": "柳芳"
+   }
+  },
+  "r": {
+   "type": "孙子",
+   "properties": {
+    "relation": "孙子"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "rank": "理国公",
+    "Name": "柳彪"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "inherit": "三品威镇将军",
+    "Name": "陈瑞文"
+   }
+  },
+  "r": {
+   "type": "孙子",
+   "properties": {
+    "relation": "孙子"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "rank": "齐国公",
+    "Name": "陈翼"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "inherit": "三品威远将军",
+    "Name": "马尚"
+   }
+  },
+  "r": {
+   "type": "孙子",
+   "properties": {
+    "relation": "孙子"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "rank": "治国公",
+    "Name": "马魁"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "inherit": "一等子",
+    "Name": "侯孝康"
+   }
+  },
+  "r": {
+   "type": "孙子",
+   "properties": {
+    "relation": "孙子"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "rank": "修国公",
+    "Name": "侯晓明"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "inherit": "二等男",
+    "Name": "谢鲸"
+   }
+  },
+  "r": {
+   "type": "孙子",
+   "properties": {
+    "relation": "孙子"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "定城侯"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "余信家的"
+   }
+  },
+  "r": {
+   "type": "妻",
+   "properties": {
+    "relation": "妻"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "余信",
+    "status": "贾府掌管寺庙月例银子的管家"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "word": "子亮",
+    "Name": "詹光"
+   }
+  },
+  "r": {
+   "type": "清客相公",
+   "properties": {
+    "relation": "清客相公"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "official": "工部员外郎",
+    "address": "荣国府",
+    "family": "贾家",
+    "word": "存周",
+    "Name": "贾政"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "张材家的"
+   }
+  },
+  "r": {
+   "type": "妻",
+   "properties": {
+    "relation": "妻"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "张材"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "石光珠"
+   }
+  },
+  "r": {
+   "type": "孙子",
+   "properties": {
+    "relation": "孙子"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "缮国公"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "inherit": "二等男",
+    "Name": "蒋子宁"
+   }
+  },
+  "r": {
+   "type": "孙子",
+   "properties": {
+    "relation": "孙子"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "平原侯"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "inherit": "二等男",
+    "Name": "戚建辉"
+   }
+  },
+  "r": {
+   "type": "孙子",
+   "properties": {
+    "relation": "孙子"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "襄阳侯"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "孙氏"
+   }
+  },
+  "r": {
+   "type": "保姆",
+   "properties": {
+    "relation": "保姆"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "康熙",
+    "status": "皇帝"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "孙氏"
+   }
+  },
+  "r": {
+   "type": "妻",
+   "properties": {
+    "relation": "妻"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "official": "江宁织造|苏州织造|两淮巡盐御史",
+    "Name": "曹玺"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "花母"
+   }
+  },
+  "r": {
+   "type": "母亲",
+   "properties": {
+    "relation": "母亲"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "class": "金陵十二钗(又副)",
+    "Name": "袭人"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "花自芳"
+   }
+  },
+  "r": {
+   "type": "哥哥",
+   "properties": {
+    "relation": "哥哥"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "class": "金陵十二钗(又副)",
+    "Name": "袭人"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "alias": "灯姑娘",
+    "Name": "多姑娘"
+   }
+  },
+  "r": {
+   "type": "妻",
+   "properties": {
+    "relation": "妻"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "nickname": "多浑虫",
+    "status": "荣国府的酒头厨子",
+    "Name": "多官"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "银姐"
+   }
+  },
+  "r": {
+   "type": "女儿",
+   "properties": {
+    "relation": "女儿"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "status": "香料铺的掌柜",
+    "Name": "卜世仁"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "倪二"
+   }
+  },
+  "r": {
+   "type": "邻居",
+   "properties": {
+    "relation": "邻居"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "贾芸"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "周姨娘"
+   }
+  },
+  "r": {
+   "type": "妾",
+   "properties": {
+    "relation": "妾"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "official": "工部员外郎",
+    "address": "荣国府",
+    "family": "贾家",
+    "word": "存周",
+    "Name": "贾政"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "周奶娘"
+   }
+  },
+  "r": {
+   "type": "乳母",
+   "properties": {
+    "relation": "乳母"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "family": "史家",
+    "class": "金陵十二钗(正)",
+    "Name": "史湘云"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "official": "通判",
+    "Name": "傅试"
+   }
+  },
+  "r": {
+   "type": "门生",
+   "properties": {
+    "relation": "门生"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "official": "工部员外郎",
+    "address": "荣国府",
+    "family": "贾家",
+    "word": "存周",
+    "Name": "贾政"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "赵国基"
+   }
+  },
+  "r": {
+   "type": "弟弟",
+   "properties": {
+    "relation": "弟弟"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "赵姨娘"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "单大娘"
+   }
+  },
+  "r": {
+   "type": "妻",
+   "properties": {
+    "relation": "妻"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "单大良"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "裘良"
+   }
+  },
+  "r": {
+   "type": "孙子",
+   "properties": {
+    "relation": "孙子"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "景田侯"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "吴贵妃"
+   }
+  },
+  "r": {
+   "type": "女儿",
+   "properties": {
+    "relation": "女儿"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "吴天佑"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "吴贵妃"
+   }
+  },
+  "r": {
+   "type": "妃子",
+   "properties": {
+    "relation": "妃子"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "皇帝"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "chapter": "第2回",
+    "address": "荣国府",
+    "family": "贾家",
+    "Name": "贾代善"
+   }
+  },
+  "r": {
+   "type": "父亲",
+   "properties": {
+    "relation": "父亲"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "address": "荣国府",
+    "family": "贾家",
+    "word": "恩侯",
+    "inherit": "荣国公",
+    "Name": "贾赦"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "chapter": "第2回",
+    "address": "荣国府",
+    "family": "贾家",
+    "Name": "贾代善"
+   }
+  },
+  "r": {
+   "type": "父亲",
+   "properties": {
+    "relation": "父亲"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "official": "工部员外郎",
+    "address": "荣国府",
+    "family": "贾家",
+    "word": "存周",
+    "Name": "贾政"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "chapter": "第2回",
+    "address": "荣国府",
+    "family": "贾家",
+    "Name": "贾代善"
+   }
+  },
+  "r": {
+   "type": "丈夫",
+   "properties": {
+    "relation": "丈夫"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "alias": "史太君",
+    "address": "荣国府",
+    "family": "史家",
+    "Name": "贾母"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "chapter": "第2回",
+    "address": "荣国府",
+    "family": "贾家",
+    "Name": "贾代善"
+   }
+  },
+  "r": {
+   "type": "儿子",
+   "properties": {
+    "num": "长子",
+    "relation": "儿子"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "chapter": "第2回",
+    "rank": "荣国公",
+    "alias": "贾法",
+    "address": "荣国府",
+    "family": "贾家",
+    "Name": "贾源"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "chapter": "第2回",
+    "rank": "宁国公",
+    "address": "宁国府",
+    "family": "贾家",
+    "Name": "贾演"
+   }
+  },
+  "r": {
+   "type": "父亲",
+   "properties": {
+    "relation": "父亲"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "chapter": "第2回",
+    "official": "京营节度使",
+    "address": "宁国府",
+    "family": "贾家",
+    "inherit": "一等神威将军",
+    "Name": "贾代化"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "chapter": "第2回",
+    "rank": "宁国公",
+    "address": "宁国府",
+    "family": "贾家",
+    "Name": "贾演"
+   }
+  },
+  "r": {
+   "type": "主人",
+   "properties": {
+    "relation": "主人"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "焦大"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "chapter": "第2回",
+    "rank": "宁国公",
+    "address": "宁国府",
+    "family": "贾家",
+    "Name": "贾演"
+   }
+  },
+  "r": {
+   "type": "胞兄",
+   "properties": {
+    "relation": "胞兄"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "chapter": "第2回",
+    "rank": "荣国公",
+    "alias": "贾法",
+    "address": "荣国府",
+    "family": "贾家",
+    "Name": "贾源"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "chapter": "第2回",
+    "rank": "宁国公",
+    "address": "宁国府",
+    "family": "贾家",
+    "Name": "贾演"
+   }
+  },
+  "r": {
+   "type": "儿子",
+   "properties": {
+    "num": "长子",
+    "relation": "儿子"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "贾太公"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "胡老爷"
+   }
+  },
+  "r": {
+   "type": "父亲",
+   "properties": {
+    "relation": "父亲"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "胡氏"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "赵嬷嬷"
+   }
+  },
+  "r": {
+   "type": "母亲",
+   "properties": {
+    "relation": "母亲"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "赵天栋"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "赵嬷嬷"
+   }
+  },
+  "r": {
+   "type": "母亲",
+   "properties": {
+    "relation": "母亲"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "赵天梁"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "赵嬷嬷"
+   }
+  },
+  "r": {
+   "type": "乳母",
+   "properties": {
+    "relation": "乳母"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "official": "同知",
+    "address": "荣国府",
+    "family": "贾家",
+    "Name": "贾琏"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "吴天佑"
+   }
+  },
+  "r": {
+   "type": "父亲",
+   "properties": {
+    "relation": "父亲"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "吴贵妃"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "status": "香料铺的掌柜",
+    "Name": "卜世仁"
+   }
+  },
+  "r": {
+   "type": "舅舅",
+   "properties": {
+    "relation": "舅舅"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "贾芸"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "傅秋芳"
+   }
+  },
+  "r": {
+   "type": "妹妹",
+   "properties": {
+    "relation": "妹妹"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "official": "通判",
+    "Name": "傅试"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "王君效"
+   }
+  },
+  "r": {
+   "type": "师祖",
+   "properties": {
+    "relation": "师祖"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "alias": "王大夫|王太医",
+    "Name": "王济仁",
+    "status": "太医"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "鲍二家的"
+   }
+  },
+  "r": {
+   "type": "妻",
+   "properties": {
+    "relation": "妻"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "鲍二"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "金彩"
+   }
+  },
+  "r": {
+   "type": "父亲",
+   "properties": {
+    "relation": "父亲"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "class": "金陵十二钗(又副)",
+    "Name": "鸳鸯"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "嫣红"
+   }
+  },
+  "r": {
+   "type": "妾",
+   "properties": {
+    "relation": "妾"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "address": "荣国府",
+    "family": "贾家",
+    "word": "恩侯",
+    "inherit": "荣国公",
+    "Name": "贾赦"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "李婶娘"
+   }
+  },
+  "r": {
+   "type": "婶娘",
+   "properties": {
+    "relation": "婶娘"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "class": "金陵十二钗(正)",
+    "address": "稻香村",
+    "Name": "李纨"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "class": "金陵十二钗(副)",
+    "Name": "李纹"
+   }
+  },
+  "r": {
+   "type": "女儿",
+   "properties": {
+    "relation": "女儿"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "李婶娘"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "class": "金陵十二钗(副)",
+    "Name": "李绮"
+   }
+  },
+  "r": {
+   "type": "堂妹",
+   "properties": {
+    "relation": "堂妹"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "class": "金陵十二钗(正)",
+    "address": "稻香村",
+    "Name": "李纨"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "class": "金陵十二钗(副)",
+    "Name": "李绮"
+   }
+  },
+  "r": {
+   "type": "妹妹",
+   "properties": {
+    "relation": "妹妹"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "class": "金陵十二钗(副)",
+    "Name": "李纹"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "class": "金陵十二钗(副)",
+    "Name": "李绮"
+   }
+  },
+  "r": {
+   "type": "女儿",
+   "properties": {
+    "relation": "女儿"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "李婶娘"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "status": "贾府佣人",
+    "Name": "何婆子"
+   }
+  },
+  "r": {
+   "type": "干娘",
+   "properties": {
+    "relation": "干娘"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "class": "十二优伶",
+    "Name": "芳官"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "status": "贾府佣人",
+    "Name": "何婆子"
+   }
+  },
+  "r": {
+   "type": "母亲",
+   "properties": {
+    "relation": "母亲"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "alias": "小燕",
+    "Name": "春燕"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "status": "荣国府上夜的佣人",
+    "Name": "秦显家的"
+   }
+  },
+  "r": {
+   "type": "婶娘",
+   "properties": {
+    "relation": "婶娘"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "class": "金陵十二钗(又副)",
+    "Name": "司棋"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "四姐"
+   }
+  },
+  "r": {
+   "type": "妹妹",
+   "properties": {
+    "relation": "妹妹"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "status": "贾府远房宗族",
+    "Name": "贾琼"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "潘又安"
+   }
+  },
+  "r": {
+   "type": "姑表弟弟",
+   "properties": {
+    "relation": "姑表弟弟"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "class": "金陵十二钗(又副)",
+    "Name": "司棋"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "邢德全"
+   }
+  },
+  "r": {
+   "type": "胞弟",
+   "properties": {
+    "relation": "胞弟"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "邢夫人"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "文花"
+   }
+  },
+  "r": {
+   "type": "妾",
+   "properties": {
+    "relation": "妾"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "address": "宁国府",
+    "family": "贾家",
+    "inherit": "三品爵威烈将军",
+    "Name": "贾珍"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "official": "江宁织造|苏州织造|两淮巡盐御史",
+    "Name": "曹寅"
+   }
+  },
+  "r": {
+   "type": "陪读御前侍卫",
+   "properties": {
+    "relation": "陪读御前侍卫"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "康熙",
+    "status": "皇帝"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "红楼梦"
+   }
+  },
+  "r": {
+   "type": "版本",
+   "properties": {
+    "relation": "版本"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "人民文学出版社1974年版"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "红楼梦"
+   }
+  },
+  "r": {
+   "type": "版本",
+   "properties": {
+    "relation": "版本"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "人民文学出版社1982年版"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "status": "大观园花草的佣人",
+    "Name": "叶妈"
+   }
+  },
+  "r": {
+   "type": "干娘",
+   "properties": {
+    "relation": "干娘"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "class": "金陵十二钗(又副)",
+    "Name": "莺儿"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "status": "大观园花草的佣人",
+    "Name": "叶妈"
+   }
+  },
+  "r": {
+   "type": "母亲",
+   "properties": {
+    "relation": "母亲"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "茗烟"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "小鸠儿"
+   }
+  },
+  "r": {
+   "type": "妹妹",
+   "properties": {
+    "relation": "妹妹"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "alias": "小燕",
+    "Name": "春燕"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "小鸠儿"
+   }
+  },
+  "r": {
+   "type": "女儿",
+   "properties": {
+    "relation": "女儿"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "status": "贾府佣人",
+    "Name": "何婆子"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "夏婆子"
+   }
+  },
+  "r": {
+   "type": "干娘",
+   "properties": {
+    "relation": "干娘"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "class": "十二优伶",
+    "Name": "藕官"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "夏婆子"
+   }
+  },
+  "r": {
+   "type": "姨妈",
+   "properties": {
+    "relation": "姨妈"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "alias": "小燕",
+    "Name": "春燕"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "status": "贾府做饭的佣人",
+    "Name": "柳家的"
+   }
+  },
+  "r": {
+   "type": "母亲",
+   "properties": {
+    "relation": "母亲"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "class": "金陵十二钗(又副)",
+    "Name": "柳五儿"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "小霞"
+   }
+  },
+  "r": {
+   "type": "妹妹",
+   "properties": {
+    "relation": "妹妹"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "彩霞"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "翠云"
+   }
+  },
+  "r": {
+   "type": "妾",
+   "properties": {
+    "relation": "妾"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "address": "荣国府",
+    "family": "贾家",
+    "word": "恩侯",
+    "inherit": "荣国公",
+    "Name": "贾赦"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "夏奶奶"
+   }
+  },
+  "r": {
+   "type": "母亲",
+   "properties": {
+    "relation": "母亲"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "夏金桂"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "diedof": "1763(乾隆28年)",
+    "name": "霑(zhān)",
+    "number": "雪芹|芹圃|芹溪",
+    "word": "梦阮",
+    "born": "大约1715(康熙54年)",
+    "Name": "曹雪芹"
+   }
+  },
+  "r": {
+   "type": "作者",
+   "properties": {
+    "relation": "作者"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "红楼梦"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "diedof": "1763(乾隆28年)",
+    "name": "霑(zhān)",
+    "number": "雪芹|芹圃|芹溪",
+    "word": "梦阮",
+    "born": "大约1715(康熙54年)",
+    "Name": "曹雪芹"
+   }
+  },
+  "r": {
+   "type": "父亲",
+   "properties": {
+    "relation": "父亲"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "pron": "cáo|fǔ",
+    "official": "江宁织造|苏州织造|两淮巡盐御史",
+    "Name": "曹頫"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "diedof": "1763(乾隆28年)",
+    "name": "霑(zhān)",
+    "number": "雪芹|芹圃|芹溪",
+    "word": "梦阮",
+    "born": "大约1715(康熙54年)",
+    "Name": "曹雪芹"
+   }
+  },
+  "r": {
+   "type": "伯父",
+   "properties": {
+    "relation": "伯父"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "pron": "cáo|yóng",
+    "official": "江宁织造|苏州织造|两淮巡盐御史",
+    "Name": "曹顒"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "diedof": "1763(乾隆28年)",
+    "name": "霑(zhān)",
+    "number": "雪芹|芹圃|芹溪",
+    "word": "梦阮",
+    "born": "大约1715(康熙54年)",
+    "Name": "曹雪芹"
+   }
+  },
+  "r": {
+   "type": "祖父",
+   "properties": {
+    "relation": "祖父"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "official": "江宁织造|苏州织造|两淮巡盐御史",
+    "Name": "曹寅"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "diedof": "1763(乾隆28年)",
+    "name": "霑(zhān)",
+    "number": "雪芹|芹圃|芹溪",
+    "word": "梦阮",
+    "born": "大约1715(康熙54年)",
+    "Name": "曹雪芹"
+   }
+  },
+  "r": {
+   "type": "曾祖父",
+   "properties": {
+    "relation": "曾祖父"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "official": "江宁织造|苏州织造|两淮巡盐御史",
+    "Name": "曹玺"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "diedof": "1763(乾隆28年)",
+    "name": "霑(zhān)",
+    "number": "雪芹|芹圃|芹溪",
+    "word": "梦阮",
+    "born": "大约1715(康熙54年)",
+    "Name": "曹雪芹"
+   }
+  },
+  "r": {
+   "type": "高祖",
+   "properties": {
+    "relation": "高祖"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "official": "一品光禄寺大夫(管理皇室内部事务的官职)",
+    "Name": "曹振彦"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "人民文学出版社1982年版"
+   }
+  },
+  "r": {
+   "type": "底本",
+   "properties": {
+    "relation": "底本"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "脂砚斋重评石头记"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "人民文学出版社1974年版"
+   }
+  },
+  "r": {
+   "type": "底本",
+   "properties": {
+    "relation": "底本"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "程乙本"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "焦大"
+   }
+  },
+  "r": {
+   "type": "老奴",
+   "properties": {
+    "relation": "老奴"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "chapter": "第2回",
+    "rank": "宁国公",
+    "address": "宁国府",
+    "family": "贾家",
+    "Name": "贾演"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "chapter": "第2回",
+    "official": "京营节度使",
+    "address": "宁国府",
+    "family": "贾家",
+    "inherit": "一等神威将军",
+    "Name": "贾代化"
+   }
+  },
+  "r": {
+   "type": "父亲",
+   "properties": {
+    "relation": "父亲"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "education": "丙辰科进士",
+    "address": "宁国府",
+    "family": "贾家",
+    "hobby": "道学",
+    "Name": "贾敬"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "chapter": "第2回",
+    "official": "京营节度使",
+    "address": "宁国府",
+    "family": "贾家",
+    "inherit": "一等神威将军",
+    "Name": "贾代化"
+   }
+  },
+  "r": {
+   "type": "儿子",
+   "properties": {
+    "num": "长子",
+    "relation": "儿子"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "chapter": "第2回",
+    "rank": "宁国公",
+    "address": "宁国府",
+    "family": "贾家",
+    "Name": "贾演"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "邢夫人"
+   }
+  },
+  "r": {
+   "type": "婆婆",
+   "properties": {
+    "relation": "婆婆"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "family": "王家",
+    "class": "金陵十二钗(正)",
+    "Name": "王熙凤"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "邢夫人"
+   }
+  },
+  "r": {
+   "type": "儿媳",
+   "properties": {
+    "relation": "儿媳"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "alias": "史太君",
+    "address": "荣国府",
+    "family": "史家",
+    "Name": "贾母"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "邢夫人"
+   }
+  },
+  "r": {
+   "type": "妻",
+   "properties": {
+    "relation": "妻"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "address": "荣国府",
+    "family": "贾家",
+    "word": "恩侯",
+    "inherit": "荣国公",
+    "Name": "贾赦"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "official": "同知",
+    "address": "荣国府",
+    "family": "贾家",
+    "Name": "贾琏"
+   }
+  },
+  "r": {
+   "type": "父亲",
+   "properties": {
+    "relation": "父亲"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "address": "荣国府",
+    "family": "贾家",
+    "class": "金陵十二钗(正)",
+    "Name": "贾巧姐"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "official": "同知",
+    "address": "荣国府",
+    "family": "贾家",
+    "Name": "贾琏"
+   }
+  },
+  "r": {
+   "type": "丈夫",
+   "properties": {
+    "relation": "丈夫"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "family": "王家",
+    "class": "金陵十二钗(正)",
+    "Name": "王熙凤"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "official": "同知",
+    "address": "荣国府",
+    "family": "贾家",
+    "Name": "贾琏"
+   }
+  },
+  "r": {
+   "type": "儿子",
+   "properties": {
+    "num": "长子",
+    "relation": "儿子"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "address": "荣国府",
+    "family": "贾家",
+    "word": "恩侯",
+    "inherit": "荣国公",
+    "Name": "贾赦"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "address": "缀锦楼",
+    "family": "贾家",
+    "class": "金陵十二钗(正)",
+    "origin": "庶出",
+    "Name": "贾迎春"
+   }
+  },
+  "r": {
+   "type": "妻",
+   "properties": {
+    "relation": "妻"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "status": "贾府世交之后",
+    "Name": "孙绍祖"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "address": "缀锦楼",
+    "family": "贾家",
+    "class": "金陵十二钗(正)",
+    "origin": "庶出",
+    "Name": "贾迎春"
+   }
+  },
+  "r": {
+   "type": "女儿",
+   "properties": {
+    "num": "长女",
+    "relation": "女儿"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "address": "荣国府",
+    "family": "贾家",
+    "word": "恩侯",
+    "inherit": "荣国公",
+    "Name": "贾赦"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "金氏"
+   }
+  },
+  "r": {
+   "type": "妻",
+   "properties": {
+    "relation": "妻"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "family": "贾家",
+    "Name": "贾璜"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "金氏"
+   }
+  },
+  "r": {
+   "type": "姑妈",
+   "properties": {
+    "relation": "姑妈"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "金荣"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "class": "金陵十二钗(正)",
+    "Name": "秦可卿"
+   }
+  },
+  "r": {
+   "type": "妻",
+   "properties": {
+    "relation": "妻"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "official": "监生|五品龙禁尉",
+    "address": "宁国府",
+    "family": "贾家",
+    "Name": "贾蓉"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "胡氏"
+   }
+  },
+  "r": {
+   "type": "妻",
+   "properties": {
+    "from": "程本",
+    "relation": "妻"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "official": "监生|五品龙禁尉",
+    "address": "宁国府",
+    "family": "贾家",
+    "Name": "贾蓉"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "胡氏"
+   }
+  },
+  "r": {
+   "type": "母亲",
+   "properties": {
+    "relation": "母亲"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "金荣"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "family": "贾家",
+    "address": "宁国府",
+    "Name": "贾蔷"
+   }
+  },
+  "r": {
+   "type": "养子",
+   "properties": {
+    "relation": "养子"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "address": "宁国府",
+    "family": "贾家",
+    "inherit": "三品爵威烈将军",
+    "Name": "贾珍"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "贾菌"
+   }
+  },
+  "r": {
+   "type": "儿子",
+   "properties": {
+    "relation": "儿子"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "娄氏"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "贾芸"
+   }
+  },
+  "r": {
+   "type": "干儿子",
+   "properties": {
+    "relation": "干儿子"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "family": "贾家",
+    "address": "荣国府",
+    "Name": "贾宝玉"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "贾芸"
+   }
+  },
+  "r": {
+   "type": "儿子",
+   "properties": {
+    "relation": "儿子"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "五嫂子"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "贾芹",
+    "status": "铁槛寺和尚道士的总管"
+   }
+  },
+  "r": {
+   "type": "儿子",
+   "properties": {
+    "relation": "儿子"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "周氏"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "education": "丙辰科进士",
+    "address": "宁国府",
+    "family": "贾家",
+    "hobby": "道学",
+    "Name": "贾敬"
+   }
+  },
+  "r": {
+   "type": "父亲",
+   "properties": {
+    "relation": "父亲"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "address": "宁国府",
+    "family": "贾家",
+    "inherit": "三品爵威烈将军",
+    "Name": "贾珍"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "education": "丙辰科进士",
+    "address": "宁国府",
+    "family": "贾家",
+    "hobby": "道学",
+    "Name": "贾敬"
+   }
+  },
+  "r": {
+   "type": "儿子",
+   "properties": {
+    "num": "次子",
+    "relation": "儿子"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "chapter": "第2回",
+    "official": "京营节度使",
+    "address": "宁国府",
+    "family": "贾家",
+    "inherit": "一等神威将军",
+    "Name": "贾代化"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "family": "贾家",
+    "address": "宁国府",
+    "Name": "贾敷"
+   }
+  },
+  "r": {
+   "type": "儿子",
+   "properties": {
+    "num": "长子",
+    "relation": "儿子"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "chapter": "第2回",
+    "official": "京营节度使",
+    "address": "宁国府",
+    "family": "贾家",
+    "inherit": "一等神威将军",
+    "Name": "贾代化"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "family": "王家",
+    "Name": "王夫人"
+   }
+  },
+  "r": {
+   "type": "母亲",
+   "properties": {
+    "relation": "母亲"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "family": "贾家",
+    "address": "荣国府",
+    "Name": "贾宝玉"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "family": "王家",
+    "Name": "王夫人"
+   }
+  },
+  "r": {
+   "type": "母亲",
+   "properties": {
+    "relation": "母亲"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "address": "皇宫",
+    "family": "贾家",
+    "class": "金陵十二钗(正)",
+    "Name": "贾元春"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "family": "王家",
+    "Name": "王夫人"
+   }
+  },
+  "r": {
+   "type": "母亲",
+   "properties": {
+    "relation": "母亲"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "family": "贾家",
+    "address": "荣国府",
+    "Name": "贾珠"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "family": "王家",
+    "Name": "王夫人"
+   }
+  },
+  "r": {
+   "type": "姐姐",
+   "properties": {
+    "relation": "姐姐"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "family": "薛家",
+    "Name": "薛姨妈"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "family": "王家",
+    "Name": "王夫人"
+   }
+  },
+  "r": {
+   "type": "妻",
+   "properties": {
+    "relation": "妻"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "official": "工部员外郎",
+    "address": "荣国府",
+    "family": "贾家",
+    "word": "存周",
+    "Name": "贾政"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "family": "王家",
+    "Name": "王夫人"
+   }
+  },
+  "r": {
+   "type": "儿媳",
+   "properties": {
+    "relation": "儿媳"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "alias": "史太君",
+    "address": "荣国府",
+    "family": "史家",
+    "Name": "贾母"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "family": "贾家",
+    "address": "荣国府",
+    "Name": "贾珠"
+   }
+  },
+  "r": {
+   "type": "哥哥",
+   "properties": {
+    "relation": "哥哥"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "family": "贾家",
+    "address": "荣国府",
+    "Name": "贾宝玉"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "family": "贾家",
+    "address": "荣国府",
+    "Name": "贾珠"
+   }
+  },
+  "r": {
+   "type": "丈夫",
+   "properties": {
+    "relation": "丈夫"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "class": "金陵十二钗(正)",
+    "address": "稻香村",
+    "Name": "李纨"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "family": "贾家",
+    "address": "荣国府",
+    "Name": "贾珠"
+   }
+  },
+  "r": {
+   "type": "儿子",
+   "properties": {
+    "num": "长子",
+    "relation": "儿子"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "official": "工部员外郎",
+    "address": "荣国府",
+    "family": "贾家",
+    "word": "存周",
+    "Name": "贾政"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "family": "贾家",
+    "address": "荣国府",
+    "Name": "贾珠"
+   }
+  },
+  "r": {
+   "type": "儿子",
+   "properties": {
+    "num": "长子",
+    "relation": "儿子"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "family": "王家",
+    "Name": "王夫人"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "address": "皇宫",
+    "family": "贾家",
+    "class": "金陵十二钗(正)",
+    "Name": "贾元春"
+   }
+  },
+  "r": {
+   "type": "妃子",
+   "properties": {
+    "title": "贤德妃",
+    "relation": "妃子"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "皇帝"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "address": "皇宫",
+    "family": "贾家",
+    "class": "金陵十二钗(正)",
+    "Name": "贾元春"
+   }
+  },
+  "r": {
+   "type": "姐姐",
+   "properties": {
+    "relation": "姐姐"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "family": "贾家",
+    "address": "荣国府",
+    "Name": "贾宝玉"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "address": "皇宫",
+    "family": "贾家",
+    "class": "金陵十二钗(正)",
+    "Name": "贾元春"
+   }
+  },
+  "r": {
+   "type": "女儿",
+   "properties": {
+    "relation": "女儿"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "family": "王家",
+    "Name": "王夫人"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "address": "皇宫",
+    "family": "贾家",
+    "class": "金陵十二钗(正)",
+    "Name": "贾元春"
+   }
+  },
+  "r": {
+   "type": "女儿",
+   "properties": {
+    "num": "长女",
+    "relation": "女儿"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "official": "工部员外郎",
+    "address": "荣国府",
+    "family": "贾家",
+    "word": "存周",
+    "Name": "贾政"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "family": "贾家",
+    "address": "荣国府",
+    "Name": "贾宝玉"
+   }
+  },
+  "r": {
+   "type": "儿子",
+   "properties": {
+    "num": "次子",
+    "relation": "儿子"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "official": "工部员外郎",
+    "address": "荣国府",
+    "family": "贾家",
+    "word": "存周",
+    "Name": "贾政"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "family": "贾家",
+    "address": "荣国府",
+    "Name": "贾宝玉"
+   }
+  },
+  "r": {
+   "type": "儿子",
+   "properties": {
+    "num": "次子",
+    "relation": "儿子"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "family": "王家",
+    "Name": "王夫人"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "family": "贾家",
+    "address": "荣国府",
+    "Name": "贾宝玉"
+   }
+  },
+  "r": {
+   "type": "丈夫",
+   "properties": {
+    "relation": "丈夫"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "address": "蘅芜苑",
+    "family": "薛家",
+    "class": "金陵十二钗(正)",
+    "Name": "薛宝钗"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "family": "贾家",
+    "address": "荣国府",
+    "Name": "贾宝玉"
+   }
+  },
+  "r": {
+   "type": "孙子",
+   "properties": {
+    "relation": "孙子"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "chapter": "第2回",
+    "address": "荣国府",
+    "family": "贾家",
+    "Name": "贾代善"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "family": "贾家",
+    "address": "荣国府",
+    "Name": "贾宝玉"
+   }
+  },
+  "r": {
+   "type": "弟弟",
+   "properties": {
+    "relation": "弟弟"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "family": "贾家",
+    "address": "荣国府",
+    "Name": "贾珠"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "family": "贾家",
+    "address": "荣国府",
+    "Name": "贾宝玉"
+   }
+  },
+  "r": {
+   "type": "表兄",
+   "properties": {
+    "relation": "表兄"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "class": "金陵十二钗(正)",
+    "address": "潇湘馆",
+    "Name": "林黛玉"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "family": "贾家",
+    "origin": "庶出",
+    "Name": "贾环"
+   }
+  },
+  "r": {
+   "type": "儿子",
+   "properties": {
+    "relation": "儿子"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "赵姨娘"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "family": "贾家",
+    "origin": "庶出",
+    "Name": "贾环"
+   }
+  },
+  "r": {
+   "type": "儿子",
+   "properties": {
+    "num": "三子",
+    "relation": "儿子"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "official": "工部员外郎",
+    "address": "荣国府",
+    "family": "贾家",
+    "word": "存周",
+    "Name": "贾政"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "address": "秋爽斋",
+    "family": "贾家",
+    "class": "金陵十二钗(正)",
+    "origin": "庶出",
+    "Name": "贾探春"
+   }
+  },
+  "r": {
+   "type": "女儿",
+   "properties": {
+    "relation": "女儿"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "赵姨娘"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "address": "秋爽斋",
+    "family": "贾家",
+    "class": "金陵十二钗(正)",
+    "origin": "庶出",
+    "Name": "贾探春"
+   }
+  },
+  "r": {
+   "type": "女儿",
+   "properties": {
+    "relation": "女儿"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "official": "工部员外郎",
+    "address": "荣国府",
+    "family": "贾家",
+    "word": "存周",
+    "Name": "贾政"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "尤氏"
+   }
+  },
+  "r": {
+   "type": "母亲",
+   "properties": {
+    "relation": "母亲"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "address": "蓼风轩",
+    "family": "贾家",
+    "class": "金陵十二钗(正)",
+    "Name": "贾惜春"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "尤氏"
+   }
+  },
+  "r": {
+   "type": "妻",
+   "properties": {
+    "relation": "妻"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "address": "宁国府",
+    "family": "贾家",
+    "inherit": "三品爵威烈将军",
+    "Name": "贾珍"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "official": "监生|五品龙禁尉",
+    "address": "宁国府",
+    "family": "贾家",
+    "Name": "贾蓉"
+   }
+  },
+  "r": {
+   "type": "丈夫",
+   "properties": {
+    "from": "脂本",
+    "relation": "丈夫"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "许氏"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "official": "监生|五品龙禁尉",
+    "address": "宁国府",
+    "family": "贾家",
+    "Name": "贾蓉"
+   }
+  },
+  "r": {
+   "type": "丈夫",
+   "properties": {
+    "from": "程本",
+    "relation": "丈夫"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "胡氏"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "official": "监生|五品龙禁尉",
+    "address": "宁国府",
+    "family": "贾家",
+    "Name": "贾蓉"
+   }
+  },
+  "r": {
+   "type": "丈夫",
+   "properties": {
+    "relation": "丈夫"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "class": "金陵十二钗(正)",
+    "Name": "秦可卿"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "official": "监生|五品龙禁尉",
+    "address": "宁国府",
+    "family": "贾家",
+    "Name": "贾蓉"
+   }
+  },
+  "r": {
+   "type": "儿子",
+   "properties": {
+    "relation": "儿子"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "address": "宁国府",
+    "family": "贾家",
+    "inherit": "三品爵威烈将军",
+    "Name": "贾珍"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "address": "蓼风轩",
+    "family": "贾家",
+    "class": "金陵十二钗(正)",
+    "Name": "贾惜春"
+   }
+  },
+  "r": {
+   "type": "胞妹",
+   "properties": {
+    "relation": "胞妹"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "address": "宁国府",
+    "family": "贾家",
+    "inherit": "三品爵威烈将军",
+    "Name": "贾珍"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "address": "蓼风轩",
+    "family": "贾家",
+    "class": "金陵十二钗(正)",
+    "Name": "贾惜春"
+   }
+  },
+  "r": {
+   "type": "女儿",
+   "properties": {
+    "relation": "女儿"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "尤氏"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "address": "蓼风轩",
+    "family": "贾家",
+    "class": "金陵十二钗(正)",
+    "Name": "贾惜春"
+   }
+  },
+  "r": {
+   "type": "女儿",
+   "properties": {
+    "relation": "女儿"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "education": "丙辰科进士",
+    "address": "宁国府",
+    "family": "贾家",
+    "hobby": "道学",
+    "Name": "贾敬"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "class": "金陵十二钗(正)",
+    "address": "稻香村",
+    "Name": "李纨"
+   }
+  },
+  "r": {
+   "type": "父亲",
+   "properties": {
+    "relation": "父亲"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "official": "国子监祭酒",
+    "Name": "李守中"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "class": "金陵十二钗(正)",
+    "address": "稻香村",
+    "Name": "李纨"
+   }
+  },
+  "r": {
+   "type": "嫂子",
+   "properties": {
+    "relation": "嫂子"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "family": "贾家",
+    "address": "荣国府",
+    "Name": "贾宝玉"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "class": "金陵十二钗(正)",
+    "address": "稻香村",
+    "Name": "李纨"
+   }
+  },
+  "r": {
+   "type": "妻",
+   "properties": {
+    "relation": "妻"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "family": "贾家",
+    "address": "荣国府",
+    "Name": "贾珠"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "family": "贾家",
+    "Name": "贾璜"
+   }
+  },
+  "r": {
+   "type": "丈夫",
+   "properties": {
+    "relation": "丈夫"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "金氏"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "family": "贾家",
+    "address": "荣国府",
+    "Name": "贾兰"
+   }
+  },
+  "r": {
+   "type": "儿子",
+   "properties": {
+    "relation": "儿子"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "class": "金陵十二钗(正)",
+    "address": "稻香村",
+    "Name": "李纨"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "family": "贾家",
+    "address": "荣国府",
+    "Name": "贾兰"
+   }
+  },
+  "r": {
+   "type": "儿子",
+   "properties": {
+    "num": "长子",
+    "relation": "儿子"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "family": "贾家",
+    "address": "荣国府",
+    "Name": "贾珠"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "刘姥姥"
+   }
+  },
+  "r": {
+   "type": "岳母",
+   "properties": {
+    "relation": "岳母"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "王狗儿"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "family": "薛家",
+    "Name": "薛蝌"
+   }
+  },
+  "r": {
+   "type": "侄子",
+   "properties": {
+    "relation": "侄子"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "family": "薛家",
+    "Name": "薛姨妈"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "alias": "甄英莲",
+    "class": "金陵十二钗(副)",
+    "Name": "香菱"
+   }
+  },
+  "r": {
+   "type": "女儿",
+   "properties": {
+    "relation": "女儿"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "name": "费",
+    "word": "士隐",
+    "Name": "甄士隐"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "alias": "甄英莲",
+    "class": "金陵十二钗(副)",
+    "Name": "香菱"
+   }
+  },
+  "r": {
+   "type": "妾",
+   "properties": {
+    "relation": "妾"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "family": "薛家",
+    "word": "文起",
+    "Name": "薛蟠"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "甄宝玉"
+   }
+  },
+  "r": {
+   "type": "儿子",
+   "properties": {
+    "relation": "儿子"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "甄应嘉"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "alias": "史太君",
+    "address": "荣国府",
+    "family": "史家",
+    "Name": "贾母"
+   }
+  },
+  "r": {
+   "type": "奶奶",
+   "properties": {
+    "relation": "奶奶"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "family": "贾家",
+    "address": "荣国府",
+    "Name": "贾宝玉"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "alias": "史太君",
+    "address": "荣国府",
+    "family": "史家",
+    "Name": "贾母"
+   }
+  },
+  "r": {
+   "type": "外祖母",
+   "properties": {
+    "relation": "外祖母"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "class": "金陵十二钗(正)",
+    "address": "潇湘馆",
+    "Name": "林黛玉"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "alias": "史太君",
+    "address": "荣国府",
+    "family": "史家",
+    "Name": "贾母"
+   }
+  },
+  "r": {
+   "type": "婆婆",
+   "properties": {
+    "relation": "婆婆"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "邢夫人"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "alias": "史太君",
+    "address": "荣国府",
+    "family": "史家",
+    "Name": "贾母"
+   }
+  },
+  "r": {
+   "type": "母亲",
+   "properties": {
+    "relation": "母亲"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "address": "荣国府",
+    "family": "贾家",
+    "word": "恩侯",
+    "inherit": "荣国公",
+    "Name": "贾赦"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "alias": "史太君",
+    "address": "荣国府",
+    "family": "史家",
+    "Name": "贾母"
+   }
+  },
+  "r": {
+   "type": "妻",
+   "properties": {
+    "relation": "妻"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "chapter": "第2回",
+    "address": "荣国府",
+    "family": "贾家",
+    "Name": "贾代善"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "official": "工部员外郎",
+    "address": "荣国府",
+    "family": "贾家",
+    "word": "存周",
+    "Name": "贾政"
+   }
+  },
+  "r": {
+   "type": "弟弟",
+   "properties": {
+    "relation": "弟弟"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "address": "荣国府",
+    "family": "贾家",
+    "word": "恩侯",
+    "inherit": "荣国公",
+    "Name": "贾赦"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "official": "工部员外郎",
+    "address": "荣国府",
+    "family": "贾家",
+    "word": "存周",
+    "Name": "贾政"
+   }
+  },
+  "r": {
+   "type": "父亲",
+   "properties": {
+    "relation": "父亲"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "address": "秋爽斋",
+    "family": "贾家",
+    "class": "金陵十二钗(正)",
+    "origin": "庶出",
+    "Name": "贾探春"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "official": "工部员外郎",
+    "address": "荣国府",
+    "family": "贾家",
+    "word": "存周",
+    "Name": "贾政"
+   }
+  },
+  "r": {
+   "type": "父亲",
+   "properties": {
+    "relation": "父亲"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "family": "贾家",
+    "origin": "庶出",
+    "Name": "贾环"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "official": "工部员外郎",
+    "address": "荣国府",
+    "family": "贾家",
+    "word": "存周",
+    "Name": "贾政"
+   }
+  },
+  "r": {
+   "type": "父亲",
+   "properties": {
+    "relation": "父亲"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "family": "贾家",
+    "address": "荣国府",
+    "Name": "贾宝玉"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "official": "工部员外郎",
+    "address": "荣国府",
+    "family": "贾家",
+    "word": "存周",
+    "Name": "贾政"
+   }
+  },
+  "r": {
+   "type": "父亲",
+   "properties": {
+    "relation": "父亲"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "address": "皇宫",
+    "family": "贾家",
+    "class": "金陵十二钗(正)",
+    "Name": "贾元春"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "official": "工部员外郎",
+    "address": "荣国府",
+    "family": "贾家",
+    "word": "存周",
+    "Name": "贾政"
+   }
+  },
+  "r": {
+   "type": "父亲",
+   "properties": {
+    "relation": "父亲"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "family": "贾家",
+    "address": "荣国府",
+    "Name": "贾珠"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "official": "工部员外郎",
+    "address": "荣国府",
+    "family": "贾家",
+    "word": "存周",
+    "Name": "贾政"
+   }
+  },
+  "r": {
+   "type": "丈夫",
+   "properties": {
+    "relation": "丈夫"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "family": "王家",
+    "Name": "王夫人"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "official": "工部员外郎",
+    "address": "荣国府",
+    "family": "贾家",
+    "word": "存周",
+    "Name": "贾政"
+   }
+  },
+  "r": {
+   "type": "儿子",
+   "properties": {
+    "num": "次子",
+    "relation": "儿子"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "alias": "史太君",
+    "address": "荣国府",
+    "family": "史家",
+    "Name": "贾母"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "official": "工部员外郎",
+    "address": "荣国府",
+    "family": "贾家",
+    "word": "存周",
+    "Name": "贾政"
+   }
+  },
+  "r": {
+   "type": "儿子",
+   "properties": {
+    "num": "次子",
+    "relation": "儿子"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "chapter": "第2回",
+    "address": "荣国府",
+    "family": "贾家",
+    "Name": "贾代善"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "address": "荣国府",
+    "family": "贾家",
+    "word": "恩侯",
+    "inherit": "荣国公",
+    "Name": "贾赦"
+   }
+  },
+  "r": {
+   "type": "哥哥",
+   "properties": {
+    "relation": "哥哥"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "official": "工部员外郎",
+    "address": "荣国府",
+    "family": "贾家",
+    "word": "存周",
+    "Name": "贾政"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "address": "荣国府",
+    "family": "贾家",
+    "word": "恩侯",
+    "inherit": "荣国公",
+    "Name": "贾赦"
+   }
+  },
+  "r": {
+   "type": "父亲",
+   "properties": {
+    "relation": "父亲"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "address": "缀锦楼",
+    "family": "贾家",
+    "class": "金陵十二钗(正)",
+    "origin": "庶出",
+    "Name": "贾迎春"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "address": "荣国府",
+    "family": "贾家",
+    "word": "恩侯",
+    "inherit": "荣国公",
+    "Name": "贾赦"
+   }
+  },
+  "r": {
+   "type": "父亲",
+   "properties": {
+    "relation": "父亲"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "official": "同知",
+    "address": "荣国府",
+    "family": "贾家",
+    "Name": "贾琏"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "address": "荣国府",
+    "family": "贾家",
+    "word": "恩侯",
+    "inherit": "荣国公",
+    "Name": "贾赦"
+   }
+  },
+  "r": {
+   "type": "丈夫",
+   "properties": {
+    "relation": "丈夫"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "邢夫人"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "address": "荣国府",
+    "family": "贾家",
+    "word": "恩侯",
+    "inherit": "荣国公",
+    "Name": "贾赦"
+   }
+  },
+  "r": {
+   "type": "儿子",
+   "properties": {
+    "num": "长子",
+    "relation": "儿子"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "alias": "史太君",
+    "address": "荣国府",
+    "family": "史家",
+    "Name": "贾母"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "address": "荣国府",
+    "family": "贾家",
+    "word": "恩侯",
+    "inherit": "荣国公",
+    "Name": "贾赦"
+   }
+  },
+  "r": {
+   "type": "儿子",
+   "properties": {
+    "num": "长子",
+    "relation": "儿子"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "chapter": "第2回",
+    "address": "荣国府",
+    "family": "贾家",
+    "Name": "贾代善"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "address": "宁国府",
+    "family": "贾家",
+    "inherit": "三品爵威烈将军",
+    "Name": "贾珍"
+   }
+  },
+  "r": {
+   "type": "胞兄",
+   "properties": {
+    "relation": "胞兄"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "address": "蓼风轩",
+    "family": "贾家",
+    "class": "金陵十二钗(正)",
+    "Name": "贾惜春"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "address": "宁国府",
+    "family": "贾家",
+    "inherit": "三品爵威烈将军",
+    "Name": "贾珍"
+   }
+  },
+  "r": {
+   "type": "父亲",
+   "properties": {
+    "relation": "父亲"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "official": "监生|五品龙禁尉",
+    "address": "宁国府",
+    "family": "贾家",
+    "Name": "贾蓉"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "address": "宁国府",
+    "family": "贾家",
+    "inherit": "三品爵威烈将军",
+    "Name": "贾珍"
+   }
+  },
+  "r": {
+   "type": "丈夫",
+   "properties": {
+    "relation": "丈夫"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "尤氏"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "address": "宁国府",
+    "family": "贾家",
+    "inherit": "三品爵威烈将军",
+    "Name": "贾珍"
+   }
+  },
+  "r": {
+   "type": "儿子",
+   "properties": {
+    "relation": "儿子"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "education": "丙辰科进士",
+    "address": "宁国府",
+    "family": "贾家",
+    "hobby": "道学",
+    "Name": "贾敬"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "family": "贾家",
+    "Name": "贾敏"
+   }
+  },
+  "r": {
+   "type": "母亲",
+   "properties": {
+    "relation": "母亲"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "class": "金陵十二钗(正)",
+    "address": "潇湘馆",
+    "Name": "林黛玉"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "family": "贾家",
+    "Name": "贾敏"
+   }
+  },
+  "r": {
+   "type": "妻",
+   "properties": {
+    "relation": "妻"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "official": "前科探花|兰台寺大夫|巡盐御史",
+    "Name": "林如海"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "family": "贾家",
+    "Name": "贾敏"
+   }
+  },
+  "r": {
+   "type": "妹妹",
+   "properties": {
+    "relation": "妹妹"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "address": "荣国府",
+    "family": "贾家",
+    "word": "恩侯",
+    "inherit": "荣国公",
+    "Name": "贾赦"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "family": "贾家",
+    "Name": "贾敏"
+   }
+  },
+  "r": {
+   "type": "妹妹",
+   "properties": {
+    "relation": "妹妹"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "official": "工部员外郎",
+    "address": "荣国府",
+    "family": "贾家",
+    "word": "存周",
+    "Name": "贾政"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "family": "贾家",
+    "Name": "贾敏"
+   }
+  },
+  "r": {
+   "type": "女儿",
+   "properties": {
+    "relation": "女儿"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "alias": "史太君",
+    "address": "荣国府",
+    "family": "史家",
+    "Name": "贾母"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "family": "贾家",
+    "Name": "贾敏"
+   }
+  },
+  "r": {
+   "type": "女儿",
+   "properties": {
+    "num": "第4女",
+    "relation": "女儿"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "chapter": "第2回",
+    "address": "荣国府",
+    "family": "贾家",
+    "Name": "贾代善"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "chapter": "第2回",
+    "rank": "荣国公",
+    "alias": "贾法",
+    "address": "荣国府",
+    "family": "贾家",
+    "Name": "贾源"
+   }
+  },
+  "r": {
+   "type": "胞弟",
+   "properties": {
+    "relation": "胞弟"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "chapter": "第2回",
+    "rank": "宁国公",
+    "address": "宁国府",
+    "family": "贾家",
+    "Name": "贾演"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "chapter": "第2回",
+    "rank": "荣国公",
+    "alias": "贾法",
+    "address": "荣国府",
+    "family": "贾家",
+    "Name": "贾源"
+   }
+  },
+  "r": {
+   "type": "父亲",
+   "properties": {
+    "relation": "父亲"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "chapter": "第2回",
+    "address": "荣国府",
+    "family": "贾家",
+    "Name": "贾代善"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "chapter": "第2回",
+    "rank": "荣国公",
+    "alias": "贾法",
+    "address": "荣国府",
+    "family": "贾家",
+    "Name": "贾源"
+   }
+  },
+  "r": {
+   "type": "儿子",
+   "properties": {
+    "num": "次子",
+    "relation": "儿子"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "贾太公"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "official": "前科探花|兰台寺大夫|巡盐御史",
+    "Name": "林如海"
+   }
+  },
+  "r": {
+   "type": "父亲",
+   "properties": {
+    "relation": "父亲"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "class": "金陵十二钗(正)",
+    "address": "潇湘馆",
+    "Name": "林黛玉"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "official": "前科探花|兰台寺大夫|巡盐御史",
+    "Name": "林如海"
+   }
+  },
+  "r": {
+   "type": "丈夫",
+   "properties": {
+    "relation": "丈夫"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "family": "贾家",
+    "Name": "贾敏"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "class": "金陵十二钗(正)",
+    "address": "潇湘馆",
+    "Name": "林黛玉"
+   }
+  },
+  "r": {
+   "type": "女儿",
+   "properties": {
+    "relation": "女儿"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "family": "贾家",
+    "Name": "贾敏"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "class": "金陵十二钗(正)",
+    "address": "潇湘馆",
+    "Name": "林黛玉"
+   }
+  },
+  "r": {
+   "type": "表妹",
+   "properties": {
+    "relation": "表妹"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "family": "贾家",
+    "address": "荣国府",
+    "Name": "贾宝玉"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "class": "金陵十二钗(正)",
+    "address": "潇湘馆",
+    "Name": "林黛玉"
+   }
+  },
+  "r": {
+   "type": "外孙女",
+   "properties": {
+    "relation": "外孙女"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "alias": "史太君",
+    "address": "荣国府",
+    "family": "史家",
+    "Name": "贾母"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "class": "金陵十二钗(正)",
+    "address": "潇湘馆",
+    "Name": "林黛玉"
+   }
+  },
+  "r": {
+   "type": "女儿",
+   "properties": {
+    "relation": "女儿"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "official": "前科探花|兰台寺大夫|巡盐御史",
+    "Name": "林如海"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "address": "蘅芜苑",
+    "family": "薛家",
+    "class": "金陵十二钗(正)",
+    "Name": "薛宝钗"
+   }
+  },
+  "r": {
+   "type": "女儿",
+   "properties": {
+    "relation": "女儿"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "family": "薛家",
+    "Name": "薛姨妈"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "address": "蘅芜苑",
+    "family": "薛家",
+    "class": "金陵十二钗(正)",
+    "Name": "薛宝钗"
+   }
+  },
+  "r": {
+   "type": "妻",
+   "properties": {
+    "relation": "妻"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "family": "贾家",
+    "address": "荣国府",
+    "Name": "贾宝玉"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "family": "贾家",
+    "Name": "贾瑞"
+   }
+  },
+  "r": {
+   "type": "孙子",
+   "properties": {
+    "relation": "孙子"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "chapter": "第8回",
+    "Name": "贾代儒",
+    "status": "贾府“代”字辈非嫡派宗族远亲"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "family": "贾家",
+    "origin": "庶出",
+    "Name": "贾琮"
+   }
+  },
+  "r": {
+   "type": "儿子",
+   "properties": {
+    "num": "次子",
+    "relation": "儿子"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "address": "荣国府",
+    "family": "贾家",
+    "word": "恩侯",
+    "inherit": "荣国公",
+    "Name": "贾赦"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "许氏"
+   }
+  },
+  "r": {
+   "type": "妻",
+   "properties": {
+    "from": "脂本",
+    "relation": "妻"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "official": "监生|五品龙禁尉",
+    "address": "宁国府",
+    "family": "贾家",
+    "Name": "贾蓉"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "娄氏"
+   }
+  },
+  "r": {
+   "type": "母亲",
+   "properties": {
+    "relation": "母亲"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "贾菌"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "王仁"
+   }
+  },
+  "r": {
+   "type": "哥哥",
+   "properties": {
+    "relation": "哥哥"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "family": "王家",
+    "class": "金陵十二钗(正)",
+    "Name": "王熙凤"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "address": "栊翠庵",
+    "class": "金陵十二钗(正)",
+    "status": "尼姑",
+    "Name": "妙玉"
+   }
+  },
+  "r": {
+   "type": "朋友",
+   "properties": {
+    "relation": "朋友"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "family": "贾家",
+    "address": "荣国府",
+    "Name": "贾宝玉"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "address": "栊翠庵",
+    "class": "金陵十二钗(正)",
+    "status": "尼姑",
+    "Name": "妙玉"
+   }
+  },
+  "r": {
+   "type": "朋友",
+   "properties": {
+    "relation": "朋友"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "class": "金陵十二钗(正)",
+    "address": "潇湘馆",
+    "Name": "林黛玉"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "王板儿"
+   }
+  },
+  "r": {
+   "type": "外孙",
+   "properties": {
+    "relation": "外孙"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "刘姥姥"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "王板儿"
+   }
+  },
+  "r": {
+   "type": "孙子",
+   "properties": {
+    "relation": "孙子"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "status": "王家的远亲",
+    "Name": "王成"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "王板儿"
+   }
+  },
+  "r": {
+   "type": "儿子",
+   "properties": {
+    "relation": "儿子"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "王狗儿"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "王板儿"
+   }
+  },
+  "r": {
+   "type": "丈夫",
+   "properties": {
+    "relation": "丈夫"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "address": "荣国府",
+    "family": "贾家",
+    "class": "金陵十二钗(正)",
+    "Name": "贾巧姐"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "pron": "qǐ|xiàn",
+    "alias": "绮霞",
+    "Name": "绮霰"
+   }
+  },
+  "r": {
+   "type": "丫环",
+   "properties": {
+    "relation": "丫环"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "family": "贾家",
+    "address": "荣国府",
+    "Name": "贾宝玉"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "檀云"
+   }
+  },
+  "r": {
+   "type": "丫环",
+   "properties": {
+    "relation": "丫环"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "family": "贾家",
+    "address": "荣国府",
+    "Name": "贾宝玉"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "alias": "小燕",
+    "Name": "春燕"
+   }
+  },
+  "r": {
+   "type": "丫环",
+   "properties": {
+    "relation": "丫环"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "family": "贾家",
+    "address": "荣国府",
+    "Name": "贾宝玉"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "佳蕙"
+   }
+  },
+  "r": {
+   "type": "丫环",
+   "properties": {
+    "relation": "丫环"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "family": "贾家",
+    "address": "荣国府",
+    "Name": "贾宝玉"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "抱琴"
+   }
+  },
+  "r": {
+   "type": "丫环",
+   "properties": {
+    "relation": "丫环"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "address": "皇宫",
+    "family": "贾家",
+    "class": "金陵十二钗(正)",
+    "Name": "贾元春"
+   }
+  }
+ }
+]
