@@ -6404,6 +6404,7 @@
     "rank": "宁国公",
     "address": "宁国府",
     "family": "贾家",
+    "alias": "贾寅",
     "Name": "贾演"
    }
   },
@@ -6437,6 +6438,7 @@
     "rank": "宁国公",
     "address": "宁国府",
     "family": "贾家",
+    "alias": "贾寅",
     "Name": "贾演"
    }
   },
@@ -6465,6 +6467,7 @@
     "rank": "宁国公",
     "address": "宁国府",
     "family": "贾家",
+    "alias": "贾寅",
     "Name": "贾演"
    }
   },
@@ -6498,6 +6501,7 @@
     "rank": "宁国公",
     "address": "宁国府",
     "family": "贾家",
+    "alias": "贾寅",
     "Name": "贾演"
    }
   },
@@ -7681,6 +7685,7 @@
     "rank": "宁国公",
     "address": "宁国府",
     "family": "贾家",
+    "alias": "贾寅",
     "Name": "贾演"
    }
   }
@@ -7748,6 +7753,7 @@
     "rank": "宁国公",
     "address": "宁国府",
     "family": "贾家",
+    "alias": "贾寅",
     "Name": "贾演"
    }
   }
@@ -10504,6 +10510,7 @@
     "rank": "宁国公",
     "address": "宁国府",
     "family": "贾家",
+    "alias": "贾寅",
     "Name": "贾演"
    }
   }
@@ -11216,6 +11223,30 @@
     "family": "贾家",
     "class": "金陵十二钗(正)",
     "Name": "贾元春"
+   }
+  }
+ },
+ {
+  "p1": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "喜鸾"
+   }
+  },
+  "r": {
+   "type": "妹妹",
+   "properties": {
+    "relation": "妹妹"
+   }
+  },
+  "p2": {
+   "labels": [
+    "Person"
+   ],
+   "properties": {
+    "Name": "贾㻞"
    }
   }
  }
