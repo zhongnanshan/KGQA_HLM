@@ -16,31 +16,46 @@
     "relation": {
      "relation": "儿媳"
     },
-    "node": "邢夫人"
+    "node": {
+     "Name": "邢夫人",
+     "ID": "80e792163c3f3c1d6d0eb348e4c6d791"
+    }
    },
    {
     "relation": {
      "relation": "妻"
     },
-    "node": "贾琏"
+    "node": {
+     "Name": "贾琏",
+     "ID": "f301d3af44ced4b667b7c2978a8d187b"
+    }
    },
    {
     "relation": {
      "relation": "母亲"
     },
-    "node": "贾巧姐"
+    "node": {
+     "Name": "贾巧姐",
+     "ID": "f865edbb398865d3e8d5a1c8647d3066"
+    }
    },
    {
     "relation": {
      "relation": "侄女"
     },
-    "node": "王夫人"
+    "node": {
+     "Name": "王夫人",
+     "ID": "db908d9efea732a59e2f6f4e744134ea"
+    }
    },
    {
     "relation": {
      "relation": "妹妹"
     },
-    "node": "王仁"
+    "node": {
+     "Name": "王仁",
+     "ID": "b2611acf0190c4bd86ce059338736789"
+    }
    }
   ]
  },
@@ -59,7 +74,10 @@
     "relation": {
      "relation": "哥哥"
     },
-    "node": "王熙凤"
+    "node": {
+     "Name": "王熙凤",
+     "ID": "a77758323724c3896d696f0e489b5f1d"
+    }
    }
   ]
  },
@@ -78,19 +96,28 @@
     "relation": {
      "relation": "妻"
     },
-    "node": "贾赦"
+    "node": {
+     "Name": "贾赦",
+     "ID": "3e7c8eaf460ca58abd61de032a7b3ebd"
+    }
    },
    {
     "relation": {
      "relation": "儿媳"
     },
-    "node": "贾母"
+    "node": {
+     "Name": "贾母",
+     "ID": "2ab750d3235a5ec04d8d5136c4adf39c"
+    }
    },
    {
     "relation": {
      "relation": "婆婆"
     },
-    "node": "王熙凤"
+    "node": {
+     "Name": "王熙凤",
+     "ID": "a77758323724c3896d696f0e489b5f1d"
+    }
    }
   ]
  },
@@ -109,19 +136,28 @@
     "relation": {
      "relation": "妾"
     },
-    "node": "贾政"
+    "node": {
+     "Name": "贾政",
+     "ID": "0c9cc543268e00960a33e6e5528231c1"
+    }
    },
    {
     "relation": {
      "relation": "母亲"
     },
-    "node": "贾环"
+    "node": {
+     "Name": "贾环",
+     "ID": "67a40082c2223b593a277b3772cec59c"
+    }
    },
    {
     "relation": {
      "relation": "母亲"
     },
-    "node": "贾探春"
+    "node": {
+     "Name": "贾探春",
+     "ID": "e7cbf47d145f5ac9bb2fb9597f1171ff"
+    }
    }
   ]
  },
@@ -144,13 +180,19 @@
     "relation": {
      "relation": "女儿"
     },
-    "node": "贾政"
+    "node": {
+     "Name": "贾政",
+     "ID": "0c9cc543268e00960a33e6e5528231c1"
+    }
    },
    {
     "relation": {
      "relation": "女儿"
     },
-    "node": "赵姨娘"
+    "node": {
+     "Name": "赵姨娘",
+     "ID": "75107b84a8a7985c5a86d70d06f4996f"
+    }
    }
   ]
  },
@@ -171,37 +213,55 @@
     "relation": {
      "relation": "朋友"
     },
-    "node": "贾宝玉"
+    "node": {
+     "Name": "贾宝玉",
+     "ID": "755e0c6e832c79cf96ae9ade1770fe07"
+    }
    },
    {
     "relation": {
      "relation": "朋友"
     },
-    "node": "林黛玉"
+    "node": {
+     "Name": "林黛玉",
+     "ID": "31f7d901fffdedd43c7ac5743bf0f8f8"
+    }
    },
    {
     "relation": {
      "relation": "朋友"
     },
-    "node": "薛宝钗"
+    "node": {
+     "Name": "薛宝钗",
+     "ID": "9cdd10dedcb146df001d653c4caad775"
+    }
    },
    {
     "relation": {
      "relation": "孙女"
     },
-    "node": "贾母"
+    "node": {
+     "Name": "贾母",
+     "ID": "2ab750d3235a5ec04d8d5136c4adf39c"
+    }
    },
    {
     "relation": {
      "relation": "侄女"
     },
-    "node": "史鼐"
+    "node": {
+     "Name": "史鼐",
+     "ID": "44f82a5da792cf30902e294f2e0d7649"
+    }
    },
    {
     "relation": {
      "relation": "侄女"
     },
-    "node": "史鼎"
+    "node": {
+     "Name": "史鼎",
+     "ID": "f618d18a9c874ef113f9f6d5f335d82b"
+    }
    }
   ]
  },
@@ -221,13 +281,19 @@
     "relation": {
      "relation": "儿子"
     },
-    "node": "史公"
+    "node": {
+     "Name": "史公",
+     "ID": "5be8a7e6de2252d4f3046dfaacd41ddd"
+    }
    },
    {
     "relation": {
      "relation": "弟弟"
     },
-    "node": "史鼐"
+    "node": {
+     "Name": "史鼐",
+     "ID": "44f82a5da792cf30902e294f2e0d7649"
+    }
    }
   ]
  },
@@ -248,25 +314,37 @@
     "relation": {
      "relation": "女儿"
     },
-    "node": "林如海"
+    "node": {
+     "Name": "林如海",
+     "ID": "4b00def8926c8083ff79ab01f6c98495"
+    }
    },
    {
     "relation": {
      "relation": "外孙女"
     },
-    "node": "贾母"
+    "node": {
+     "Name": "贾母",
+     "ID": "2ab750d3235a5ec04d8d5136c4adf39c"
+    }
    },
    {
     "relation": {
      "relation": "表妹"
     },
-    "node": "贾宝玉"
+    "node": {
+     "Name": "贾宝玉",
+     "ID": "755e0c6e832c79cf96ae9ade1770fe07"
+    }
    },
    {
     "relation": {
      "relation": "女儿"
     },
-    "node": "贾敏"
+    "node": {
+     "Name": "贾敏",
+     "ID": "a97673be0c6e6e80594372b004590608"
+    }
    }
   ]
  },
@@ -285,7 +363,10 @@
     "relation": {
      "relation": "丫环"
     },
-    "node": "贾母"
+    "node": {
+     "Name": "贾母",
+     "ID": "2ab750d3235a5ec04d8d5136c4adf39c"
+    }
    }
   ]
  },
@@ -304,7 +385,10 @@
     "relation": {
      "relation": "丫环"
     },
-    "node": "贾母"
+    "node": {
+     "Name": "贾母",
+     "ID": "2ab750d3235a5ec04d8d5136c4adf39c"
+    }
    }
   ]
  },
@@ -324,13 +408,19 @@
     "relation": {
      "relation": "丫环"
     },
-    "node": "贾珍"
+    "node": {
+     "Name": "贾珍",
+     "ID": "e7ab26d61327d2741fd134a8b9db5fd6"
+    }
    },
    {
     "relation": {
      "relation": "丫环"
     },
-    "node": "尤氏"
+    "node": {
+     "Name": "尤氏",
+     "ID": "46e9c6c052d3682c918c01d056ce23ec"
+    }
    }
   ]
  },
@@ -349,13 +439,19 @@
     "relation": {
      "relation": "妻"
     },
-    "node": "贾珍"
+    "node": {
+     "Name": "贾珍",
+     "ID": "e7ab26d61327d2741fd134a8b9db5fd6"
+    }
    },
    {
     "relation": {
      "relation": "母亲"
     },
-    "node": "贾惜春"
+    "node": {
+     "Name": "贾惜春",
+     "ID": "9e4a12bf31de846990139ee66f3c13c8"
+    }
    }
   ]
  },
@@ -376,13 +472,19 @@
     "relation": {
      "relation": "侄女"
     },
-    "node": "薛姨妈"
+    "node": {
+     "Name": "薛姨妈",
+     "ID": "c13d454df5fa1d313b063d299a8b3576"
+    }
    },
    {
     "relation": {
      "relation": "胞妹"
     },
-    "node": "薛蝌"
+    "node": {
+     "Name": "薛蝌",
+     "ID": "f0e35aa7e4d228100948ac9f67472b65"
+    }
    }
   ]
  },
@@ -402,7 +504,10 @@
     "relation": {
      "relation": "丫环"
     },
-    "node": "薛宝钗"
+    "node": {
+     "Name": "薛宝钗",
+     "ID": "9cdd10dedcb146df001d653c4caad775"
+    }
    }
   ]
  },
@@ -422,7 +527,10 @@
     "relation": {
      "relation": "丫环"
     },
-    "node": "贾宝玉"
+    "node": {
+     "Name": "贾宝玉",
+     "ID": "755e0c6e832c79cf96ae9ade1770fe07"
+    }
    }
   ]
  },
@@ -442,7 +550,10 @@
     "relation": {
      "relation": "丫环"
     },
-    "node": "贾宝玉"
+    "node": {
+     "Name": "贾宝玉",
+     "ID": "755e0c6e832c79cf96ae9ade1770fe07"
+    }
    }
   ]
  },
@@ -462,7 +573,10 @@
     "relation": {
      "relation": "丫环"
     },
-    "node": "贾宝玉"
+    "node": {
+     "Name": "贾宝玉",
+     "ID": "755e0c6e832c79cf96ae9ade1770fe07"
+    }
    }
   ]
  },
@@ -482,7 +596,10 @@
     "relation": {
      "relation": "父亲"
     },
-    "node": "赖上荣"
+    "node": {
+     "Name": "赖上荣",
+     "ID": "e0dfd14aff1dda381807a87a0aaeb4f1"
+    }
    }
   ]
  },
@@ -515,13 +632,19 @@
     "relation": {
      "relation": "师傅"
     },
-    "node": "智能"
+    "node": {
+     "Name": "智能",
+     "ID": "6cd2fe83509bcc50b04204822964c139"
+    }
    },
    {
     "relation": {
      "relation": "师傅"
     },
-    "node": "智善"
+    "node": {
+     "Name": "智善",
+     "ID": "ff24f52f277ceb210b44c01b567486a4"
+    }
    }
   ]
  },
@@ -541,37 +664,55 @@
     "relation": {
      "relation": "儿媳"
     },
-    "node": "贾母"
+    "node": {
+     "Name": "贾母",
+     "ID": "2ab750d3235a5ec04d8d5136c4adf39c"
+    }
    },
    {
     "relation": {
      "relation": "妻"
     },
-    "node": "贾政"
+    "node": {
+     "Name": "贾政",
+     "ID": "0c9cc543268e00960a33e6e5528231c1"
+    }
    },
    {
     "relation": {
      "relation": "姐姐"
     },
-    "node": "薛姨妈"
+    "node": {
+     "Name": "薛姨妈",
+     "ID": "c13d454df5fa1d313b063d299a8b3576"
+    }
    },
    {
     "relation": {
      "relation": "母亲"
     },
-    "node": "贾珠"
+    "node": {
+     "Name": "贾珠",
+     "ID": "9491fd0af55ac4e3ef41569810ad809c"
+    }
    },
    {
     "relation": {
      "relation": "母亲"
     },
-    "node": "贾元春"
+    "node": {
+     "Name": "贾元春",
+     "ID": "625e73a6dd306033212be37bba53c06d"
+    }
    },
    {
     "relation": {
      "relation": "母亲"
     },
-    "node": "贾宝玉"
+    "node": {
+     "Name": "贾宝玉",
+     "ID": "755e0c6e832c79cf96ae9ade1770fe07"
+    }
    }
   ]
  },
@@ -590,7 +731,10 @@
     "relation": {
      "relation": "岳母"
     },
-    "node": "王狗儿"
+    "node": {
+     "Name": "王狗儿",
+     "ID": "41e4c90bb0892c88e2e798b12724b645"
+    }
    }
   ]
  },
@@ -612,13 +756,19 @@
      "num": "三子",
      "relation": "儿子"
     },
-    "node": "贾政"
+    "node": {
+     "Name": "贾政",
+     "ID": "0c9cc543268e00960a33e6e5528231c1"
+    }
    },
    {
     "relation": {
      "relation": "儿子"
     },
-    "node": "赵姨娘"
+    "node": {
+     "Name": "赵姨娘",
+     "ID": "75107b84a8a7985c5a86d70d06f4996f"
+    }
    }
   ]
  },
@@ -640,38 +790,56 @@
      "num": "次子",
      "relation": "儿子"
     },
-    "node": "贾政"
+    "node": {
+     "Name": "贾政",
+     "ID": "0c9cc543268e00960a33e6e5528231c1"
+    }
    },
    {
     "relation": {
      "num": "次子",
      "relation": "儿子"
     },
-    "node": "王夫人"
+    "node": {
+     "Name": "王夫人",
+     "ID": "db908d9efea732a59e2f6f4e744134ea"
+    }
    },
    {
     "relation": {
      "relation": "丈夫"
     },
-    "node": "薛宝钗"
+    "node": {
+     "Name": "薛宝钗",
+     "ID": "9cdd10dedcb146df001d653c4caad775"
+    }
    },
    {
     "relation": {
      "relation": "孙子"
     },
-    "node": "贾代善"
+    "node": {
+     "Name": "贾代善",
+     "ID": "401d93d1a2bd708079146729f9ca77b3"
+    }
    },
    {
     "relation": {
      "relation": "弟弟"
     },
-    "node": "贾珠"
+    "node": {
+     "Name": "贾珠",
+     "ID": "9491fd0af55ac4e3ef41569810ad809c"
+    }
    },
    {
     "relation": {
      "relation": "表兄"
     },
-    "node": "林黛玉"
+    "node": {
+     "Name": "林黛玉",
+     "ID": "31f7d901fffdedd43c7ac5743bf0f8f8"
+    }
    }
   ]
  },
@@ -690,7 +858,10 @@
     "relation": {
      "relation": "丫环"
     },
-    "node": "林黛玉"
+    "node": {
+     "Name": "林黛玉",
+     "ID": "31f7d901fffdedd43c7ac5743bf0f8f8"
+    }
    }
   ]
  },
@@ -709,7 +880,10 @@
     "relation": {
      "relation": "丫环"
     },
-    "node": "贾母"
+    "node": {
+     "Name": "贾母",
+     "ID": "2ab750d3235a5ec04d8d5136c4adf39c"
+    }
    }
   ]
  },
@@ -731,25 +905,37 @@
     "relation": {
      "relation": "儿子"
     },
-    "node": "贾敬"
+    "node": {
+     "Name": "贾敬",
+     "ID": "6b29dfe7f6440e86cb4bace061cbfc30"
+    }
    },
    {
     "relation": {
      "relation": "丈夫"
     },
-    "node": "尤氏"
+    "node": {
+     "Name": "尤氏",
+     "ID": "46e9c6c052d3682c918c01d056ce23ec"
+    }
    },
    {
     "relation": {
      "relation": "父亲"
     },
-    "node": "贾蓉"
+    "node": {
+     "Name": "贾蓉",
+     "ID": "15c07fb46fb0e874074339e3d7838d02"
+    }
    },
    {
     "relation": {
      "relation": "胞兄"
     },
-    "node": "贾惜春"
+    "node": {
+     "Name": "贾惜春",
+     "ID": "9e4a12bf31de846990139ee66f3c13c8"
+    }
    }
   ]
  },
@@ -769,13 +955,19 @@
     "relation": {
      "relation": "丫环"
     },
-    "node": "王夫人"
+    "node": {
+     "Name": "王夫人",
+     "ID": "db908d9efea732a59e2f6f4e744134ea"
+    }
    },
    {
     "relation": {
      "relation": "姐姐"
     },
-    "node": "玉钏"
+    "node": {
+     "Name": "玉钏",
+     "ID": "e02f63cb57f589ca8a79e5fbc841c841"
+    }
    }
   ]
  },
@@ -795,13 +987,19 @@
     "relation": {
      "relation": "妹妹"
     },
-    "node": "金钏"
+    "node": {
+     "Name": "金钏",
+     "ID": "78870a4e00f15238f9088017c5398fad"
+    }
    },
    {
     "relation": {
      "relation": "丫环"
     },
-    "node": "王夫人"
+    "node": {
+     "Name": "王夫人",
+     "ID": "db908d9efea732a59e2f6f4e744134ea"
+    }
    }
   ]
  },
@@ -822,13 +1020,19 @@
     "relation": {
      "relation": "儿子"
     },
-    "node": "薛姨妈"
+    "node": {
+     "Name": "薛姨妈",
+     "ID": "c13d454df5fa1d313b063d299a8b3576"
+    }
    },
    {
     "relation": {
      "relation": "哥哥"
     },
-    "node": "薛宝钗"
+    "node": {
+     "Name": "薛宝钗",
+     "ID": "9cdd10dedcb146df001d653c4caad775"
+    }
    }
   ]
  },
@@ -848,7 +1052,10 @@
     "relation": {
      "relation": "侄子"
     },
-    "node": "薛姨妈"
+    "node": {
+     "Name": "薛姨妈",
+     "ID": "c13d454df5fa1d313b063d299a8b3576"
+    }
    }
   ]
  },
@@ -867,7 +1074,10 @@
     "relation": {
      "relation": "丫环"
     },
-    "node": "薛宝钗"
+    "node": {
+     "Name": "薛宝钗",
+     "ID": "9cdd10dedcb146df001d653c4caad775"
+    }
    }
   ]
  },
@@ -886,13 +1096,19 @@
     "relation": {
      "relation": "丫环"
     },
-    "node": "贾赦"
+    "node": {
+     "Name": "贾赦",
+     "ID": "3e7c8eaf460ca58abd61de032a7b3ebd"
+    }
    },
    {
     "relation": {
      "relation": "妾"
     },
-    "node": "贾赦"
+    "node": {
+     "Name": "贾赦",
+     "ID": "3e7c8eaf460ca58abd61de032a7b3ebd"
+    }
    }
   ]
  },
@@ -916,38 +1132,56 @@
      "num": "长子",
      "relation": "儿子"
     },
-    "node": "贾代善"
+    "node": {
+     "Name": "贾代善",
+     "ID": "401d93d1a2bd708079146729f9ca77b3"
+    }
    },
    {
     "relation": {
      "num": "长子",
      "relation": "儿子"
     },
-    "node": "贾母"
+    "node": {
+     "Name": "贾母",
+     "ID": "2ab750d3235a5ec04d8d5136c4adf39c"
+    }
    },
    {
     "relation": {
      "relation": "丈夫"
     },
-    "node": "邢夫人"
+    "node": {
+     "Name": "邢夫人",
+     "ID": "80e792163c3f3c1d6d0eb348e4c6d791"
+    }
    },
    {
     "relation": {
      "relation": "父亲"
     },
-    "node": "贾琏"
+    "node": {
+     "Name": "贾琏",
+     "ID": "f301d3af44ced4b667b7c2978a8d187b"
+    }
    },
    {
     "relation": {
      "relation": "父亲"
     },
-    "node": "贾迎春"
+    "node": {
+     "Name": "贾迎春",
+     "ID": "a2f509ed4716c5e11aa9b5f6b9bee52a"
+    }
    },
    {
     "relation": {
      "relation": "哥哥"
     },
-    "node": "贾政"
+    "node": {
+     "Name": "贾政",
+     "ID": "0c9cc543268e00960a33e6e5528231c1"
+    }
    }
   ]
  },
@@ -966,13 +1200,19 @@
     "relation": {
      "relation": "哥哥"
     },
-    "node": "鸳鸯"
+    "node": {
+     "Name": "鸳鸯",
+     "ID": "c29f3b7ba8dac1ef8d6df7a8f84406b4"
+    }
    },
    {
     "relation": {
      "relation": "买办"
     },
-    "node": "贾母"
+    "node": {
+     "Name": "贾母",
+     "ID": "2ab750d3235a5ec04d8d5136c4adf39c"
+    }
    }
   ]
  },
@@ -991,7 +1231,10 @@
     "relation": {
      "relation": "陪房"
     },
-    "node": "王夫人"
+    "node": {
+     "Name": "王夫人",
+     "ID": "db908d9efea732a59e2f6f4e744134ea"
+    }
    }
   ]
  },
@@ -1011,7 +1254,10 @@
     "relation": {
      "relation": "父亲"
     },
-    "node": "林红玉"
+    "node": {
+     "Name": "林红玉",
+     "ID": "5ff32ff7d662827608e2c02c6d9cb147"
+    }
    }
   ]
  },
@@ -1043,7 +1289,10 @@
     "relation": {
      "relation": "丫环"
     },
-    "node": "贾宝玉"
+    "node": {
+     "Name": "贾宝玉",
+     "ID": "755e0c6e832c79cf96ae9ade1770fe07"
+    }
    }
   ]
  },
@@ -1062,7 +1311,10 @@
     "relation": {
      "relation": "丫环"
     },
-    "node": "贾宝玉"
+    "node": {
+     "Name": "贾宝玉",
+     "ID": "755e0c6e832c79cf96ae9ade1770fe07"
+    }
    }
   ]
  },
@@ -1084,19 +1336,28 @@
     "relation": {
      "relation": "女儿"
     },
-    "node": "王熙凤"
+    "node": {
+     "Name": "王熙凤",
+     "ID": "a77758323724c3896d696f0e489b5f1d"
+    }
    },
    {
     "relation": {
      "relation": "女儿"
     },
-    "node": "贾琏"
+    "node": {
+     "Name": "贾琏",
+     "ID": "f301d3af44ced4b667b7c2978a8d187b"
+    }
    },
    {
     "relation": {
      "relation": "被抚养"
     },
-    "node": "刘姥姥"
+    "node": {
+     "Name": "刘姥姥",
+     "ID": "ae166fe4de26881da152713ea2e70eb9"
+    }
    }
   ]
  },
@@ -1120,56 +1381,83 @@
      "num": "次子",
      "relation": "儿子"
     },
-    "node": "贾代善"
+    "node": {
+     "Name": "贾代善",
+     "ID": "401d93d1a2bd708079146729f9ca77b3"
+    }
    },
    {
     "relation": {
      "num": "次子",
      "relation": "儿子"
     },
-    "node": "贾母"
+    "node": {
+     "Name": "贾母",
+     "ID": "2ab750d3235a5ec04d8d5136c4adf39c"
+    }
    },
    {
     "relation": {
      "relation": "丈夫"
     },
-    "node": "王夫人"
+    "node": {
+     "Name": "王夫人",
+     "ID": "db908d9efea732a59e2f6f4e744134ea"
+    }
    },
    {
     "relation": {
      "relation": "父亲"
     },
-    "node": "贾珠"
+    "node": {
+     "Name": "贾珠",
+     "ID": "9491fd0af55ac4e3ef41569810ad809c"
+    }
    },
    {
     "relation": {
      "relation": "父亲"
     },
-    "node": "贾元春"
+    "node": {
+     "Name": "贾元春",
+     "ID": "625e73a6dd306033212be37bba53c06d"
+    }
    },
    {
     "relation": {
      "relation": "父亲"
     },
-    "node": "贾宝玉"
+    "node": {
+     "Name": "贾宝玉",
+     "ID": "755e0c6e832c79cf96ae9ade1770fe07"
+    }
    },
    {
     "relation": {
      "relation": "父亲"
     },
-    "node": "贾环"
+    "node": {
+     "Name": "贾环",
+     "ID": "67a40082c2223b593a277b3772cec59c"
+    }
    },
    {
     "relation": {
      "relation": "父亲"
     },
-    "node": "贾探春"
+    "node": {
+     "Name": "贾探春",
+     "ID": "e7cbf47d145f5ac9bb2fb9597f1171ff"
+    }
    },
    {
     "relation": {
      "relation": "弟弟"
     },
-    "node": "贾赦"
+    "node": {
+     "Name": "贾赦",
+     "ID": "3e7c8eaf460ca58abd61de032a7b3ebd"
+    }
    }
   ]
  },
@@ -1191,31 +1479,46 @@
     "relation": {
      "relation": "妻"
     },
-    "node": "贾代善"
+    "node": {
+     "Name": "贾代善",
+     "ID": "401d93d1a2bd708079146729f9ca77b3"
+    }
    },
    {
     "relation": {
      "relation": "母亲"
     },
-    "node": "贾赦"
+    "node": {
+     "Name": "贾赦",
+     "ID": "3e7c8eaf460ca58abd61de032a7b3ebd"
+    }
    },
    {
     "relation": {
      "relation": "婆婆"
     },
-    "node": "邢夫人"
+    "node": {
+     "Name": "邢夫人",
+     "ID": "80e792163c3f3c1d6d0eb348e4c6d791"
+    }
    },
    {
     "relation": {
      "relation": "外祖母"
     },
-    "node": "林黛玉"
+    "node": {
+     "Name": "林黛玉",
+     "ID": "31f7d901fffdedd43c7ac5743bf0f8f8"
+    }
    },
    {
     "relation": {
      "relation": "奶奶"
     },
-    "node": "贾宝玉"
+    "node": {
+     "Name": "贾宝玉",
+     "ID": "755e0c6e832c79cf96ae9ade1770fe07"
+    }
    }
   ]
  },
@@ -1234,7 +1537,10 @@
     "relation": {
      "relation": "弟弟"
     },
-    "node": "王子腾"
+    "node": {
+     "Name": "王子腾",
+     "ID": "1338081aa7c9ae098aec2b8cadfa5b40"
+    }
    }
   ]
  },
@@ -1254,13 +1560,19 @@
     "relation": {
      "relation": "哥哥"
     },
-    "node": "王夫人"
+    "node": {
+     "Name": "王夫人",
+     "ID": "db908d9efea732a59e2f6f4e744134ea"
+    }
    },
    {
     "relation": {
      "relation": "伯父"
     },
-    "node": "王熙凤"
+    "node": {
+     "Name": "王熙凤",
+     "ID": "a77758323724c3896d696f0e489b5f1d"
+    }
    }
   ]
  },
@@ -1279,7 +1591,10 @@
     "relation": {
      "relation": "丫环"
     },
-    "node": "林黛玉"
+    "node": {
+     "Name": "林黛玉",
+     "ID": "31f7d901fffdedd43c7ac5743bf0f8f8"
+    }
    }
   ]
  },
@@ -1298,7 +1613,10 @@
     "relation": {
      "relation": "丫环"
     },
-    "node": "贾母"
+    "node": {
+     "Name": "贾母",
+     "ID": "2ab750d3235a5ec04d8d5136c4adf39c"
+    }
    }
   ]
  },
@@ -1317,7 +1635,10 @@
     "relation": {
      "relation": "丫环"
     },
-    "node": "王熙凤"
+    "node": {
+     "Name": "王熙凤",
+     "ID": "a77758323724c3896d696f0e489b5f1d"
+    }
    }
   ]
  },
@@ -1337,7 +1658,10 @@
     "relation": {
      "relation": "丫环"
     },
-    "node": "王熙凤"
+    "node": {
+     "Name": "王熙凤",
+     "ID": "a77758323724c3896d696f0e489b5f1d"
+    }
    }
   ]
  },
@@ -1356,7 +1680,10 @@
     "relation": {
      "relation": "陪房"
     },
-    "node": "王夫人"
+    "node": {
+     "Name": "王夫人",
+     "ID": "db908d9efea732a59e2f6f4e744134ea"
+    }
    }
   ]
  },
@@ -1376,7 +1703,10 @@
     "relation": {
      "relation": "丫环"
     },
-    "node": "贾宝玉"
+    "node": {
+     "Name": "贾宝玉",
+     "ID": "755e0c6e832c79cf96ae9ade1770fe07"
+    }
    }
   ]
  },
@@ -1396,7 +1726,10 @@
     "relation": {
      "relation": "丫环"
     },
-    "node": "贾宝玉"
+    "node": {
+     "Name": "贾宝玉",
+     "ID": "755e0c6e832c79cf96ae9ade1770fe07"
+    }
    }
   ]
  },
@@ -1416,7 +1749,10 @@
     "relation": {
      "relation": "丫环"
     },
-    "node": "贾宝玉"
+    "node": {
+     "Name": "贾宝玉",
+     "ID": "755e0c6e832c79cf96ae9ade1770fe07"
+    }
    }
   ]
  },
@@ -1437,13 +1773,19 @@
     "relation": {
      "relation": "父亲"
     },
-    "node": "秦钟"
+    "node": {
+     "Name": "秦钟",
+     "ID": "39d69f064caab3589d751a4bf3c87949"
+    }
    },
    {
     "relation": {
      "relation": "养父"
     },
-    "node": "秦可卿"
+    "node": {
+     "Name": "秦可卿",
+     "ID": "129d1747092f13490079becc3fada5e1"
+    }
    }
   ]
  },
@@ -1463,7 +1805,10 @@
     "relation": {
      "relation": "前世"
     },
-    "node": "林黛玉"
+    "node": {
+     "Name": "林黛玉",
+     "ID": "31f7d901fffdedd43c7ac5743bf0f8f8"
+    }
    }
   ]
  },
@@ -1482,7 +1827,10 @@
     "relation": {
      "relation": "丫环"
     },
-    "node": "贾迎春"
+    "node": {
+     "Name": "贾迎春",
+     "ID": "a2f509ed4716c5e11aa9b5f6b9bee52a"
+    }
    }
   ]
  },
@@ -1501,7 +1849,10 @@
     "relation": {
      "relation": "丫环"
     },
-    "node": "贾惜春"
+    "node": {
+     "Name": "贾惜春",
+     "ID": "9e4a12bf31de846990139ee66f3c13c8"
+    }
    }
   ]
  },
@@ -1523,19 +1874,28 @@
     "relation": {
      "relation": "女儿"
     },
-    "node": "贾敬"
+    "node": {
+     "Name": "贾敬",
+     "ID": "6b29dfe7f6440e86cb4bace061cbfc30"
+    }
    },
    {
     "relation": {
      "relation": "女儿"
     },
-    "node": "尤氏"
+    "node": {
+     "Name": "尤氏",
+     "ID": "46e9c6c052d3682c918c01d056ce23ec"
+    }
    },
    {
     "relation": {
      "relation": "胞妹"
     },
-    "node": "贾珍"
+    "node": {
+     "Name": "贾珍",
+     "ID": "e7ab26d61327d2741fd134a8b9db5fd6"
+    }
    }
   ]
  },
@@ -1554,7 +1914,10 @@
     "relation": {
      "relation": "妻"
     },
-    "node": "薛蟠"
+    "node": {
+     "Name": "薛蟠",
+     "ID": "5342b03d078f40e72209dc518235ccce"
+    }
    }
   ]
  },
@@ -1573,7 +1936,10 @@
     "relation": {
      "relation": "丫环"
     },
-    "node": "王夫人"
+    "node": {
+     "Name": "王夫人",
+     "ID": "db908d9efea732a59e2f6f4e744134ea"
+    }
    }
   ]
  },
@@ -1596,19 +1962,28 @@
      "num": "长子",
      "relation": "儿子"
     },
-    "node": "贾赦"
+    "node": {
+     "Name": "贾赦",
+     "ID": "3e7c8eaf460ca58abd61de032a7b3ebd"
+    }
    },
    {
     "relation": {
      "relation": "丈夫"
     },
-    "node": "王熙凤"
+    "node": {
+     "Name": "王熙凤",
+     "ID": "a77758323724c3896d696f0e489b5f1d"
+    }
    },
    {
     "relation": {
      "relation": "父亲"
     },
-    "node": "贾巧姐"
+    "node": {
+     "Name": "贾巧姐",
+     "ID": "f865edbb398865d3e8d5a1c8647d3066"
+    }
    }
   ]
  },
@@ -1628,7 +2003,10 @@
     "relation": {
      "relation": "儿子"
     },
-    "node": "史公"
+    "node": {
+     "Name": "史公",
+     "ID": "5be8a7e6de2252d4f3046dfaacd41ddd"
+    }
    }
   ]
  },
@@ -1664,13 +2042,19 @@
     "relation": {
      "relation": "妻"
     },
-    "node": "贾宝玉"
+    "node": {
+     "Name": "贾宝玉",
+     "ID": "755e0c6e832c79cf96ae9ade1770fe07"
+    }
    },
    {
     "relation": {
      "relation": "女儿"
     },
-    "node": "薛姨妈"
+    "node": {
+     "Name": "薛姨妈",
+     "ID": "c13d454df5fa1d313b063d299a8b3576"
+    }
    }
   ]
  },
@@ -1691,7 +2075,10 @@
     "relation": {
      "relation": "父亲"
     },
-    "node": "香菱"
+    "node": {
+     "Name": "香菱",
+     "ID": "13505a93596849c7ea2c9c461b5beb14"
+    }
    }
   ]
  },
@@ -1712,13 +2099,19 @@
     "relation": {
      "relation": "妾"
     },
-    "node": "薛蟠"
+    "node": {
+     "Name": "薛蟠",
+     "ID": "5342b03d078f40e72209dc518235ccce"
+    }
    },
    {
     "relation": {
      "relation": "女儿"
     },
-    "node": "甄士隐"
+    "node": {
+     "Name": "甄士隐",
+     "ID": "7b550dd43a71e5cb12ae38d17cb66ad7"
+    }
    }
   ]
  },
@@ -1738,7 +2131,10 @@
     "relation": {
      "relation": "丫环"
     },
-    "node": "贾母"
+    "node": {
+     "Name": "贾母",
+     "ID": "2ab750d3235a5ec04d8d5136c4adf39c"
+    }
    }
   ]
  },
@@ -1757,7 +2153,10 @@
     "relation": {
      "relation": "丫环"
     },
-    "node": "贾母"
+    "node": {
+     "Name": "贾母",
+     "ID": "2ab750d3235a5ec04d8d5136c4adf39c"
+    }
    }
   ]
  },
@@ -1776,13 +2175,19 @@
     "relation": {
      "relation": "丫环"
     },
-    "node": "王熙凤"
+    "node": {
+     "Name": "王熙凤",
+     "ID": "a77758323724c3896d696f0e489b5f1d"
+    }
    },
    {
     "relation": {
      "relation": "丫环"
     },
-    "node": "尤二姐"
+    "node": {
+     "Name": "尤二姐",
+     "ID": "143296f57c7e4ec6e4f5d6b765ebcb72"
+    }
    }
   ]
  },
@@ -1802,19 +2207,28 @@
     "relation": {
      "relation": "女儿"
     },
-    "node": "尤氏继母"
+    "node": {
+     "Name": "尤氏继母",
+     "ID": "4498823b01f074b3658ba82ab51a5172"
+    }
    },
    {
     "relation": {
      "relation": "二房"
     },
-    "node": "贾琏"
+    "node": {
+     "Name": "贾琏",
+     "ID": "f301d3af44ced4b667b7c2978a8d187b"
+    }
    },
    {
     "relation": {
      "relation": "妹妹"
     },
-    "node": "尤氏"
+    "node": {
+     "Name": "尤氏",
+     "ID": "46e9c6c052d3682c918c01d056ce23ec"
+    }
    }
   ]
  },
@@ -1834,25 +2248,37 @@
     "relation": {
      "relation": "妹妹"
     },
-    "node": "王夫人"
+    "node": {
+     "Name": "王夫人",
+     "ID": "db908d9efea732a59e2f6f4e744134ea"
+    }
    },
    {
     "relation": {
      "relation": "母亲"
     },
-    "node": "薛蟠"
+    "node": {
+     "Name": "薛蟠",
+     "ID": "5342b03d078f40e72209dc518235ccce"
+    }
    },
    {
     "relation": {
      "relation": "姑母"
     },
-    "node": "薛宝琴"
+    "node": {
+     "Name": "薛宝琴",
+     "ID": "eb8ef0575b1413fed14b4179009a9ff3"
+    }
    },
    {
     "relation": {
      "relation": "母亲"
     },
-    "node": "薛宝钗"
+    "node": {
+     "Name": "薛宝钗",
+     "ID": "9cdd10dedcb146df001d653c4caad775"
+    }
    }
   ]
  },
@@ -1871,7 +2297,10 @@
     "relation": {
      "relation": "儿子"
     },
-    "node": "王成"
+    "node": {
+     "Name": "王成",
+     "ID": "0fcef24965abf9fb6959d7f52340802a"
+    }
    }
   ]
  },
@@ -1905,13 +2334,19 @@
     "relation": {
      "relation": "丫环"
     },
-    "node": "贾宝玉"
+    "node": {
+     "Name": "贾宝玉",
+     "ID": "755e0c6e832c79cf96ae9ade1770fe07"
+    }
    },
    {
     "relation": {
      "relation": "丫环"
     },
-    "node": "王熙凤"
+    "node": {
+     "Name": "王熙凤",
+     "ID": "a77758323724c3896d696f0e489b5f1d"
+    }
    }
   ]
  },
@@ -1931,13 +2366,19 @@
     "relation": {
      "relation": "好朋友"
     },
-    "node": "芳官"
+    "node": {
+     "Name": "芳官",
+     "ID": "050f9ad30a7f1ed6d35b046553382ee8"
+    }
    },
    {
     "relation": {
      "relation": "丫环"
     },
-    "node": "贾宝玉"
+    "node": {
+     "Name": "贾宝玉",
+     "ID": "755e0c6e832c79cf96ae9ade1770fe07"
+    }
    }
   ]
  },
@@ -1956,13 +2397,19 @@
     "relation": {
      "relation": "嫂子"
     },
-    "node": "鸳鸯"
+    "node": {
+     "Name": "鸳鸯",
+     "ID": "c29f3b7ba8dac1ef8d6df7a8f84406b4"
+    }
    },
    {
     "relation": {
      "relation": "妻"
     },
-    "node": "金文翔"
+    "node": {
+     "Name": "金文翔",
+     "ID": "4db0659cf6e72635798f11da75605551"
+    }
    }
   ]
  },
@@ -1981,13 +2428,19 @@
     "relation": {
      "relation": "陪房"
     },
-    "node": "邢夫人"
+    "node": {
+     "Name": "邢夫人",
+     "ID": "80e792163c3f3c1d6d0eb348e4c6d791"
+    }
    },
    {
     "relation": {
      "relation": "外祖母"
     },
-    "node": "司棋"
+    "node": {
+     "Name": "司棋",
+     "ID": "d5c70e8a4bd3618b7ca02d91fbf0c40f"
+    }
    }
   ]
  },
@@ -2007,7 +2460,10 @@
     "relation": {
      "relation": "丫环"
     },
-    "node": "贾迎春"
+    "node": {
+     "Name": "贾迎春",
+     "ID": "a2f509ed4716c5e11aa9b5f6b9bee52a"
+    }
    }
   ]
  },
@@ -2026,7 +2482,10 @@
     "relation": {
      "relation": "丫环"
     },
-    "node": "贾宝玉"
+    "node": {
+     "Name": "贾宝玉",
+     "ID": "755e0c6e832c79cf96ae9ade1770fe07"
+    }
    }
   ]
  },
@@ -2045,7 +2504,10 @@
     "relation": {
      "relation": "丫环"
     },
-    "node": "贾宝玉"
+    "node": {
+     "Name": "贾宝玉",
+     "ID": "755e0c6e832c79cf96ae9ade1770fe07"
+    }
    }
   ]
  },
@@ -2065,19 +2527,28 @@
     "relation": {
      "relation": "弟弟"
     },
-    "node": "秦可卿"
+    "node": {
+     "Name": "秦可卿",
+     "ID": "129d1747092f13490079becc3fada5e1"
+    }
    },
    {
     "relation": {
      "relation": "儿子"
     },
-    "node": "秦邦业"
+    "node": {
+     "Name": "秦邦业",
+     "ID": "ca63b83036ed8bb89eb4136dcba4a433"
+    }
    },
    {
     "relation": {
      "relation": "朋友"
     },
-    "node": "贾宝玉"
+    "node": {
+     "Name": "贾宝玉",
+     "ID": "755e0c6e832c79cf96ae9ade1770fe07"
+    }
    }
   ]
  },
@@ -2099,13 +2570,19 @@
     "relation": {
      "relation": "相好"
     },
-    "node": "秦钟"
+    "node": {
+     "Name": "秦钟",
+     "ID": "39d69f064caab3589d751a4bf3c87949"
+    }
    },
    {
     "relation": {
      "relation": "徒弟"
     },
-    "node": "净虚"
+    "node": {
+     "Name": "净虚",
+     "ID": "0cf86a0d39a83ea0937b7f13417ebaa7"
+    }
    }
   ]
  },
@@ -2124,7 +2601,10 @@
     "relation": {
      "relation": "丫环"
     },
-    "node": "贾迎春"
+    "node": {
+     "Name": "贾迎春",
+     "ID": "a2f509ed4716c5e11aa9b5f6b9bee52a"
+    }
    }
   ]
  },
@@ -2143,7 +2623,10 @@
     "relation": {
      "relation": "丫环"
     },
-    "node": "贾探春"
+    "node": {
+     "Name": "贾探春",
+     "ID": "e7cbf47d145f5ac9bb2fb9597f1171ff"
+    }
    }
   ]
  },
@@ -2163,13 +2646,19 @@
     "relation": {
      "relation": "乳母"
     },
-    "node": "贾宝玉"
+    "node": {
+     "Name": "贾宝玉",
+     "ID": "755e0c6e832c79cf96ae9ade1770fe07"
+    }
    },
    {
     "relation": {
      "relation": "母亲"
     },
-    "node": "李贵"
+    "node": {
+     "Name": "李贵",
+     "ID": "4796f659ad32f622e0f0b3a930cf601f"
+    }
    }
   ]
  },
@@ -2188,13 +2677,19 @@
     "relation": {
      "relation": "儿子"
     },
-    "node": "李嬷嬷"
+    "node": {
+     "Name": "李嬷嬷",
+     "ID": "b4ba1d3f936796994051360cd14d35a0"
+    }
    },
    {
     "relation": {
      "relation": "仆人"
     },
-    "node": "贾宝玉"
+    "node": {
+     "Name": "贾宝玉",
+     "ID": "755e0c6e832c79cf96ae9ade1770fe07"
+    }
    }
   ]
  },
@@ -2215,7 +2710,10 @@
     "relation": {
      "relation": "相好"
     },
-    "node": "藕官"
+    "node": {
+     "Name": "藕官",
+     "ID": "74544b17afeef4343fba663401f82e5f"
+    }
    }
   ]
  },
@@ -2234,7 +2732,10 @@
     "relation": {
      "relation": "丫环"
     },
-    "node": "王夫人"
+    "node": {
+     "Name": "王夫人",
+     "ID": "db908d9efea732a59e2f6f4e744134ea"
+    }
    }
   ]
  },
@@ -2253,7 +2754,10 @@
     "relation": {
      "relation": "丫环"
     },
-    "node": "史湘云"
+    "node": {
+     "Name": "史湘云",
+     "ID": "537faa95d2f0c2690f48d1f64a9097c2"
+    }
    }
   ]
  },
@@ -2272,7 +2776,10 @@
     "relation": {
      "relation": "丫环"
     },
-    "node": "薛宝琴"
+    "node": {
+     "Name": "薛宝琴",
+     "ID": "eb8ef0575b1413fed14b4179009a9ff3"
+    }
    }
   ]
  },
@@ -2291,7 +2798,10 @@
     "relation": {
      "relation": "丫环"
     },
-    "node": "赵姨娘"
+    "node": {
+     "Name": "赵姨娘",
+     "ID": "75107b84a8a7985c5a86d70d06f4996f"
+    }
    }
   ]
  },
@@ -2311,7 +2821,10 @@
     "relation": {
      "relation": "陪房"
     },
-    "node": "夏金桂"
+    "node": {
+     "Name": "夏金桂",
+     "ID": "942a0179702198c9f254f92152f3de26"
+    }
    }
   ]
  },
@@ -2330,7 +2843,10 @@
     "relation": {
      "relation": "小厮"
     },
-    "node": "贾宝玉"
+    "node": {
+     "Name": "贾宝玉",
+     "ID": "755e0c6e832c79cf96ae9ade1770fe07"
+    }
    }
   ]
  },
@@ -2349,7 +2865,10 @@
     "relation": {
      "relation": "小厮"
     },
-    "node": "贾宝玉"
+    "node": {
+     "Name": "贾宝玉",
+     "ID": "755e0c6e832c79cf96ae9ade1770fe07"
+    }
    }
   ]
  },
@@ -2368,7 +2887,10 @@
     "relation": {
      "relation": "仆人"
     },
-    "node": "贾宝玉"
+    "node": {
+     "Name": "贾宝玉",
+     "ID": "755e0c6e832c79cf96ae9ade1770fe07"
+    }
    }
   ]
  },
@@ -2387,13 +2909,19 @@
     "relation": {
      "relation": "小厮"
     },
-    "node": "贾琏"
+    "node": {
+     "Name": "贾琏",
+     "ID": "f301d3af44ced4b667b7c2978a8d187b"
+    }
    },
    {
     "relation": {
      "relation": "小厮"
     },
-    "node": "王熙凤"
+    "node": {
+     "Name": "王熙凤",
+     "ID": "a77758323724c3896d696f0e489b5f1d"
+    }
    }
   ]
  },
@@ -2412,13 +2940,19 @@
     "relation": {
      "relation": "小厮"
     },
-    "node": "贾琏"
+    "node": {
+     "Name": "贾琏",
+     "ID": "f301d3af44ced4b667b7c2978a8d187b"
+    }
    },
    {
     "relation": {
      "relation": "小厮"
     },
-    "node": "王熙凤"
+    "node": {
+     "Name": "王熙凤",
+     "ID": "a77758323724c3896d696f0e489b5f1d"
+    }
    }
   ]
  },
@@ -2437,7 +2971,10 @@
     "relation": {
      "relation": "小厮"
     },
-    "node": "贾珍"
+    "node": {
+     "Name": "贾珍",
+     "ID": "e7ab26d61327d2741fd134a8b9db5fd6"
+    }
    }
   ]
  },
@@ -2456,7 +2993,10 @@
     "relation": {
      "relation": "小厮"
     },
-    "node": "柳湘莲"
+    "node": {
+     "Name": "柳湘莲",
+     "ID": "3919f2d63abdd7c417e66b94c83f54db"
+    }
    }
   ]
  },
@@ -2475,7 +3015,10 @@
     "relation": {
      "relation": "妾"
     },
-    "node": "贾珍"
+    "node": {
+     "Name": "贾珍",
+     "ID": "e7ab26d61327d2741fd134a8b9db5fd6"
+    }
    }
   ]
  },
@@ -2495,7 +3038,10 @@
     "relation": {
      "relation": "妻"
     },
-    "node": "贾蓉"
+    "node": {
+     "Name": "贾蓉",
+     "ID": "15c07fb46fb0e874074339e3d7838d02"
+    }
    }
   ]
  },
@@ -2514,7 +3060,10 @@
     "relation": {
      "relation": "儿子"
     },
-    "node": "冯唐"
+    "node": {
+     "Name": "冯唐",
+     "ID": "a0dccebe7ea3663b4ee56ce97737d949"
+    }
    }
   ]
  },
@@ -2546,7 +3095,10 @@
     "relation": {
      "relation": "丫环"
     },
-    "node": "贾探春"
+    "node": {
+     "Name": "贾探春",
+     "ID": "e7cbf47d145f5ac9bb2fb9597f1171ff"
+    }
    }
   ]
  },
@@ -2565,7 +3117,10 @@
     "relation": {
      "relation": "丫环"
     },
-    "node": "贾惜春"
+    "node": {
+     "Name": "贾惜春",
+     "ID": "9e4a12bf31de846990139ee66f3c13c8"
+    }
    }
   ]
  },
@@ -2585,19 +3140,28 @@
     "relation": {
      "relation": "妻"
     },
-    "node": "薛蝌"
+    "node": {
+     "Name": "薛蝌",
+     "ID": "f0e35aa7e4d228100948ac9f67472b65"
+    }
    },
    {
     "relation": {
      "relation": "女儿"
     },
-    "node": "邢忠"
+    "node": {
+     "Name": "邢忠",
+     "ID": "6021ec877fd920ff0b3519ecd67ecf48"
+    }
    },
    {
     "relation": {
      "relation": "侄女"
     },
-    "node": "邢夫人"
+    "node": {
+     "Name": "邢夫人",
+     "ID": "80e792163c3f3c1d6d0eb348e4c6d791"
+    }
    }
   ]
  },
@@ -2617,13 +3181,19 @@
     "relation": {
      "relation": "朋友"
     },
-    "node": "薛蟠"
+    "node": {
+     "Name": "薛蟠",
+     "ID": "5342b03d078f40e72209dc518235ccce"
+    }
    },
    {
     "relation": {
      "relation": "朋友"
     },
-    "node": "贾宝玉"
+    "node": {
+     "Name": "贾宝玉",
+     "ID": "755e0c6e832c79cf96ae9ade1770fe07"
+    }
    }
   ]
  },
@@ -2643,19 +3213,28 @@
     "relation": {
      "relation": "相好"
     },
-    "node": "菂官"
+    "node": {
+     "Name": "菂官",
+     "ID": "464eb3d8ddbd0edfe35c53741af09a09"
+    }
    },
    {
     "relation": {
      "relation": "丫环"
     },
-    "node": "林黛玉"
+    "node": {
+     "Name": "林黛玉",
+     "ID": "31f7d901fffdedd43c7ac5743bf0f8f8"
+    }
    },
    {
     "relation": {
      "relation": "相好"
     },
-    "node": "蕊官"
+    "node": {
+     "Name": "蕊官",
+     "ID": "795c4f0af097ed3a0baa40d4de24c88d"
+    }
    }
   ]
  },
@@ -2675,13 +3254,19 @@
     "relation": {
      "relation": "丫环"
     },
-    "node": "薛宝钗"
+    "node": {
+     "Name": "薛宝钗",
+     "ID": "9cdd10dedcb146df001d653c4caad775"
+    }
    },
    {
     "relation": {
      "relation": "相好"
     },
-    "node": "藕官"
+    "node": {
+     "Name": "藕官",
+     "ID": "74544b17afeef4343fba663401f82e5f"
+    }
    }
   ]
  },
@@ -2700,7 +3285,10 @@
     "relation": {
      "relation": "丫环"
     },
-    "node": "王夫人"
+    "node": {
+     "Name": "王夫人",
+     "ID": "db908d9efea732a59e2f6f4e744134ea"
+    }
    }
   ]
  },
@@ -2719,7 +3307,10 @@
     "relation": {
      "relation": "丫环"
     },
-    "node": "薛姨妈"
+    "node": {
+     "Name": "薛姨妈",
+     "ID": "c13d454df5fa1d313b063d299a8b3576"
+    }
    }
   ]
  },
@@ -2739,7 +3330,10 @@
     "relation": {
      "relation": "丫环"
     },
-    "node": "秦可卿"
+    "node": {
+     "Name": "秦可卿",
+     "ID": "129d1747092f13490079becc3fada5e1"
+    }
    }
   ]
  },
@@ -2758,7 +3352,10 @@
     "relation": {
      "relation": "丫环"
     },
-    "node": "邢岫烟"
+    "node": {
+     "Name": "邢岫烟",
+     "ID": "97df158c85af6798fd2558bdfbef09c3"
+    }
    }
   ]
  },
@@ -2777,7 +3374,10 @@
     "relation": {
      "relation": "丫环"
     },
-    "node": "尤氏"
+    "node": {
+     "Name": "尤氏",
+     "ID": "46e9c6c052d3682c918c01d056ce23ec"
+    }
    }
   ]
  },
@@ -2796,7 +3396,10 @@
     "relation": {
      "relation": "小厮"
     },
-    "node": "贾宝玉"
+    "node": {
+     "Name": "贾宝玉",
+     "ID": "755e0c6e832c79cf96ae9ade1770fe07"
+    }
    }
   ]
  },
@@ -2815,7 +3418,10 @@
     "relation": {
      "relation": "小厮"
     },
-    "node": "贾宝玉"
+    "node": {
+     "Name": "贾宝玉",
+     "ID": "755e0c6e832c79cf96ae9ade1770fe07"
+    }
    }
   ]
  },
@@ -2834,7 +3440,10 @@
     "relation": {
      "relation": "仆人"
     },
-    "node": "贾宝玉"
+    "node": {
+     "Name": "贾宝玉",
+     "ID": "755e0c6e832c79cf96ae9ade1770fe07"
+    }
    }
   ]
  },
@@ -2853,13 +3462,19 @@
     "relation": {
      "relation": "仆人"
     },
-    "node": "贾琏"
+    "node": {
+     "Name": "贾琏",
+     "ID": "f301d3af44ced4b667b7c2978a8d187b"
+    }
    },
    {
     "relation": {
      "relation": "仆人"
     },
-    "node": "王熙凤"
+    "node": {
+     "Name": "王熙凤",
+     "ID": "a77758323724c3896d696f0e489b5f1d"
+    }
    }
   ]
  },
@@ -2878,13 +3493,19 @@
     "relation": {
      "relation": "小厮"
     },
-    "node": "贾琏"
+    "node": {
+     "Name": "贾琏",
+     "ID": "f301d3af44ced4b667b7c2978a8d187b"
+    }
    },
    {
     "relation": {
      "relation": "小厮"
     },
-    "node": "王熙凤"
+    "node": {
+     "Name": "王熙凤",
+     "ID": "a77758323724c3896d696f0e489b5f1d"
+    }
    }
   ]
  },
@@ -2903,7 +3524,10 @@
     "relation": {
      "relation": "小厮"
     },
-    "node": "贾珍"
+    "node": {
+     "Name": "贾珍",
+     "ID": "e7ab26d61327d2741fd134a8b9db5fd6"
+    }
    }
   ]
  },
@@ -2924,7 +3548,10 @@
     "relation": {
      "relation": "徒弟"
     },
-    "node": "净虚"
+    "node": {
+     "Name": "净虚",
+     "ID": "0cf86a0d39a83ea0937b7f13417ebaa7"
+    }
    }
   ]
  },
@@ -2948,13 +3575,19 @@
      "num": "长女",
      "relation": "女儿"
     },
-    "node": "贾赦"
+    "node": {
+     "Name": "贾赦",
+     "ID": "3e7c8eaf460ca58abd61de032a7b3ebd"
+    }
    },
    {
     "relation": {
      "relation": "妻"
     },
-    "node": "孙绍祖"
+    "node": {
+     "Name": "孙绍祖",
+     "ID": "b3af1d22ade003a8eeca429f8a36c199"
+    }
    }
   ]
  },
@@ -2973,7 +3606,10 @@
     "relation": {
      "relation": "丫环"
     },
-    "node": "贾探春"
+    "node": {
+     "Name": "贾探春",
+     "ID": "e7cbf47d145f5ac9bb2fb9597f1171ff"
+    }
    }
   ]
  },
@@ -2994,13 +3630,19 @@
     "relation": {
      "relation": "丫环"
     },
-    "node": "贾母"
+    "node": {
+     "Name": "贾母",
+     "ID": "2ab750d3235a5ec04d8d5136c4adf39c"
+    }
    },
    {
     "relation": {
      "relation": "丫环"
     },
-    "node": "林黛玉"
+    "node": {
+     "Name": "林黛玉",
+     "ID": "31f7d901fffdedd43c7ac5743bf0f8f8"
+    }
    }
   ]
  },
@@ -3031,13 +3673,19 @@
     "relation": {
      "relation": "父亲"
     },
-    "node": "邢岫烟"
+    "node": {
+     "Name": "邢岫烟",
+     "ID": "97df158c85af6798fd2558bdfbef09c3"
+    }
    },
    {
     "relation": {
      "relation": "哥哥"
     },
-    "node": "邢夫人"
+    "node": {
+     "Name": "邢夫人",
+     "ID": "80e792163c3f3c1d6d0eb348e4c6d791"
+    }
    }
   ]
  },
@@ -3056,7 +3704,10 @@
     "relation": {
      "relation": "丫环"
     },
-    "node": "王夫人"
+    "node": {
+     "Name": "王夫人",
+     "ID": "db908d9efea732a59e2f6f4e744134ea"
+    }
    }
   ]
  },
@@ -3075,7 +3726,10 @@
     "relation": {
      "relation": "丫环"
     },
-    "node": "薛姨妈"
+    "node": {
+     "Name": "薛姨妈",
+     "ID": "c13d454df5fa1d313b063d299a8b3576"
+    }
    }
   ]
  },
@@ -3094,7 +3748,10 @@
     "relation": {
      "relation": "丫环"
     },
-    "node": "甄士隐"
+    "node": {
+     "Name": "甄士隐",
+     "ID": "7b550dd43a71e5cb12ae38d17cb66ad7"
+    }
    }
   ]
  },
@@ -3113,7 +3770,10 @@
     "relation": {
      "relation": "丫环"
     },
-    "node": "赵姨娘"
+    "node": {
+     "Name": "赵姨娘",
+     "ID": "75107b84a8a7985c5a86d70d06f4996f"
+    }
    }
   ]
  },
@@ -3132,7 +3792,10 @@
     "relation": {
      "relation": "丫环"
     },
-    "node": "夏金桂"
+    "node": {
+     "Name": "夏金桂",
+     "ID": "942a0179702198c9f254f92152f3de26"
+    }
    }
   ]
  },
@@ -3151,7 +3814,10 @@
     "relation": {
      "relation": "小厮"
     },
-    "node": "贾宝玉"
+    "node": {
+     "Name": "贾宝玉",
+     "ID": "755e0c6e832c79cf96ae9ade1770fe07"
+    }
    }
   ]
  },
@@ -3170,7 +3836,10 @@
     "relation": {
      "relation": "小厮"
     },
-    "node": "贾宝玉"
+    "node": {
+     "Name": "贾宝玉",
+     "ID": "755e0c6e832c79cf96ae9ade1770fe07"
+    }
    }
   ]
  },
@@ -3189,7 +3858,10 @@
     "relation": {
      "relation": "仆人"
     },
-    "node": "贾宝玉"
+    "node": {
+     "Name": "贾宝玉",
+     "ID": "755e0c6e832c79cf96ae9ade1770fe07"
+    }
    }
   ]
  },
@@ -3208,7 +3880,10 @@
     "relation": {
      "relation": "小厮"
     },
-    "node": "贾珍"
+    "node": {
+     "Name": "贾珍",
+     "ID": "e7ab26d61327d2741fd134a8b9db5fd6"
+    }
    }
   ]
  },
@@ -3227,7 +3902,10 @@
     "relation": {
      "relation": "小厮"
     },
-    "node": "贾琏"
+    "node": {
+     "Name": "贾琏",
+     "ID": "f301d3af44ced4b667b7c2978a8d187b"
+    }
    }
   ]
  },
@@ -3246,7 +3924,10 @@
     "relation": {
      "relation": "妾"
     },
-    "node": "贾珍"
+    "node": {
+     "Name": "贾珍",
+     "ID": "e7ab26d61327d2741fd134a8b9db5fd6"
+    }
    }
   ]
  },
@@ -3266,7 +3947,10 @@
     "relation": {
      "relation": "丫环"
     },
-    "node": "尤氏"
+    "node": {
+     "Name": "尤氏",
+     "ID": "46e9c6c052d3682c918c01d056ce23ec"
+    }
    }
   ]
  },
@@ -3285,19 +3969,28 @@
     "relation": {
      "relation": "继母"
     },
-    "node": "尤氏"
+    "node": {
+     "Name": "尤氏",
+     "ID": "46e9c6c052d3682c918c01d056ce23ec"
+    }
    },
    {
     "relation": {
      "relation": "母亲"
     },
-    "node": "尤二姐"
+    "node": {
+     "Name": "尤二姐",
+     "ID": "143296f57c7e4ec6e4f5d6b765ebcb72"
+    }
    },
    {
     "relation": {
      "relation": "母亲"
     },
-    "node": "尤三姐"
+    "node": {
+     "Name": "尤三姐",
+     "ID": "fcf9290b45e1b8f25851d749d5b75d5c"
+    }
    }
   ]
  },
@@ -3316,7 +4009,10 @@
     "relation": {
      "relation": "乳母"
     },
-    "node": "林黛玉"
+    "node": {
+     "Name": "林黛玉",
+     "ID": "31f7d901fffdedd43c7ac5743bf0f8f8"
+    }
    }
   ]
  },
@@ -3336,7 +4032,10 @@
     "relation": {
      "relation": "丫环"
     },
-    "node": "秦可卿"
+    "node": {
+     "Name": "秦可卿",
+     "ID": "129d1747092f13490079becc3fada5e1"
+    }
    }
   ]
  },
@@ -3355,7 +4054,10 @@
     "relation": {
      "relation": "丫环"
     },
-    "node": "香菱"
+    "node": {
+     "Name": "香菱",
+     "ID": "13505a93596849c7ea2c9c461b5beb14"
+    }
    }
   ]
  },
@@ -3374,7 +4076,10 @@
     "relation": {
      "relation": "丫环"
     },
-    "node": "尤氏"
+    "node": {
+     "Name": "尤氏",
+     "ID": "46e9c6c052d3682c918c01d056ce23ec"
+    }
    }
   ]
  },
@@ -3393,7 +4098,10 @@
     "relation": {
      "relation": "小厮"
     },
-    "node": "贾宝玉"
+    "node": {
+     "Name": "贾宝玉",
+     "ID": "755e0c6e832c79cf96ae9ade1770fe07"
+    }
    }
   ]
  },
@@ -3412,7 +4120,10 @@
     "relation": {
      "relation": "小厮"
     },
-    "node": "贾宝玉"
+    "node": {
+     "Name": "贾宝玉",
+     "ID": "755e0c6e832c79cf96ae9ade1770fe07"
+    }
    }
   ]
  },
@@ -3431,7 +4142,10 @@
     "relation": {
      "relation": "小厮"
     },
-    "node": "贾宝玉"
+    "node": {
+     "Name": "贾宝玉",
+     "ID": "755e0c6e832c79cf96ae9ade1770fe07"
+    }
    }
   ]
  },
@@ -3450,7 +4164,10 @@
     "relation": {
      "relation": "仆人"
     },
-    "node": "贾宝玉"
+    "node": {
+     "Name": "贾宝玉",
+     "ID": "755e0c6e832c79cf96ae9ade1770fe07"
+    }
    }
   ]
  },
@@ -3469,13 +4186,19 @@
     "relation": {
      "relation": "小厮"
     },
-    "node": "贾环"
+    "node": {
+     "Name": "贾环",
+     "ID": "67a40082c2223b593a277b3772cec59c"
+    }
    },
    {
     "relation": {
      "relation": "侄子"
     },
-    "node": "赵姨娘"
+    "node": {
+     "Name": "赵姨娘",
+     "ID": "75107b84a8a7985c5a86d70d06f4996f"
+    }
    }
   ]
  },
@@ -3495,7 +4218,10 @@
     "relation": {
      "relation": "母亲"
     },
-    "node": "林红玉"
+    "node": {
+     "Name": "林红玉",
+     "ID": "5ff32ff7d662827608e2c02c6d9cb147"
+    }
    }
   ]
  },
@@ -3515,7 +4241,10 @@
     "relation": {
      "relation": "丫环"
     },
-    "node": "薛宝琴"
+    "node": {
+     "Name": "薛宝琴",
+     "ID": "eb8ef0575b1413fed14b4179009a9ff3"
+    }
    }
   ]
  },
@@ -3537,7 +4266,10 @@
     "relation": {
      "relation": "老师"
     },
-    "node": "林黛玉"
+    "node": {
+     "Name": "林黛玉",
+     "ID": "31f7d901fffdedd43c7ac5743bf0f8f8"
+    }
    }
   ]
  },
@@ -3557,7 +4289,10 @@
     "relation": {
      "relation": "丫环"
     },
-    "node": "贾探春"
+    "node": {
+     "Name": "贾探春",
+     "ID": "e7cbf47d145f5ac9bb2fb9597f1171ff"
+    }
    }
   ]
  },
@@ -3576,7 +4311,10 @@
     "relation": {
      "relation": "仆人"
     },
-    "node": "甄士隐"
+    "node": {
+     "Name": "甄士隐",
+     "ID": "7b550dd43a71e5cb12ae38d17cb66ad7"
+    }
    }
   ]
  },
@@ -3595,7 +4333,10 @@
     "relation": {
      "relation": "清客相公"
     },
-    "node": "贾政"
+    "node": {
+     "Name": "贾政",
+     "ID": "0c9cc543268e00960a33e6e5528231c1"
+    }
    }
   ]
  },
@@ -3614,7 +4355,10 @@
     "relation": {
      "relation": "老师"
     },
-    "node": "冯紫英"
+    "node": {
+     "Name": "冯紫英",
+     "ID": "82a9c05feaee17ce634cdf59e27f66c7"
+    }
    }
   ]
  },
@@ -3634,7 +4378,10 @@
     "relation": {
      "relation": "孙子"
     },
-    "node": "马魁"
+    "node": {
+     "Name": "马魁",
+     "ID": "82d459b825ed3a60e8baac77ccdb6fdc"
+    }
    }
   ]
  },
@@ -3667,7 +4414,10 @@
     "relation": {
      "relation": "清客相公"
     },
-    "node": "贾政"
+    "node": {
+     "Name": "贾政",
+     "ID": "0c9cc543268e00960a33e6e5528231c1"
+    }
    }
   ]
  },
@@ -3687,7 +4437,10 @@
     "relation": {
      "relation": "孙子"
     },
-    "node": "襄阳侯"
+    "node": {
+     "Name": "襄阳侯",
+     "ID": "c2a331e30b446a730e2acddd84be4e71"
+    }
    }
   ]
  },
@@ -3719,7 +4472,10 @@
     "relation": {
      "relation": "相好"
     },
-    "node": "贾蔷"
+    "node": {
+     "Name": "贾蔷",
+     "ID": "8e5669db66c167f330348e6b0db7581b"
+    }
    }
   ]
  },
@@ -3740,7 +4496,10 @@
     "relation": {
      "relation": "养子"
     },
-    "node": "贾珍"
+    "node": {
+     "Name": "贾珍",
+     "ID": "e7ab26d61327d2741fd134a8b9db5fd6"
+    }
    }
   ]
  },
@@ -3760,7 +4519,10 @@
     "relation": {
      "relation": "丫环"
     },
-    "node": "贾母"
+    "node": {
+     "Name": "贾母",
+     "ID": "2ab750d3235a5ec04d8d5136c4adf39c"
+    }
    }
   ]
  },
@@ -3780,13 +4542,19 @@
     "relation": {
      "relation": "朋友"
     },
-    "node": "贾宝玉"
+    "node": {
+     "Name": "贾宝玉",
+     "ID": "755e0c6e832c79cf96ae9ade1770fe07"
+    }
    },
    {
     "relation": {
      "relation": "丈夫"
     },
-    "node": "袭人"
+    "node": {
+     "Name": "袭人",
+     "ID": "2405db23f47f06928aec540570f669f8"
+    }
    }
   ]
  },
@@ -3806,7 +4574,10 @@
     "relation": {
      "relation": "父亲"
     },
-    "node": "李纨"
+    "node": {
+     "Name": "李纨",
+     "ID": "9ad250f1e4e9d57ea7a8cdf974430633"
+    }
    }
   ]
  },
@@ -3827,19 +4598,28 @@
     "relation": {
      "relation": "妻"
     },
-    "node": "贾珠"
+    "node": {
+     "Name": "贾珠",
+     "ID": "9491fd0af55ac4e3ef41569810ad809c"
+    }
    },
    {
     "relation": {
      "relation": "嫂子"
     },
-    "node": "贾宝玉"
+    "node": {
+     "Name": "贾宝玉",
+     "ID": "755e0c6e832c79cf96ae9ade1770fe07"
+    }
    },
    {
     "relation": {
      "relation": "父亲"
     },
-    "node": "李守中"
+    "node": {
+     "Name": "李守中",
+     "ID": "b394972cfd32f9ad7bd43181b8c8c81e"
+    }
    }
   ]
  },
@@ -3859,7 +4639,10 @@
     "relation": {
      "relation": "丫环"
     },
-    "node": "史湘云"
+    "node": {
+     "Name": "史湘云",
+     "ID": "537faa95d2f0c2690f48d1f64a9097c2"
+    }
    }
   ]
  },
@@ -3879,7 +4662,10 @@
     "relation": {
      "relation": "妾"
     },
-    "node": "贾雨村"
+    "node": {
+     "Name": "贾雨村",
+     "ID": "395ab410eb56234c814cd1fdada622e4"
+    }
    }
   ]
  },
@@ -3898,7 +4684,10 @@
     "relation": {
      "relation": "妻"
     },
-    "node": "甄士隐"
+    "node": {
+     "Name": "甄士隐",
+     "ID": "7b550dd43a71e5cb12ae38d17cb66ad7"
+    }
    }
   ]
  },
@@ -3917,7 +4706,10 @@
     "relation": {
      "relation": "清客相公"
     },
-    "node": "贾政"
+    "node": {
+     "Name": "贾政",
+     "ID": "0c9cc543268e00960a33e6e5528231c1"
+    }
    }
   ]
  },
@@ -3937,7 +4729,10 @@
     "relation": {
      "relation": "孙子"
     },
-    "node": "牛清"
+    "node": {
+     "Name": "牛清",
+     "ID": "99184559bb17e31cd5d65e659bae6605"
+    }
    }
   ]
  },
@@ -3970,7 +4765,10 @@
     "relation": {
      "relation": "孙子"
     },
-    "node": "侯晓明"
+    "node": {
+     "Name": "侯晓明",
+     "ID": "b3ac3619cdac000ab54c5d9ac2b0feb6"
+    }
    }
   ]
  },
@@ -4002,7 +4800,10 @@
     "relation": {
      "relation": "妻"
     },
-    "node": "张材"
+    "node": {
+     "Name": "张材",
+     "ID": "49ee1b6dc4113168e476ed4855f8eb4e"
+    }
    }
   ]
  },
@@ -4033,13 +4834,19 @@
     "relation": {
      "relation": "妻"
     },
-    "node": "曹玺"
+    "node": {
+     "Name": "曹玺",
+     "ID": "616cc211565ce92b7298cccd85839d9e"
+    }
    },
    {
     "relation": {
      "relation": "保姆"
     },
-    "node": "康熙"
+    "node": {
+     "Name": "康熙",
+     "ID": "8484c9620c1f976e2e26039f3986c5bd"
+    }
    }
   ]
  },
@@ -4072,7 +4879,10 @@
     "relation": {
      "relation": "妻"
     },
-    "node": "多官"
+    "node": {
+     "Name": "多官",
+     "ID": "96eae230a04cdefd81f1089e88c163f8"
+    }
    }
   ]
  },
@@ -4105,7 +4915,10 @@
     "relation": {
      "relation": "姑舅哥哥"
     },
-    "node": "晴雯"
+    "node": {
+     "Name": "晴雯",
+     "ID": "72493482a5fe58b55089edc18d91caaa"
+    }
    }
   ]
  },
@@ -4125,19 +4938,28 @@
     "relation": {
      "relation": "女儿"
     },
-    "node": "尤氏继母"
+    "node": {
+     "Name": "尤氏继母",
+     "ID": "4498823b01f074b3658ba82ab51a5172"
+    }
    },
    {
     "relation": {
      "relation": "妹妹"
     },
-    "node": "尤二姐"
+    "node": {
+     "Name": "尤二姐",
+     "ID": "143296f57c7e4ec6e4f5d6b765ebcb72"
+    }
    },
    {
     "relation": {
      "relation": "妹妹"
     },
-    "node": "尤氏"
+    "node": {
+     "Name": "尤氏",
+     "ID": "46e9c6c052d3682c918c01d056ce23ec"
+    }
    }
   ]
  },
@@ -4157,7 +4979,10 @@
     "relation": {
      "relation": "贩卖者"
     },
-    "node": "香菱"
+    "node": {
+     "Name": "香菱",
+     "ID": "13505a93596849c7ea2c9c461b5beb14"
+    }
    }
   ]
  },
@@ -4177,13 +5002,19 @@
     "relation": {
      "relation": "孙子"
     },
-    "node": "赖嬷嬷"
+    "node": {
+     "Name": "赖嬷嬷",
+     "ID": "6d6de95af38e83091ee04485f6e96cfb"
+    }
    },
    {
     "relation": {
      "relation": "儿子"
     },
-    "node": "赖大"
+    "node": {
+     "Name": "赖大",
+     "ID": "297245f752d9ce5c1650622b0f432d1c"
+    }
    }
   ]
  },
@@ -4203,19 +5034,28 @@
     "relation": {
      "relation": "女婿"
     },
-    "node": "周瑞家的"
+    "node": {
+     "Name": "周瑞家的",
+     "ID": "d20dfe8fa8489e0404f8891b764ec8ae"
+    }
    },
    {
     "relation": {
      "relation": "朋友"
     },
-    "node": "贾雨村"
+    "node": {
+     "Name": "贾雨村",
+     "ID": "395ab410eb56234c814cd1fdada622e4"
+    }
    },
    {
     "relation": {
      "relation": "女婿"
     },
-    "node": "周瑞"
+    "node": {
+     "Name": "周瑞",
+     "ID": "1742b2dad5a5b974f3e39db95a2856b7"
+    }
    }
   ]
  },
@@ -4246,7 +5086,10 @@
     "relation": {
      "relation": "朋友"
     },
-    "node": "甄士隐"
+    "node": {
+     "Name": "甄士隐",
+     "ID": "7b550dd43a71e5cb12ae38d17cb66ad7"
+    }
    }
   ]
  },
@@ -4265,7 +5108,10 @@
     "relation": {
      "relation": "清客相公"
     },
-    "node": "贾政"
+    "node": {
+     "Name": "贾政",
+     "ID": "0c9cc543268e00960a33e6e5528231c1"
+    }
    }
   ]
  },
@@ -4285,7 +5131,10 @@
     "relation": {
      "relation": "孙子"
     },
-    "node": "陈翼"
+    "node": {
+     "Name": "陈翼",
+     "ID": "4a5d4f7e29ff30de01cdd85f9439cbad"
+    }
    }
   ]
  },
@@ -4317,7 +5166,10 @@
     "relation": {
      "relation": "妻"
     },
-    "node": "余信"
+    "node": {
+     "Name": "余信",
+     "ID": "c9d65618e70c6775193148655726b5eb"
+    }
    }
   ]
  },
@@ -4350,7 +5202,10 @@
     "relation": {
      "relation": "孙子"
     },
-    "node": "平原侯"
+    "node": {
+     "Name": "平原侯",
+     "ID": "dee8f30e89a9a303ef82a1461d603066"
+    }
    }
   ]
  },
@@ -4381,7 +5236,10 @@
     "relation": {
      "relation": "母亲"
     },
-    "node": "袭人"
+    "node": {
+     "Name": "袭人",
+     "ID": "2405db23f47f06928aec540570f669f8"
+    }
    }
   ]
  },
@@ -4400,7 +5258,10 @@
     "relation": {
      "relation": "邻居"
     },
-    "node": "贾芸"
+    "node": {
+     "Name": "贾芸",
+     "ID": "600d6e873b995f99893cac53e11bff32"
+    }
    }
   ]
  },
@@ -4419,13 +5280,19 @@
     "relation": {
      "relation": "儿子"
     },
-    "node": "五嫂子"
+    "node": {
+     "Name": "五嫂子",
+     "ID": "79a8a509687fae745b5967b152dd173d"
+    }
    },
    {
     "relation": {
      "relation": "干儿子"
     },
-    "node": "贾宝玉"
+    "node": {
+     "Name": "贾宝玉",
+     "ID": "755e0c6e832c79cf96ae9ade1770fe07"
+    }
    }
   ]
  },
@@ -4444,7 +5311,10 @@
     "relation": {
      "relation": "弟弟"
     },
-    "node": "赵姨娘"
+    "node": {
+     "Name": "赵姨娘",
+     "ID": "75107b84a8a7985c5a86d70d06f4996f"
+    }
    }
   ]
  },
@@ -4481,19 +5351,28 @@
      "num": "次子",
      "relation": "儿子"
     },
-    "node": "贾太公"
+    "node": {
+     "Name": "贾太公",
+     "ID": "d569219ae527fa1ad8a662ef2cba49f1"
+    }
    },
    {
     "relation": {
      "relation": "父亲"
     },
-    "node": "贾代善"
+    "node": {
+     "Name": "贾代善",
+     "ID": "401d93d1a2bd708079146729f9ca77b3"
+    }
    },
    {
     "relation": {
      "relation": "胞弟"
     },
-    "node": "贾演"
+    "node": {
+     "Name": "贾演",
+     "ID": "d1439df685eb55f0816cd7f9f7239895"
+    }
    }
   ]
  },
@@ -4512,7 +5391,10 @@
     "relation": {
      "relation": "母亲"
     },
-    "node": "赖大"
+    "node": {
+     "Name": "赖大",
+     "ID": "297245f752d9ce5c1650622b0f432d1c"
+    }
    }
   ]
  },
@@ -4532,7 +5414,10 @@
     "relation": {
      "relation": "岳父"
     },
-    "node": "甄士隐"
+    "node": {
+     "Name": "甄士隐",
+     "ID": "7b550dd43a71e5cb12ae38d17cb66ad7"
+    }
    }
   ]
  },
@@ -4551,7 +5436,10 @@
     "relation": {
      "relation": "乾娘"
     },
-    "node": "贾宝玉"
+    "node": {
+     "Name": "贾宝玉",
+     "ID": "755e0c6e832c79cf96ae9ade1770fe07"
+    }
    }
   ]
  },
@@ -4571,7 +5459,10 @@
     "relation": {
      "relation": "前世"
     },
-    "node": "贾宝玉"
+    "node": {
+     "Name": "贾宝玉",
+     "ID": "755e0c6e832c79cf96ae9ade1770fe07"
+    }
    }
   ]
  },
@@ -4590,13 +5481,19 @@
     "relation": {
      "relation": "妻"
     },
-    "node": "王狗儿"
+    "node": {
+     "Name": "王狗儿",
+     "ID": "41e4c90bb0892c88e2e798b12724b645"
+    }
    },
    {
     "relation": {
      "relation": "女儿"
     },
-    "node": "刘姥姥"
+    "node": {
+     "Name": "刘姥姥",
+     "ID": "ae166fe4de26881da152713ea2e70eb9"
+    }
    }
   ]
  },
@@ -4617,7 +5514,10 @@
     "relation": {
      "relation": "清客相公"
     },
-    "node": "贾政"
+    "node": {
+     "Name": "贾政",
+     "ID": "0c9cc543268e00960a33e6e5528231c1"
+    }
    }
   ]
  },
@@ -4637,7 +5537,10 @@
     "relation": {
      "relation": "孙子"
     },
-    "node": "柳彪"
+    "node": {
+     "Name": "柳彪",
+     "ID": "603b461fe9201eec2fd6cb5b26cdcc81"
+    }
    }
   ]
  },
@@ -4670,7 +5573,10 @@
     "relation": {
      "relation": "孙子"
     },
-    "node": "定城侯"
+    "node": {
+     "Name": "定城侯",
+     "ID": "5b0d94b643dcfd092c46c88c424086a2"
+    }
    }
   ]
  },
@@ -4701,7 +5607,10 @@
     "relation": {
      "relation": "孙子"
     },
-    "node": "缮国公"
+    "node": {
+     "Name": "缮国公",
+     "ID": "a3f21a8dad7d21b5242af0b25c8243d2"
+    }
    }
   ]
  },
@@ -4745,7 +5654,10 @@
     "relation": {
      "relation": "女儿"
     },
-    "node": "卜世仁"
+    "node": {
+     "Name": "卜世仁",
+     "ID": "f45804dd13fe39ef5b394d316408d97b"
+    }
    }
   ]
  },
@@ -4765,7 +5677,10 @@
     "relation": {
      "relation": "舅舅"
     },
-    "node": "贾芸"
+    "node": {
+     "Name": "贾芸",
+     "ID": "600d6e873b995f99893cac53e11bff32"
+    }
    }
   ]
  },
@@ -4785,7 +5700,10 @@
     "relation": {
      "relation": "门生"
     },
-    "node": "贾政"
+    "node": {
+     "Name": "贾政",
+     "ID": "0c9cc543268e00960a33e6e5528231c1"
+    }
    }
   ]
  },
@@ -4804,13 +5722,19 @@
     "relation": {
      "relation": "妃子"
     },
-    "node": "皇帝"
+    "node": {
+     "Name": "皇帝",
+     "ID": "987a86510e7d63e015a94667d4f5ac1c"
+    }
    },
    {
     "relation": {
      "relation": "女儿"
     },
-    "node": "吴天佑"
+    "node": {
+     "Name": "吴天佑",
+     "ID": "1ee9a9d5d1967101289c2cd16b5c6d7c"
+    }
    }
   ]
  },
@@ -4829,7 +5753,10 @@
     "relation": {
      "relation": "父亲"
     },
-    "node": "吴贵妃"
+    "node": {
+     "Name": "吴贵妃",
+     "ID": "81d7dee647a9176eb81aad64b0795a2d"
+    }
    }
   ]
  },
@@ -4860,7 +5787,10 @@
     "relation": {
      "relation": "妹妹"
     },
-    "node": "傅试"
+    "node": {
+     "Name": "傅试",
+     "ID": "5b5524b7e629a1b2789a931cb0ef6fbc"
+    }
    }
   ]
  },
@@ -4879,7 +5809,10 @@
     "relation": {
      "relation": "哥哥"
     },
-    "node": "袭人"
+    "node": {
+     "Name": "袭人",
+     "ID": "2405db23f47f06928aec540570f669f8"
+    }
    }
   ]
  },
@@ -4898,7 +5831,10 @@
     "relation": {
      "relation": "妾"
     },
-    "node": "贾政"
+    "node": {
+     "Name": "贾政",
+     "ID": "0c9cc543268e00960a33e6e5528231c1"
+    }
    }
   ]
  },
@@ -4917,7 +5853,10 @@
     "relation": {
      "relation": "妻"
     },
-    "node": "单大良"
+    "node": {
+     "Name": "单大良",
+     "ID": "14c25bab8d234f97ce63337ae4e155f2"
+    }
    }
   ]
  },
@@ -4952,25 +5891,37 @@
      "num": "长子",
      "relation": "儿子"
     },
-    "node": "贾源"
+    "node": {
+     "Name": "贾源",
+     "ID": "710f4eb4d72d1399d44fe6245df8306b"
+    }
    },
    {
     "relation": {
      "relation": "丈夫"
     },
-    "node": "贾母"
+    "node": {
+     "Name": "贾母",
+     "ID": "2ab750d3235a5ec04d8d5136c4adf39c"
+    }
    },
    {
     "relation": {
      "relation": "父亲"
     },
-    "node": "贾政"
+    "node": {
+     "Name": "贾政",
+     "ID": "0c9cc543268e00960a33e6e5528231c1"
+    }
    },
    {
     "relation": {
      "relation": "父亲"
     },
-    "node": "贾赦"
+    "node": {
+     "Name": "贾赦",
+     "ID": "3e7c8eaf460ca58abd61de032a7b3ebd"
+    }
    }
   ]
  },
@@ -4995,25 +5946,37 @@
      "num": "长子",
      "relation": "儿子"
     },
-    "node": "贾太公"
+    "node": {
+     "Name": "贾太公",
+     "ID": "d569219ae527fa1ad8a662ef2cba49f1"
+    }
    },
    {
     "relation": {
      "relation": "胞兄"
     },
-    "node": "贾源"
+    "node": {
+     "Name": "贾源",
+     "ID": "710f4eb4d72d1399d44fe6245df8306b"
+    }
    },
    {
     "relation": {
      "relation": "主人"
     },
-    "node": "焦大"
+    "node": {
+     "Name": "焦大",
+     "ID": "225d31744b4a7c2c9663ff1cc26b5135"
+    }
    },
    {
     "relation": {
      "relation": "父亲"
     },
-    "node": "贾代化"
+    "node": {
+     "Name": "贾代化",
+     "ID": "418790a3acb617cd45720f633db8fe7b"
+    }
    }
   ]
  },
@@ -5038,13 +6001,19 @@
      "num": "长子",
      "relation": "儿子"
     },
-    "node": "贾演"
+    "node": {
+     "Name": "贾演",
+     "ID": "d1439df685eb55f0816cd7f9f7239895"
+    }
    },
    {
     "relation": {
      "relation": "父亲"
     },
-    "node": "贾敬"
+    "node": {
+     "Name": "贾敬",
+     "ID": "6b29dfe7f6440e86cb4bace061cbfc30"
+    }
    }
   ]
  },
@@ -5063,7 +6032,10 @@
     "relation": {
      "relation": "父亲"
     },
-    "node": "胡氏"
+    "node": {
+     "Name": "胡氏",
+     "ID": "8689d3221f1ae8306d70fa40a2796240"
+    }
    }
   ]
  },
@@ -5082,14 +6054,20 @@
     "relation": {
      "relation": "母亲"
     },
-    "node": "金荣"
+    "node": {
+     "Name": "金荣",
+     "ID": "e3bd037696bec60fad4dd897f73f75ce"
+    }
    },
    {
     "relation": {
      "from": "程本",
      "relation": "妻"
     },
-    "node": "贾蓉"
+    "node": {
+     "Name": "贾蓉",
+     "ID": "15c07fb46fb0e874074339e3d7838d02"
+    }
    }
   ]
  },
@@ -5108,7 +6086,10 @@
     "relation": {
      "relation": "妻"
     },
-    "node": "鲍二"
+    "node": {
+     "Name": "鲍二",
+     "ID": "96ad8f92a3c4c0027e4edfb1a1465041"
+    }
    }
   ]
  },
@@ -5140,7 +6121,10 @@
     "relation": {
      "relation": "女儿"
     },
-    "node": "李婶娘"
+    "node": {
+     "Name": "李婶娘",
+     "ID": "a714e2fb2fb071b861ad5b69aa25e5c2"
+    }
    }
   ]
  },
@@ -5160,13 +6144,19 @@
     "relation": {
      "relation": "母亲"
     },
-    "node": "春燕"
+    "node": {
+     "Name": "春燕",
+     "ID": "144df0545dd4969a5b655ff47a154a19"
+    }
    },
    {
     "relation": {
      "relation": "干娘"
     },
-    "node": "芳官"
+    "node": {
+     "Name": "芳官",
+     "ID": "050f9ad30a7f1ed6d35b046553382ee8"
+    }
    }
   ]
  },
@@ -5185,7 +6175,10 @@
     "relation": {
      "relation": "姑表弟弟"
     },
-    "node": "司棋"
+    "node": {
+     "Name": "司棋",
+     "ID": "d5c70e8a4bd3618b7ca02d91fbf0c40f"
+    }
    }
   ]
  },
@@ -5204,13 +6197,19 @@
     "relation": {
      "relation": "版本"
     },
-    "node": "人民文学出版社1982年版"
+    "node": {
+     "Name": "人民文学出版社1982年版",
+     "ID": "fcde9abbf25173483c617c45de3684c5"
+    }
    },
    {
     "relation": {
      "relation": "版本"
     },
-    "node": "人民文学出版社1974年版"
+    "node": {
+     "Name": "人民文学出版社1974年版",
+     "ID": "d064bf187b53fe8a1968acce11498ddb"
+    }
    }
   ]
  },
@@ -5229,7 +6228,10 @@
     "relation": {
      "relation": "底本"
     },
-    "node": "程乙本"
+    "node": {
+     "Name": "程乙本",
+     "ID": "a7d852ff0cc7219944d8db3e76efd234"
+    }
    }
   ]
  },
@@ -5248,13 +6250,19 @@
     "relation": {
      "relation": "女儿"
     },
-    "node": "何婆子"
+    "node": {
+     "Name": "何婆子",
+     "ID": "75a556b8dad99babfea0e9672776bd3f"
+    }
    },
    {
     "relation": {
      "relation": "妹妹"
     },
-    "node": "春燕"
+    "node": {
+     "Name": "春燕",
+     "ID": "144df0545dd4969a5b655ff47a154a19"
+    }
    }
   ]
  },
@@ -5274,7 +6282,10 @@
     "relation": {
      "relation": "母亲"
     },
-    "node": "柳五儿"
+    "node": {
+     "Name": "柳五儿",
+     "ID": "3180872707a2d1c6d5d697b4226ba290"
+    }
    }
   ]
  },
@@ -5298,37 +6309,55 @@
     "relation": {
      "relation": "高祖"
     },
-    "node": "曹振彦"
+    "node": {
+     "Name": "曹振彦",
+     "ID": "c7648d56f9668838333b5efdc19ff3d6"
+    }
    },
    {
     "relation": {
      "relation": "曾祖父"
     },
-    "node": "曹玺"
+    "node": {
+     "Name": "曹玺",
+     "ID": "616cc211565ce92b7298cccd85839d9e"
+    }
    },
    {
     "relation": {
      "relation": "祖父"
     },
-    "node": "曹寅"
+    "node": {
+     "Name": "曹寅",
+     "ID": "8bd0292dbbba78ce4d08fb7ce968bced"
+    }
    },
    {
     "relation": {
      "relation": "伯父"
     },
-    "node": "曹顒"
+    "node": {
+     "Name": "曹顒",
+     "ID": "ee981093b49c4b69b0fa5f58ab25d009"
+    }
    },
    {
     "relation": {
      "relation": "父亲"
     },
-    "node": "曹頫"
+    "node": {
+     "Name": "曹頫",
+     "ID": "f5bdc79350973b87decde8adc5d2a46b"
+    }
    },
    {
     "relation": {
      "relation": "作者"
     },
-    "node": "红楼梦"
+    "node": {
+     "Name": "红楼梦",
+     "ID": "43b9d1cc9e67f3cdf53130e39de56c47"
+    }
    }
   ]
  },
@@ -5359,7 +6388,10 @@
     "relation": {
      "relation": "乳母"
     },
-    "node": "史湘云"
+    "node": {
+     "Name": "史湘云",
+     "ID": "537faa95d2f0c2690f48d1f64a9097c2"
+    }
    }
   ]
  },
@@ -5378,7 +6410,10 @@
     "relation": {
      "relation": "孙子"
     },
-    "node": "景田侯"
+    "node": {
+     "Name": "景田侯",
+     "ID": "8721e4728b5c76f5ecbdf6f690e5d4d8"
+    }
    }
   ]
  },
@@ -5409,7 +6444,10 @@
     "relation": {
      "relation": "老奴"
     },
-    "node": "贾演"
+    "node": {
+     "Name": "贾演",
+     "ID": "d1439df685eb55f0816cd7f9f7239895"
+    }
    }
   ]
  },
@@ -5428,19 +6466,28 @@
     "relation": {
      "relation": "乳母"
     },
-    "node": "贾琏"
+    "node": {
+     "Name": "贾琏",
+     "ID": "f301d3af44ced4b667b7c2978a8d187b"
+    }
    },
    {
     "relation": {
      "relation": "母亲"
     },
-    "node": "赵天梁"
+    "node": {
+     "Name": "赵天梁",
+     "ID": "0a762487d4519573a6c18dca302534c2"
+    }
    },
    {
     "relation": {
      "relation": "母亲"
     },
-    "node": "赵天栋"
+    "node": {
+     "Name": "赵天栋",
+     "ID": "13ed99dead45eecb2fab91dd7e33cd6a"
+    }
    }
   ]
  },
@@ -5471,7 +6518,10 @@
     "relation": {
      "relation": "父亲"
     },
-    "node": "鸳鸯"
+    "node": {
+     "Name": "鸳鸯",
+     "ID": "c29f3b7ba8dac1ef8d6df7a8f84406b4"
+    }
    }
   ]
  },
@@ -5491,19 +6541,28 @@
     "relation": {
      "relation": "女儿"
     },
-    "node": "李婶娘"
+    "node": {
+     "Name": "李婶娘",
+     "ID": "a714e2fb2fb071b861ad5b69aa25e5c2"
+    }
    },
    {
     "relation": {
      "relation": "妹妹"
     },
-    "node": "李纹"
+    "node": {
+     "Name": "李纹",
+     "ID": "9a135c6ffb97daa80149743e965798c9"
+    }
    },
    {
     "relation": {
      "relation": "堂妹"
     },
-    "node": "李纨"
+    "node": {
+     "Name": "李纨",
+     "ID": "9ad250f1e4e9d57ea7a8cdf974430633"
+    }
    }
   ]
  },
@@ -5523,7 +6582,10 @@
     "relation": {
      "relation": "丫环"
     },
-    "node": "贾宝玉"
+    "node": {
+     "Name": "贾宝玉",
+     "ID": "755e0c6e832c79cf96ae9ade1770fe07"
+    }
    }
   ]
  },
@@ -5542,7 +6604,10 @@
     "relation": {
      "relation": "胞弟"
     },
-    "node": "邢夫人"
+    "node": {
+     "Name": "邢夫人",
+     "ID": "80e792163c3f3c1d6d0eb348e4c6d791"
+    }
    }
   ]
  },
@@ -5561,7 +6626,10 @@
     "relation": {
      "relation": "底本"
     },
-    "node": "脂砚斋重评石头记"
+    "node": {
+     "Name": "脂砚斋重评石头记",
+     "ID": "a08907aabd87c22b87f7fadafe480680"
+    }
    }
   ]
  },
@@ -5580,7 +6648,10 @@
     "relation": {
      "relation": "妹妹"
     },
-    "node": "彩霞"
+    "node": {
+     "Name": "彩霞",
+     "ID": "917b046ed3e3fd72c85c075f0300ccb6"
+    }
    }
   ]
  },
@@ -5631,13 +6702,19 @@
      "num": "次子",
      "relation": "儿子"
     },
-    "node": "贾代化"
+    "node": {
+     "Name": "贾代化",
+     "ID": "418790a3acb617cd45720f633db8fe7b"
+    }
    },
    {
     "relation": {
      "relation": "父亲"
     },
-    "node": "贾珍"
+    "node": {
+     "Name": "贾珍",
+     "ID": "e7ab26d61327d2741fd134a8b9db5fd6"
+    }
    }
   ]
  },
@@ -5672,27 +6749,39 @@
     "relation": {
      "relation": "儿子"
     },
-    "node": "贾珍"
+    "node": {
+     "Name": "贾珍",
+     "ID": "e7ab26d61327d2741fd134a8b9db5fd6"
+    }
    },
    {
     "relation": {
      "relation": "丈夫"
     },
-    "node": "秦可卿"
+    "node": {
+     "Name": "秦可卿",
+     "ID": "129d1747092f13490079becc3fada5e1"
+    }
    },
    {
     "relation": {
      "from": "程本",
      "relation": "丈夫"
     },
-    "node": "胡氏"
+    "node": {
+     "Name": "胡氏",
+     "ID": "8689d3221f1ae8306d70fa40a2796240"
+    }
    },
    {
     "relation": {
      "from": "脂本",
      "relation": "丈夫"
     },
-    "node": "许氏"
+    "node": {
+     "Name": "许氏",
+     "ID": "73678ce34a5f6057d88dbfa782da150e"
+    }
    }
   ]
  },
@@ -5711,7 +6800,10 @@
     "relation": {
      "relation": "儿子"
     },
-    "node": "娄氏"
+    "node": {
+     "Name": "娄氏",
+     "ID": "d899e21aa9d519a0d60e78179b7bb65c"
+    }
    }
   ]
  },
@@ -5730,7 +6822,10 @@
     "relation": {
      "relation": "母亲"
     },
-    "node": "贾菌"
+    "node": {
+     "Name": "贾菌",
+     "ID": "1b632ce20646b508b700748796cf2327"
+    }
    }
   ]
  },
@@ -5753,26 +6848,38 @@
      "num": "长女",
      "relation": "女儿"
     },
-    "node": "贾政"
+    "node": {
+     "Name": "贾政",
+     "ID": "0c9cc543268e00960a33e6e5528231c1"
+    }
    },
    {
     "relation": {
      "relation": "女儿"
     },
-    "node": "王夫人"
+    "node": {
+     "Name": "王夫人",
+     "ID": "db908d9efea732a59e2f6f4e744134ea"
+    }
    },
    {
     "relation": {
      "relation": "姐姐"
     },
-    "node": "贾宝玉"
+    "node": {
+     "Name": "贾宝玉",
+     "ID": "755e0c6e832c79cf96ae9ade1770fe07"
+    }
    },
    {
     "relation": {
      "title": "贤德妃",
      "relation": "妃子"
     },
-    "node": "皇帝"
+    "node": {
+     "Name": "皇帝",
+     "ID": "987a86510e7d63e015a94667d4f5ac1c"
+    }
    }
   ]
  },
@@ -5803,7 +6910,10 @@
     "relation": {
      "relation": "师祖"
     },
-    "node": "王济仁"
+    "node": {
+     "Name": "王济仁",
+     "ID": "3677f2008270f28f2ff3739ebbbfd79e"
+    }
    }
   ]
  },
@@ -5836,7 +6946,10 @@
     "relation": {
      "relation": "婶娘"
     },
-    "node": "李纨"
+    "node": {
+     "Name": "李纨",
+     "ID": "9ad250f1e4e9d57ea7a8cdf974430633"
+    }
    }
   ]
  },
@@ -5855,7 +6968,10 @@
     "relation": {
      "relation": "妹妹"
     },
-    "node": "贾琼"
+    "node": {
+     "Name": "贾琼",
+     "ID": "eb44b2e85feedb2bedd119bb56643306"
+    }
    }
   ]
  },
@@ -5888,7 +7004,10 @@
     "relation": {
      "relation": "陪读御前侍卫"
     },
-    "node": "康熙"
+    "node": {
+     "Name": "康熙",
+     "ID": "8484c9620c1f976e2e26039f3986c5bd"
+    }
    }
   ]
  },
@@ -5907,7 +7026,10 @@
     "relation": {
      "relation": "母亲"
     },
-    "node": "夏金桂"
+    "node": {
+     "Name": "夏金桂",
+     "ID": "942a0179702198c9f254f92152f3de26"
+    }
    }
   ]
  },
@@ -5938,13 +7060,19 @@
     "relation": {
      "relation": "姑妈"
     },
-    "node": "金荣"
+    "node": {
+     "Name": "金荣",
+     "ID": "e3bd037696bec60fad4dd897f73f75ce"
+    }
    },
    {
     "relation": {
      "relation": "妻"
     },
-    "node": "贾璜"
+    "node": {
+     "Name": "贾璜",
+     "ID": "809dfb6a6e3a8fddbd00821297697fda"
+    }
    }
   ]
  },
@@ -5964,7 +7092,10 @@
     "relation": {
      "relation": "丈夫"
     },
-    "node": "金氏"
+    "node": {
+     "Name": "金氏",
+     "ID": "a177923c2e47cd1bc13f2cf968acffbc"
+    }
    }
   ]
  },
@@ -5998,7 +7129,10 @@
      "num": "长子",
      "relation": "儿子"
     },
-    "node": "贾代化"
+    "node": {
+     "Name": "贾代化",
+     "ID": "418790a3acb617cd45720f633db8fe7b"
+    }
    }
   ]
  },
@@ -6020,7 +7154,10 @@
      "num": "次子",
      "relation": "儿子"
     },
-    "node": "贾赦"
+    "node": {
+     "Name": "贾赦",
+     "ID": "3e7c8eaf460ca58abd61de032a7b3ebd"
+    }
    }
   ]
  },
@@ -6042,13 +7179,19 @@
     "relation": {
      "relation": "朋友"
     },
-    "node": "林黛玉"
+    "node": {
+     "Name": "林黛玉",
+     "ID": "31f7d901fffdedd43c7ac5743bf0f8f8"
+    }
    },
    {
     "relation": {
      "relation": "朋友"
     },
-    "node": "贾宝玉"
+    "node": {
+     "Name": "贾宝玉",
+     "ID": "755e0c6e832c79cf96ae9ade1770fe07"
+    }
    }
   ]
  },
@@ -6067,7 +7210,10 @@
     "relation": {
      "relation": "妾"
     },
-    "node": "贾赦"
+    "node": {
+     "Name": "贾赦",
+     "ID": "3e7c8eaf460ca58abd61de032a7b3ebd"
+    }
    }
   ]
  },
@@ -6087,7 +7233,10 @@
     "relation": {
      "relation": "婶娘"
     },
-    "node": "司棋"
+    "node": {
+     "Name": "司棋",
+     "ID": "d5c70e8a4bd3618b7ca02d91fbf0c40f"
+    }
    }
   ]
  },
@@ -6106,7 +7255,10 @@
     "relation": {
      "relation": "妾"
     },
-    "node": "贾珍"
+    "node": {
+     "Name": "贾珍",
+     "ID": "e7ab26d61327d2741fd134a8b9db5fd6"
+    }
    }
   ]
  },
@@ -6126,13 +7278,19 @@
     "relation": {
      "relation": "母亲"
     },
-    "node": "茗烟"
+    "node": {
+     "Name": "茗烟",
+     "ID": "f071250e2bc11911ca62482adf857b47"
+    }
    },
    {
     "relation": {
      "relation": "干娘"
     },
-    "node": "莺儿"
+    "node": {
+     "Name": "莺儿",
+     "ID": "a801a4ea757a51903e4122568d1c56af"
+    }
    }
   ]
  },
@@ -6151,13 +7309,19 @@
     "relation": {
      "relation": "姨妈"
     },
-    "node": "春燕"
+    "node": {
+     "Name": "春燕",
+     "ID": "144df0545dd4969a5b655ff47a154a19"
+    }
    },
    {
     "relation": {
      "relation": "干娘"
     },
-    "node": "藕官"
+    "node": {
+     "Name": "藕官",
+     "ID": "74544b17afeef4343fba663401f82e5f"
+    }
    }
   ]
  },
@@ -6176,7 +7340,10 @@
     "relation": {
      "relation": "妾"
     },
-    "node": "贾赦"
+    "node": {
+     "Name": "贾赦",
+     "ID": "3e7c8eaf460ca58abd61de032a7b3ebd"
+    }
    }
   ]
  },
@@ -6224,26 +7391,38 @@
      "num": "长子",
      "relation": "儿子"
     },
-    "node": "王夫人"
+    "node": {
+     "Name": "王夫人",
+     "ID": "db908d9efea732a59e2f6f4e744134ea"
+    }
    },
    {
     "relation": {
      "num": "长子",
      "relation": "儿子"
     },
-    "node": "贾政"
+    "node": {
+     "Name": "贾政",
+     "ID": "0c9cc543268e00960a33e6e5528231c1"
+    }
    },
    {
     "relation": {
      "relation": "丈夫"
     },
-    "node": "李纨"
+    "node": {
+     "Name": "李纨",
+     "ID": "9ad250f1e4e9d57ea7a8cdf974430633"
+    }
    },
    {
     "relation": {
      "relation": "哥哥"
     },
-    "node": "贾宝玉"
+    "node": {
+     "Name": "贾宝玉",
+     "ID": "755e0c6e832c79cf96ae9ade1770fe07"
+    }
    }
   ]
  },
@@ -6263,7 +7442,10 @@
      "from": "脂本",
      "relation": "妻"
     },
-    "node": "贾蓉"
+    "node": {
+     "Name": "贾蓉",
+     "ID": "15c07fb46fb0e874074339e3d7838d02"
+    }
    }
   ]
  },
@@ -6283,13 +7465,19 @@
     "relation": {
      "relation": "丈夫"
     },
-    "node": "贾敏"
+    "node": {
+     "Name": "贾敏",
+     "ID": "a97673be0c6e6e80594372b004590608"
+    }
    },
    {
     "relation": {
      "relation": "父亲"
     },
-    "node": "林黛玉"
+    "node": {
+     "Name": "林黛玉",
+     "ID": "31f7d901fffdedd43c7ac5743bf0f8f8"
+    }
    }
   ]
  },
@@ -6309,7 +7497,10 @@
     "relation": {
      "relation": "孙子"
     },
-    "node": "贾代儒"
+    "node": {
+     "Name": "贾代儒",
+     "ID": "eb16df6a87ffae34a2069fbe138c2959"
+    }
    }
   ]
  },
@@ -6342,7 +7533,10 @@
     "relation": {
      "relation": "丫环"
     },
-    "node": "贾宝玉"
+    "node": {
+     "Name": "贾宝玉",
+     "ID": "755e0c6e832c79cf96ae9ade1770fe07"
+    }
    }
   ]
  },
@@ -6361,7 +7555,10 @@
     "relation": {
      "relation": "妹妹"
     },
-    "node": "贾㻞"
+    "node": {
+     "Name": "贾㻞",
+     "ID": "6fbc8472d7a34d5316913c42a6079405"
+    }
    }
   ]
  },
@@ -6393,7 +7590,10 @@
     "relation": {
      "relation": "儿子"
     },
-    "node": "周氏"
+    "node": {
+     "Name": "周氏",
+     "ID": "9c5632eb8051cea21b72787b0717fe3a"
+    }
    }
   ]
  },
@@ -6424,7 +7624,10 @@
     "relation": {
      "relation": "儿子"
     },
-    "node": "甄应嘉"
+    "node": {
+     "Name": "甄应嘉",
+     "ID": "80e71f384b4cc02672d6c555293d07f4"
+    }
    }
   ]
  },
@@ -6455,7 +7658,10 @@
     "relation": {
      "relation": "丫环"
     },
-    "node": "贾宝玉"
+    "node": {
+     "Name": "贾宝玉",
+     "ID": "755e0c6e832c79cf96ae9ade1770fe07"
+    }
    }
   ]
  },
@@ -6477,13 +7683,19 @@
      "num": "长子",
      "relation": "儿子"
     },
-    "node": "贾珠"
+    "node": {
+     "Name": "贾珠",
+     "ID": "9491fd0af55ac4e3ef41569810ad809c"
+    }
    },
    {
     "relation": {
      "relation": "儿子"
     },
-    "node": "李纨"
+    "node": {
+     "Name": "李纨",
+     "ID": "9ad250f1e4e9d57ea7a8cdf974430633"
+    }
    }
   ]
  },
@@ -6504,37 +7716,55 @@
      "num": "第4女",
      "relation": "女儿"
     },
-    "node": "贾代善"
+    "node": {
+     "Name": "贾代善",
+     "ID": "401d93d1a2bd708079146729f9ca77b3"
+    }
    },
    {
     "relation": {
      "relation": "女儿"
     },
-    "node": "贾母"
+    "node": {
+     "Name": "贾母",
+     "ID": "2ab750d3235a5ec04d8d5136c4adf39c"
+    }
    },
    {
     "relation": {
      "relation": "妹妹"
     },
-    "node": "贾政"
+    "node": {
+     "Name": "贾政",
+     "ID": "0c9cc543268e00960a33e6e5528231c1"
+    }
    },
    {
     "relation": {
      "relation": "妹妹"
     },
-    "node": "贾赦"
+    "node": {
+     "Name": "贾赦",
+     "ID": "3e7c8eaf460ca58abd61de032a7b3ebd"
+    }
    },
    {
     "relation": {
      "relation": "妻"
     },
-    "node": "林如海"
+    "node": {
+     "Name": "林如海",
+     "ID": "4b00def8926c8083ff79ab01f6c98495"
+    }
    },
    {
     "relation": {
      "relation": "母亲"
     },
-    "node": "林黛玉"
+    "node": {
+     "Name": "林黛玉",
+     "ID": "31f7d901fffdedd43c7ac5743bf0f8f8"
+    }
    }
   ]
  },
@@ -6553,25 +7783,37 @@
     "relation": {
      "relation": "丈夫"
     },
-    "node": "贾巧姐"
+    "node": {
+     "Name": "贾巧姐",
+     "ID": "f865edbb398865d3e8d5a1c8647d3066"
+    }
    },
    {
     "relation": {
      "relation": "儿子"
     },
-    "node": "王狗儿"
+    "node": {
+     "Name": "王狗儿",
+     "ID": "41e4c90bb0892c88e2e798b12724b645"
+    }
    },
    {
     "relation": {
      "relation": "孙子"
     },
-    "node": "王成"
+    "node": {
+     "Name": "王成",
+     "ID": "0fcef24965abf9fb6959d7f52340802a"
+    }
    },
    {
     "relation": {
      "relation": "外孙"
     },
-    "node": "刘姥姥"
+    "node": {
+     "Name": "刘姥姥",
+     "ID": "ae166fe4de26881da152713ea2e70eb9"
+    }
    }
   ]
  },
@@ -6592,7 +7834,10 @@
     "relation": {
      "relation": "丫环"
     },
-    "node": "贾宝玉"
+    "node": {
+     "Name": "贾宝玉",
+     "ID": "755e0c6e832c79cf96ae9ade1770fe07"
+    }
    }
   ]
  },
@@ -6611,7 +7856,10 @@
     "relation": {
      "relation": "丫环"
     },
-    "node": "贾元春"
+    "node": {
+     "Name": "贾元春",
+     "ID": "625e73a6dd306033212be37bba53c06d"
+    }
    }
   ]
  }

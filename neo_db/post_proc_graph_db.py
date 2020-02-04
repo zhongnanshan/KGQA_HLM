@@ -58,6 +58,25 @@ def get_node(node_name):
     dt['properties']['ID'] = dt_hash
     return dt
 
+# 同步关系目标节点的ID号(如果有则不修改。尽在初次生成Neo4j导入数据时使用)
+def update_id(json_data):
+    id_dict = {}
+    for item in json_data:
+        id_dict[item['node']['properties']['Name']] = item['node']['properties']['ID']
+
+    new_json_data = []
+    for item in json_data:
+        data = {'node': item['node']}
+        data['relations'] = []
+        for relation in item['relations']:
+            old_node = relation['node']
+            new_node = {'Name': old_node, 'ID': id_dict[old_node]}
+            new_relation = {'relation': relation['relation'], 'node': new_node}
+            data['relations'].append(new_relation)
+        new_json_data.append(data)
+
+    return new_json_data
+
 # 从Neo4j数据库生成relation3.json
 def post_proc_graph_db():
     nodes = get_all_nodes()
@@ -68,8 +87,10 @@ def post_proc_graph_db():
         data = {'node': node, 'relations': relations}
         json_data.append(data)
     
+    new_json_data = update_id(json_data)
+
     with open('./raw_data/relation3.json', mode='w', encoding='utf-8') as fd:
-        json.dump(json_data, fd, ensure_ascii=False, indent=1)
+        json.dump(new_json_data, fd, ensure_ascii=False, indent=1)
 
 if __name__ == '__main__':
     # get_nodes()
