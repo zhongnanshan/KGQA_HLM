@@ -7,7 +7,8 @@
    "properties": {
     "family": "王家",
     "class": "金陵十二钗(正)",
-    "Name": "王熙凤"
+    "Name": "王熙凤",
+    "ID": "a77758323724c3896d696f0e489b5f1d"
    }
   },
   "relations": [
@@ -49,7 +50,8 @@
     "Person"
    ],
    "properties": {
-    "Name": "王仁"
+    "Name": "王仁",
+    "ID": "b2611acf0190c4bd86ce059338736789"
    }
   },
   "relations": [
@@ -67,7 +69,8 @@
     "Person"
    ],
    "properties": {
-    "Name": "邢夫人"
+    "Name": "邢夫人",
+    "ID": "80e792163c3f3c1d6d0eb348e4c6d791"
    }
   },
   "relations": [
@@ -97,7 +100,8 @@
     "Person"
    ],
    "properties": {
-    "Name": "赵姨娘"
+    "Name": "赵姨娘",
+    "ID": "75107b84a8a7985c5a86d70d06f4996f"
    }
   },
   "relations": [
@@ -131,7 +135,8 @@
     "origin": "庶出",
     "family": "贾家",
     "class": "金陵十二钗(正)",
-    "Name": "贾探春"
+    "Name": "贾探春",
+    "ID": "e7cbf47d145f5ac9bb2fb9597f1171ff"
    }
   },
   "relations": [
@@ -157,7 +162,8 @@
    "properties": {
     "family": "史家",
     "class": "金陵十二钗(正)",
-    "Name": "史湘云"
+    "Name": "史湘云",
+    "ID": "537faa95d2f0c2690f48d1f64a9097c2"
    }
   },
   "relations": [
@@ -206,7 +212,8 @@
    ],
    "properties": {
     "rank": "忠靖侯",
-    "Name": "史鼎"
+    "Name": "史鼎",
+    "ID": "f618d18a9c874ef113f9f6d5f335d82b"
    }
   },
   "relations": [
@@ -232,7 +239,8 @@
    "properties": {
     "address": "潇湘馆",
     "class": "金陵十二钗(正)",
-    "Name": "林黛玉"
+    "Name": "林黛玉",
+    "ID": "31f7d901fffdedd43c7ac5743bf0f8f8"
    }
   },
   "relations": [
@@ -268,7 +276,8 @@
     "Person"
    ],
    "properties": {
-    "Name": "傻大姐"
+    "Name": "傻大姐",
+    "ID": "31bdcbcb3bddacb5e749200e9552ceb7"
    }
   },
   "relations": [
@@ -286,7 +295,8 @@
     "Person"
    ],
    "properties": {
-    "Name": "琥珀"
+    "Name": "琥珀",
+    "ID": "6e1d726f80ec5734e5db694eecb986e2"
    }
   },
   "relations": [
@@ -305,7 +315,8 @@
    ],
    "properties": {
     "pron": "wàn|ér",
-    "Name": "卐儿"
+    "Name": "卐儿",
+    "ID": "bc311784ca049f20aa814d38fb2ec71c"
    }
   },
   "relations": [
@@ -329,7 +340,8 @@
     "Person"
    ],
    "properties": {
-    "Name": "尤氏"
+    "Name": "尤氏",
+    "ID": "46e9c6c052d3682c918c01d056ce23ec"
    }
   },
   "relations": [
@@ -355,7 +367,8 @@
    "properties": {
     "family": "薛家",
     "class": "金陵十二钗(副)",
-    "Name": "薛宝琴"
+    "Name": "薛宝琴",
+    "ID": "eb8ef0575b1413fed14b4179009a9ff3"
    }
   },
   "relations": [
@@ -380,7 +393,8 @@
    ],
    "properties": {
     "class": "金陵十二钗(又副)",
-    "Name": "莺儿"
+    "Name": "莺儿",
+    "ID": "a801a4ea757a51903e4122568d1c56af"
    }
   },
   "relations": [
@@ -399,7 +413,8 @@
    ],
    "properties": {
     "class": "十二优伶",
-    "Name": "芳官"
+    "Name": "芳官",
+    "ID": "050f9ad30a7f1ed6d35b046553382ee8"
    }
   },
   "relations": [
@@ -418,7 +433,8 @@
    ],
    "properties": {
     "class": "金陵十二钗(又副)",
-    "Name": "晴雯"
+    "Name": "晴雯",
+    "ID": "72493482a5fe58b55089edc18d91caaa"
    }
   },
   "relations": [
@@ -437,7 +453,8 @@
    ],
    "properties": {
     "alias": "碧痕",
-    "Name": "碧浪"
+    "Name": "碧浪",
+    "ID": "c2f0e9be4fe0cdc2292a051a0e45d222"
    }
   },
   "relations": [
@@ -456,7 +473,8 @@
    ],
    "properties": {
     "status": "荣国府大管家",
-    "Name": "赖大"
+    "Name": "赖大",
+    "ID": "297245f752d9ce5c1650622b0f432d1c"
    }
   },
   "relations": [
@@ -474,7 +492,8 @@
     "Person"
    ],
    "properties": {
-    "Name": "赖上荣"
+    "Name": "赖上荣",
+    "ID": "e0dfd14aff1dda381807a87a0aaeb4f1"
    }
   },
   "relations": []
@@ -487,7 +506,8 @@
    "properties": {
     "address": "水月庵",
     "status": "尼姑",
-    "Name": "净虚"
+    "Name": "净虚",
+    "ID": "0cf86a0d39a83ea0937b7f13417ebaa7"
    }
   },
   "relations": [
@@ -512,7 +532,8 @@
    ],
    "properties": {
     "family": "王家",
-    "Name": "王夫人"
+    "Name": "王夫人",
+    "ID": "db908d9efea732a59e2f6f4e744134ea"
    }
   },
   "relations": [
@@ -560,7 +581,8 @@
     "Person"
    ],
    "properties": {
-    "Name": "刘姥姥"
+    "Name": "刘姥姥",
+    "ID": "ae166fe4de26881da152713ea2e70eb9"
    }
   },
   "relations": [
@@ -580,7 +602,8 @@
    "properties": {
     "origin": "庶出",
     "family": "贾家",
-    "Name": "贾环"
+    "Name": "贾环",
+    "ID": "67a40082c2223b593a277b3772cec59c"
    }
   },
   "relations": [
@@ -607,7 +630,8 @@
    "properties": {
     "address": "荣国府",
     "family": "贾家",
-    "Name": "贾宝玉"
+    "Name": "贾宝玉",
+    "ID": "755e0c6e832c79cf96ae9ade1770fe07"
    }
   },
   "relations": [
@@ -657,7 +681,8 @@
     "Person"
    ],
    "properties": {
-    "Name": "雪雁"
+    "Name": "雪雁",
+    "ID": "62f89247da49c6e749f82a64289b60f2"
    }
   },
   "relations": [
@@ -675,7 +700,8 @@
     "Person"
    ],
    "properties": {
-    "Name": "珍珠"
+    "Name": "珍珠",
+    "ID": "044277995152af6daee9d7ae68f12dbb"
    }
   },
   "relations": [
@@ -696,7 +722,8 @@
     "address": "宁国府",
     "inherit": "三品爵威烈将军",
     "family": "贾家",
-    "Name": "贾珍"
+    "Name": "贾珍",
+    "ID": "e7ab26d61327d2741fd134a8b9db5fd6"
    }
   },
   "relations": [
@@ -733,7 +760,8 @@
    ],
    "properties": {
     "class": "金陵十二钗(又副)",
-    "Name": "金钏"
+    "Name": "金钏",
+    "ID": "78870a4e00f15238f9088017c5398fad"
    }
   },
   "relations": [
@@ -758,7 +786,8 @@
    ],
    "properties": {
     "class": "金陵十二钗(又副)",
-    "Name": "玉钏"
+    "Name": "玉钏",
+    "ID": "e02f63cb57f589ca8a79e5fbc841c841"
    }
   },
   "relations": [
@@ -784,7 +813,8 @@
    "properties": {
     "family": "薛家",
     "word": "文起",
-    "Name": "薛蟠"
+    "Name": "薛蟠",
+    "ID": "5342b03d078f40e72209dc518235ccce"
    }
   },
   "relations": [
@@ -809,7 +839,8 @@
    ],
    "properties": {
     "family": "薛家",
-    "Name": "薛蝌"
+    "Name": "薛蝌",
+    "ID": "f0e35aa7e4d228100948ac9f67472b65"
    }
   },
   "relations": [
@@ -827,7 +858,8 @@
     "Person"
    ],
    "properties": {
-    "Name": "文杏"
+    "Name": "文杏",
+    "ID": "5ac2ce537ebe577ffc9e38d8409de1a3"
    }
   },
   "relations": [
@@ -845,7 +877,8 @@
     "Person"
    ],
    "properties": {
-    "Name": "秋桐"
+    "Name": "秋桐",
+    "ID": "2a0de67c30e95e6a2ef03eeb9dc88f68"
    }
   },
   "relations": [
@@ -873,7 +906,8 @@
     "inherit": "荣国公",
     "family": "贾家",
     "word": "恩侯",
-    "Name": "贾赦"
+    "Name": "贾赦",
+    "ID": "3e7c8eaf460ca58abd61de032a7b3ebd"
    }
   },
   "relations": [
@@ -923,7 +957,8 @@
     "Person"
    ],
    "properties": {
-    "Name": "金文翔"
+    "Name": "金文翔",
+    "ID": "4db0659cf6e72635798f11da75605551"
    }
   },
   "relations": [
@@ -947,7 +982,8 @@
     "Person"
    ],
    "properties": {
-    "Name": "周瑞家的"
+    "Name": "周瑞家的",
+    "ID": "d20dfe8fa8489e0404f8891b764ec8ae"
    }
   },
   "relations": [
@@ -966,7 +1002,8 @@
    ],
    "properties": {
     "status": "荣国府二管家",
-    "Name": "林之孝"
+    "Name": "林之孝",
+    "ID": "1e9a3571833fa9174647aae978a7250a"
    }
   },
   "relations": [
@@ -984,7 +1021,8 @@
     "Person"
    ],
    "properties": {
-    "Name": "林红玉"
+    "Name": "林红玉",
+    "ID": "5ff32ff7d662827608e2c02c6d9cb147"
    }
   },
   "relations": []
@@ -996,7 +1034,8 @@
    ],
    "properties": {
     "class": "金陵十二钗(又副)",
-    "Name": "茜雪"
+    "Name": "茜雪",
+    "ID": "632984b26237e5f9361c5e32d19f4e6d"
    }
   },
   "relations": [
@@ -1014,7 +1053,8 @@
     "Person"
    ],
    "properties": {
-    "Name": "坠儿"
+    "Name": "坠儿",
+    "ID": "b9acfcda553f999c844c0cc62d090902"
    }
   },
   "relations": [
@@ -1035,7 +1075,8 @@
     "address": "荣国府",
     "family": "贾家",
     "class": "金陵十二钗(正)",
-    "Name": "贾巧姐"
+    "Name": "贾巧姐",
+    "ID": "f865edbb398865d3e8d5a1c8647d3066"
    }
   },
   "relations": [
@@ -1069,7 +1110,8 @@
     "official": "工部员外郎",
     "family": "贾家",
     "word": "存周",
-    "Name": "贾政"
+    "Name": "贾政",
+    "ID": "0c9cc543268e00960a33e6e5528231c1"
    }
   },
   "relations": [
@@ -1140,7 +1182,8 @@
     "address": "荣国府",
     "alias": "史太君",
     "family": "史家",
-    "Name": "贾母"
+    "Name": "贾母",
+    "ID": "2ab750d3235a5ec04d8d5136c4adf39c"
    }
   },
   "relations": [
@@ -1182,7 +1225,8 @@
     "Person"
    ],
    "properties": {
-    "Name": "王子胜"
+    "Name": "王子胜",
+    "ID": "b02d4a87a6fb84d923c816a27a3fe365"
    }
   },
   "relations": [
@@ -1201,7 +1245,8 @@
    ],
    "properties": {
     "official": "金陵节度使",
-    "Name": "王子腾"
+    "Name": "王子腾",
+    "ID": "1338081aa7c9ae098aec2b8cadfa5b40"
    }
   },
   "relations": [
@@ -1225,7 +1270,8 @@
     "Person"
    ],
    "properties": {
-    "Name": "春纤"
+    "Name": "春纤",
+    "ID": "d079b35e05678d56285d4d908c4c21e3"
    }
   },
   "relations": [
@@ -1243,7 +1289,8 @@
     "Person"
    ],
    "properties": {
-    "Name": "玻璃"
+    "Name": "玻璃",
+    "ID": "839a5c4042336fe5184ec6fd3c549ff4"
    }
   },
   "relations": [
@@ -1261,7 +1308,8 @@
     "Person"
    ],
    "properties": {
-    "Name": "丰儿"
+    "Name": "丰儿",
+    "ID": "292ff30308528c3f658dfa47d36a1c59"
    }
   },
   "relations": [
@@ -1280,7 +1328,8 @@
    ],
    "properties": {
     "class": "金陵十二钗(副)",
-    "Name": "平儿"
+    "Name": "平儿",
+    "ID": "957ad62ec1131002ce689205d6e40577"
    }
   },
   "relations": [
@@ -1298,7 +1347,8 @@
     "Person"
    ],
    "properties": {
-    "Name": "来喜家的"
+    "Name": "来喜家的",
+    "ID": "1e8b7b91e2acc89b6fd8b927f9f64931"
    }
   },
   "relations": [
@@ -1317,7 +1367,8 @@
    ],
    "properties": {
     "class": "金陵十二钗(又副)",
-    "Name": "袭人"
+    "Name": "袭人",
+    "ID": "2405db23f47f06928aec540570f669f8"
    }
   },
   "relations": [
@@ -1336,7 +1387,8 @@
    ],
    "properties": {
     "class": "金陵十二钗(又副)",
-    "Name": "麝月"
+    "Name": "麝月",
+    "ID": "a89be813da3e13416ccc0d340547e35b"
    }
   },
   "relations": [
@@ -1355,7 +1407,8 @@
    ],
    "properties": {
     "alias": "蕙香",
-    "Name": "四儿"
+    "Name": "四儿",
+    "ID": "c0dd15136a0f615e01aee45d7a0bc673"
    }
   },
   "relations": [
@@ -1375,7 +1428,8 @@
    "properties": {
     "official": "工部营缮郎",
     "alias": "秦业",
-    "Name": "秦邦业"
+    "Name": "秦邦业",
+    "ID": "ca63b83036ed8bb89eb4136dcba4a433"
    }
   },
   "relations": [
@@ -1400,7 +1454,8 @@
    ],
    "properties": {
     "status": "神仙",
-    "Name": "绛珠仙子"
+    "Name": "绛珠仙子",
+    "ID": "e87f38440611d5948265c3f415a763c4"
    }
   },
   "relations": [
@@ -1418,7 +1473,8 @@
     "Person"
    ],
    "properties": {
-    "Name": "绣橘"
+    "Name": "绣橘",
+    "ID": "0920b001cecd7002dc15f6b42fa4b6e4"
    }
   },
   "relations": [
@@ -1436,7 +1492,8 @@
     "Person"
    ],
    "properties": {
-    "Name": "入画"
+    "Name": "入画",
+    "ID": "c7c48ab7146cc28eae91c2e0ac26060c"
    }
   },
   "relations": [
@@ -1457,7 +1514,8 @@
     "address": "蓼风轩",
     "family": "贾家",
     "class": "金陵十二钗(正)",
-    "Name": "贾惜春"
+    "Name": "贾惜春",
+    "ID": "9e4a12bf31de846990139ee66f3c13c8"
    }
   },
   "relations": [
@@ -1487,7 +1545,8 @@
     "Person"
    ],
    "properties": {
-    "Name": "夏金桂"
+    "Name": "夏金桂",
+    "ID": "942a0179702198c9f254f92152f3de26"
    }
   },
   "relations": [
@@ -1505,7 +1564,8 @@
     "Person"
    ],
    "properties": {
-    "Name": "彩霞"
+    "Name": "彩霞",
+    "ID": "917b046ed3e3fd72c85c075f0300ccb6"
    }
   },
   "relations": [
@@ -1526,7 +1586,8 @@
     "address": "荣国府",
     "official": "同知",
     "family": "贾家",
-    "Name": "贾琏"
+    "Name": "贾琏",
+    "ID": "f301d3af44ced4b667b7c2978a8d187b"
    }
   },
   "relations": [
@@ -1558,7 +1619,8 @@
    ],
    "properties": {
     "pron": "shǐ|nài",
-    "Name": "史鼐"
+    "Name": "史鼐",
+    "ID": "44f82a5da792cf30902e294f2e0d7649"
    }
   },
   "relations": [
@@ -1578,7 +1640,8 @@
    "properties": {
     "rank": "保龄侯",
     "official": "尚书令",
-    "Name": "史公"
+    "Name": "史公",
+    "ID": "5be8a7e6de2252d4f3046dfaacd41ddd"
    }
   },
   "relations": []
@@ -1592,7 +1655,8 @@
     "address": "蘅芜苑",
     "family": "薛家",
     "class": "金陵十二钗(正)",
-    "Name": "薛宝钗"
+    "Name": "薛宝钗",
+    "ID": "9cdd10dedcb146df001d653c4caad775"
    }
   },
   "relations": [
@@ -1618,7 +1682,8 @@
    "properties": {
     "name": "费",
     "word": "士隐",
-    "Name": "甄士隐"
+    "Name": "甄士隐",
+    "ID": "7b550dd43a71e5cb12ae38d17cb66ad7"
    }
   },
   "relations": [
@@ -1638,7 +1703,8 @@
    "properties": {
     "alias": "甄英莲",
     "class": "金陵十二钗(副)",
-    "Name": "香菱"
+    "Name": "香菱",
+    "ID": "13505a93596849c7ea2c9c461b5beb14"
    }
   },
   "relations": [
@@ -1663,7 +1729,8 @@
    ],
    "properties": {
     "class": "金陵十二钗(又副)",
-    "Name": "鸳鸯"
+    "Name": "鸳鸯",
+    "ID": "c29f3b7ba8dac1ef8d6df7a8f84406b4"
    }
   },
   "relations": [
@@ -1681,7 +1748,8 @@
     "Person"
    ],
    "properties": {
-    "Name": "翡翠"
+    "Name": "翡翠",
+    "ID": "ac046c050e833d25fbd30619237d26ef"
    }
   },
   "relations": [
@@ -1699,7 +1767,8 @@
     "Person"
    ],
    "properties": {
-    "Name": "善姐"
+    "Name": "善姐",
+    "ID": "1ac050a4db6bf782cbd5b9b3872de4b5"
    }
   },
   "relations": [
@@ -1724,7 +1793,8 @@
    ],
    "properties": {
     "class": "金陵十二钗(副)",
-    "Name": "尤二姐"
+    "Name": "尤二姐",
+    "ID": "143296f57c7e4ec6e4f5d6b765ebcb72"
    }
   },
   "relations": [
@@ -1755,7 +1825,8 @@
    ],
    "properties": {
     "family": "薛家",
-    "Name": "薛姨妈"
+    "Name": "薛姨妈",
+    "ID": "c13d454df5fa1d313b063d299a8b3576"
    }
   },
   "relations": [
@@ -1791,7 +1862,8 @@
     "Person"
    ],
    "properties": {
-    "Name": "王狗儿"
+    "Name": "王狗儿",
+    "ID": "41e4c90bb0892c88e2e798b12724b645"
    }
   },
   "relations": [
@@ -1810,7 +1882,8 @@
    ],
    "properties": {
     "status": "王家的远亲",
-    "Name": "王成"
+    "Name": "王成",
+    "ID": "0fcef24965abf9fb6959d7f52340802a"
    }
   },
   "relations": []
@@ -1823,7 +1896,8 @@
    "properties": {
     "alias": "林红玉",
     "class": "金陵十二钗(又副)",
-    "Name": "小红"
+    "Name": "小红",
+    "ID": "cc2ec8c6d672b6df5d4b8f9f6dc12c0e"
    }
   },
   "relations": [
@@ -1848,7 +1922,8 @@
    ],
    "properties": {
     "class": "金陵十二钗(又副)",
-    "Name": "柳五儿"
+    "Name": "柳五儿",
+    "ID": "3180872707a2d1c6d5d697b4226ba290"
    }
   },
   "relations": [
@@ -1872,7 +1947,8 @@
     "Person"
    ],
    "properties": {
-    "Name": "金文翔家的"
+    "Name": "金文翔家的",
+    "ID": "1fea7d0000c3c0d18c2b910f017235bd"
    }
   },
   "relations": [
@@ -1896,7 +1972,8 @@
     "Person"
    ],
    "properties": {
-    "Name": "王善保家的"
+    "Name": "王善保家的",
+    "ID": "87e7bedfe300e1a2cfbbe6f20a2e6820"
    }
   },
   "relations": [
@@ -1921,7 +1998,8 @@
    ],
    "properties": {
     "class": "金陵十二钗(又副)",
-    "Name": "司棋"
+    "Name": "司棋",
+    "ID": "d5c70e8a4bd3618b7ca02d91fbf0c40f"
    }
   },
   "relations": [
@@ -1939,7 +2017,8 @@
     "Person"
    ],
    "properties": {
-    "Name": "媚人"
+    "Name": "媚人",
+    "ID": "c007f4923de6ffdfd2b7309aea19c7e1"
    }
   },
   "relations": [
@@ -1957,7 +2036,8 @@
     "Person"
    ],
    "properties": {
-    "Name": "秋纹"
+    "Name": "秋纹",
+    "ID": "7bdedca4aac9a1a5a24f3144d7ddbc8a"
    }
   },
   "relations": [
@@ -1976,7 +2056,8 @@
    ],
    "properties": {
     "word": "鲸卿",
-    "Name": "秦钟"
+    "Name": "秦钟",
+    "ID": "39d69f064caab3589d751a4bf3c87949"
    }
   },
   "relations": [
@@ -2009,7 +2090,8 @@
     "address": "水月庵",
     "alias": "能儿",
     "status": "尼姑",
-    "Name": "智能"
+    "Name": "智能",
+    "ID": "6cd2fe83509bcc50b04204822964c139"
    }
   },
   "relations": [
@@ -2033,7 +2115,8 @@
     "Person"
    ],
    "properties": {
-    "Name": "莲花儿"
+    "Name": "莲花儿",
+    "ID": "914747a49996da1919386ec8f960c230"
    }
   },
   "relations": [
@@ -2051,7 +2134,8 @@
     "Person"
    ],
    "properties": {
-    "Name": "蝉姐"
+    "Name": "蝉姐",
+    "ID": "8765aee6b4fffdcab705139230b760de"
    }
   },
   "relations": [
@@ -2070,7 +2154,8 @@
    ],
    "properties": {
     "pron": "lǐ|mó|mó",
-    "Name": "李嬷嬷"
+    "Name": "李嬷嬷",
+    "ID": "b4ba1d3f936796994051360cd14d35a0"
    }
   },
   "relations": [
@@ -2094,7 +2179,8 @@
     "Person"
    ],
    "properties": {
-    "Name": "李贵"
+    "Name": "李贵",
+    "ID": "4796f659ad32f622e0f0b3a930cf601f"
    }
   },
   "relations": [
@@ -2120,7 +2206,8 @@
    "properties": {
     "pron": "dì|guān",
     "class": "十二优伶",
-    "Name": "菂官"
+    "Name": "菂官",
+    "ID": "464eb3d8ddbd0edfe35c53741af09a09"
    }
   },
   "relations": [
@@ -2138,7 +2225,8 @@
     "Person"
    ],
    "properties": {
-    "Name": "彩云"
+    "Name": "彩云",
+    "ID": "63cac9a2dd11fe57ce52d3d12bf23e92"
    }
   },
   "relations": [
@@ -2156,7 +2244,8 @@
     "Person"
    ],
    "properties": {
-    "Name": "翠缕"
+    "Name": "翠缕",
+    "ID": "1fc7fd00776b22d223e860abf4ca254d"
    }
   },
   "relations": [
@@ -2174,7 +2263,8 @@
     "Person"
    ],
    "properties": {
-    "Name": "小螺"
+    "Name": "小螺",
+    "ID": "bd09a306745afaa104dd70386356b963"
    }
   },
   "relations": [
@@ -2192,7 +2282,8 @@
     "Person"
    ],
    "properties": {
-    "Name": "小鹊"
+    "Name": "小鹊",
+    "ID": "84c27e80517fd975fd37c43ade7780c5"
    }
   },
   "relations": [
@@ -2211,7 +2302,8 @@
    ],
    "properties": {
     "class": "金陵十二钗(副)",
-    "Name": "宝蟾"
+    "Name": "宝蟾",
+    "ID": "5b26ce55d455a6efcda6daa08109563e"
    }
   },
   "relations": [
@@ -2229,7 +2321,8 @@
     "Person"
    ],
    "properties": {
-    "Name": "伴鹤"
+    "Name": "伴鹤",
+    "ID": "8a7a6e8fec8e61cdf010c55bb97e9436"
    }
   },
   "relations": [
@@ -2247,7 +2340,8 @@
     "Person"
    ],
    "properties": {
-    "Name": "双瑞"
+    "Name": "双瑞",
+    "ID": "1392863ef6dd116b78acef94cbcc9a75"
    }
   },
   "relations": [
@@ -2265,7 +2359,8 @@
     "Person"
    ],
    "properties": {
-    "Name": "张若锦"
+    "Name": "张若锦",
+    "ID": "2cdcb4c3b0b54f2c4219099c190c095f"
    }
   },
   "relations": [
@@ -2283,7 +2378,8 @@
     "Person"
    ],
    "properties": {
-    "Name": "昭儿"
+    "Name": "昭儿",
+    "ID": "768eec5b9dae5e20b6fc5b065ec051be"
    }
   },
   "relations": [
@@ -2307,7 +2403,8 @@
     "Person"
    ],
    "properties": {
-    "Name": "王信"
+    "Name": "王信",
+    "ID": "08264722788671d8ec58e1a78c50c844"
    }
   },
   "relations": [
@@ -2331,7 +2428,8 @@
     "Person"
    ],
    "properties": {
-    "Name": "寿儿"
+    "Name": "寿儿",
+    "ID": "f37a6f178b6d88cd6e2d483121d4ab83"
    }
   },
   "relations": [
@@ -2349,7 +2447,8 @@
     "Person"
    ],
    "properties": {
-    "Name": "杏奴"
+    "Name": "杏奴",
+    "ID": "d6d7518af7ceeb79ef686e9de6a3dda8"
    }
   },
   "relations": [
@@ -2367,7 +2466,8 @@
     "Person"
    ],
    "properties": {
-    "Name": "偕鸾"
+    "Name": "偕鸾",
+    "ID": "1727ffd82551ce38671e07837895a07b"
    }
   },
   "relations": [
@@ -2386,7 +2486,8 @@
    ],
    "properties": {
     "class": "金陵十二钗(正)",
-    "Name": "秦可卿"
+    "Name": "秦可卿",
+    "ID": "129d1747092f13490079becc3fada5e1"
    }
   },
   "relations": [
@@ -2404,7 +2505,8 @@
     "Person"
    ],
    "properties": {
-    "Name": "冯紫英"
+    "Name": "冯紫英",
+    "ID": "82a9c05feaee17ce634cdf59e27f66c7"
    }
   },
   "relations": [
@@ -2423,7 +2525,8 @@
    ],
    "properties": {
     "rank": "神武将军",
-    "Name": "冯唐"
+    "Name": "冯唐",
+    "ID": "a0dccebe7ea3663b4ee56ce97737d949"
    }
   },
   "relations": []
@@ -2434,7 +2537,8 @@
     "Person"
    ],
    "properties": {
-    "Name": "待书"
+    "Name": "待书",
+    "ID": "aaead15ab891f0ad3ed94def057ff25c"
    }
   },
   "relations": [
@@ -2452,7 +2556,8 @@
     "Person"
    ],
    "properties": {
-    "Name": "彩屏"
+    "Name": "彩屏",
+    "ID": "cf3bca7b307233e3d72788fda9153349"
    }
   },
   "relations": [
@@ -2471,7 +2576,8 @@
    ],
    "properties": {
     "class": "金陵十二钗(副)",
-    "Name": "邢岫烟"
+    "Name": "邢岫烟",
+    "ID": "97df158c85af6798fd2558bdfbef09c3"
    }
   },
   "relations": [
@@ -2502,7 +2608,8 @@
    ],
    "properties": {
     "nickname": "冷郎君",
-    "Name": "柳湘莲"
+    "Name": "柳湘莲",
+    "ID": "3919f2d63abdd7c417e66b94c83f54db"
    }
   },
   "relations": [
@@ -2527,7 +2634,8 @@
    ],
    "properties": {
     "class": "十二优伶",
-    "Name": "藕官"
+    "Name": "藕官",
+    "ID": "74544b17afeef4343fba663401f82e5f"
    }
   },
   "relations": [
@@ -2558,7 +2666,8 @@
    ],
    "properties": {
     "class": "十二优伶",
-    "Name": "蕊官"
+    "Name": "蕊官",
+    "ID": "795c4f0af097ed3a0baa40d4de24c88d"
    }
   },
   "relations": [
@@ -2582,7 +2691,8 @@
     "Person"
    ],
    "properties": {
-    "Name": "绣鸾"
+    "Name": "绣鸾",
+    "ID": "f133fbe865a646025c09a7d02b9a0d10"
    }
   },
   "relations": [
@@ -2600,7 +2710,8 @@
     "Person"
    ],
    "properties": {
-    "Name": "同喜"
+    "Name": "同喜",
+    "ID": "06b79c1c48cd891397a1db2cacacaf34"
    }
   },
   "relations": [
@@ -2619,7 +2730,8 @@
    ],
    "properties": {
     "class": "金陵十二钗(副)",
-    "Name": "宝珠"
+    "Name": "宝珠",
+    "ID": "41e2adb31675322cdf7e3fa04e724ac9"
    }
   },
   "relations": [
@@ -2637,7 +2749,8 @@
     "Person"
    ],
    "properties": {
-    "Name": "篆儿"
+    "Name": "篆儿",
+    "ID": "d8a811ff30c49196cc11a8bb524914f5"
    }
   },
   "relations": [
@@ -2655,7 +2768,8 @@
     "Person"
    ],
    "properties": {
-    "Name": "炒豆儿"
+    "Name": "炒豆儿",
+    "ID": "a48b00eb8927653b94d5637527518be4"
    }
   },
   "relations": [
@@ -2673,7 +2787,8 @@
     "Person"
    ],
    "properties": {
-    "Name": "锄药"
+    "Name": "锄药",
+    "ID": "a8905abfc9509acac3725278ba6a161e"
    }
   },
   "relations": [
@@ -2691,7 +2806,8 @@
     "Person"
    ],
    "properties": {
-    "Name": "引泉"
+    "Name": "引泉",
+    "ID": "a6648d489a774bf157ba3307fc37e7fb"
    }
   },
   "relations": [
@@ -2709,7 +2825,8 @@
     "Person"
    ],
    "properties": {
-    "Name": "王荣"
+    "Name": "王荣",
+    "ID": "3361ae6400715901c0000da050c32099"
    }
   },
   "relations": [
@@ -2727,7 +2844,8 @@
     "Person"
    ],
    "properties": {
-    "Name": "来旺"
+    "Name": "来旺",
+    "ID": "1eb5a9a1ce8ec9ffd90666f9905ac9ea"
    }
   },
   "relations": [
@@ -2751,7 +2869,8 @@
     "Person"
    ],
    "properties": {
-    "Name": "庆儿"
+    "Name": "庆儿",
+    "ID": "37476fa72fcaceb2254b2fc1e3b2c16b"
    }
   },
   "relations": [
@@ -2775,7 +2894,8 @@
     "Person"
    ],
    "properties": {
-    "Name": "兴儿"
+    "Name": "兴儿",
+    "ID": "52f762729be63d4f8d6f3e5712b4227a"
    }
   },
   "relations": [
@@ -2795,7 +2915,8 @@
    "properties": {
     "address": "水月庵",
     "status": "尼姑",
-    "Name": "智善"
+    "Name": "智善",
+    "ID": "ff24f52f277ceb210b44c01b567486a4"
    }
   },
   "relations": [
@@ -2817,7 +2938,8 @@
     "origin": "庶出",
     "family": "贾家",
     "class": "金陵十二钗(正)",
-    "Name": "贾迎春"
+    "Name": "贾迎春",
+    "ID": "a2f509ed4716c5e11aa9b5f6b9bee52a"
    }
   },
   "relations": [
@@ -2842,7 +2964,8 @@
     "Person"
    ],
    "properties": {
-    "Name": "翠墨"
+    "Name": "翠墨",
+    "ID": "68cae3330859f17937b9b8c7f95a3e60"
    }
   },
   "relations": [
@@ -2862,7 +2985,8 @@
    "properties": {
     "alias": "鹦哥",
     "class": "金陵十二钗(又副)",
-    "Name": "紫鹃"
+    "Name": "紫鹃",
+    "ID": "a54873942848710bb3f5cc31408e4331"
    }
   },
   "relations": [
@@ -2886,7 +3010,8 @@
     "Person"
    ],
    "properties": {
-    "Name": "尤氏继母"
+    "Name": "尤氏继母",
+    "ID": "4498823b01f074b3658ba82ab51a5172"
    }
   },
   "relations": []
@@ -2897,7 +3022,8 @@
     "Person"
    ],
    "properties": {
-    "Name": "邢忠"
+    "Name": "邢忠",
+    "ID": "6021ec877fd920ff0b3519ecd67ecf48"
    }
   },
   "relations": [
@@ -2921,7 +3047,8 @@
     "Person"
    ],
    "properties": {
-    "Name": "绣凤"
+    "Name": "绣凤",
+    "ID": "7bac59a45f33c0bccd7835bbc5f08b10"
    }
   },
   "relations": [
@@ -2939,7 +3066,8 @@
     "Person"
    ],
    "properties": {
-    "Name": "同贵"
+    "Name": "同贵",
+    "ID": "cb57d76ef4b482c31518aef36ef02162"
    }
   },
   "relations": [
@@ -2957,7 +3085,8 @@
     "Person"
    ],
    "properties": {
-    "Name": "姣杏"
+    "Name": "姣杏",
+    "ID": "03b5b2d235e873c5b4dfb43fe69e2576"
    }
   },
   "relations": [
@@ -2975,7 +3104,8 @@
     "Person"
    ],
    "properties": {
-    "Name": "小吉祥儿"
+    "Name": "小吉祥儿",
+    "ID": "866e405f2ae250004136a7aee0b63834"
    }
   },
   "relations": [
@@ -2993,7 +3123,8 @@
     "Person"
    ],
    "properties": {
-    "Name": "小舍儿"
+    "Name": "小舍儿",
+    "ID": "3f2b704ef54d54d7438faa0dfb466855"
    }
   },
   "relations": [
@@ -3011,7 +3142,8 @@
     "Person"
    ],
    "properties": {
-    "Name": "墨雨"
+    "Name": "墨雨",
+    "ID": "dd102208c055c5531d9d45117d4ce688"
    }
   },
   "relations": [
@@ -3029,7 +3161,8 @@
     "Person"
    ],
    "properties": {
-    "Name": "挑芸"
+    "Name": "挑芸",
+    "ID": "bf18d8147ae4653908d29a6233a77f90"
    }
   },
   "relations": [
@@ -3047,7 +3180,8 @@
     "Person"
    ],
    "properties": {
-    "Name": "钱启"
+    "Name": "钱启",
+    "ID": "9736ecb643191e071420e1157c4799c7"
    }
   },
   "relations": [
@@ -3065,7 +3199,8 @@
     "Person"
    ],
    "properties": {
-    "Name": "喜儿"
+    "Name": "喜儿",
+    "ID": "bf7f1010b3bd4d3194a949f68942352f"
    }
   },
   "relations": [
@@ -3083,7 +3218,8 @@
     "Person"
    ],
    "properties": {
-    "Name": "隆儿"
+    "Name": "隆儿",
+    "ID": "f3bee97bffc4f344cfb1d433fffcdefe"
    }
   },
   "relations": [
@@ -3101,7 +3237,8 @@
     "Person"
    ],
    "properties": {
-    "Name": "佩凤"
+    "Name": "佩凤",
+    "ID": "88f16dc66f73d1319075e092be5ad4db"
    }
   },
   "relations": [
@@ -3120,7 +3257,8 @@
    ],
    "properties": {
     "class": "十二优伶",
-    "Name": "茄官"
+    "Name": "茄官",
+    "ID": "8edca3ba072cf67abcd3ef794b1ec0fe"
    }
   },
   "relations": [
@@ -3138,7 +3276,8 @@
     "Person"
    ],
    "properties": {
-    "Name": "尤老娘"
+    "Name": "尤老娘",
+    "ID": "d21b6a8241b24f4539efd61c109f0ada"
    }
   },
   "relations": [
@@ -3168,7 +3307,8 @@
     "Person"
    ],
    "properties": {
-    "Name": "王嬷嬷"
+    "Name": "王嬷嬷",
+    "ID": "27ff7c55ac3a113c8a0ace3ad627337b"
    }
   },
   "relations": [
@@ -3187,7 +3327,8 @@
    ],
    "properties": {
     "class": "金陵十二钗(副)",
-    "Name": "瑞珠"
+    "Name": "瑞珠",
+    "ID": "dd6f96111bfe2bf5260a4bad1051940e"
    }
   },
   "relations": [
@@ -3205,7 +3346,8 @@
     "Person"
    ],
    "properties": {
-    "Name": "臻儿"
+    "Name": "臻儿",
+    "ID": "0cc75ebf7ae1918d5f2b0100c5918112"
    }
   },
   "relations": [
@@ -3223,7 +3365,8 @@
     "Person"
    ],
    "properties": {
-    "Name": "银碟"
+    "Name": "银碟",
+    "ID": "85044cade50ad652f5efdf170247dce9"
    }
   },
   "relations": [
@@ -3241,7 +3384,8 @@
     "Person"
    ],
    "properties": {
-    "Name": "茗烟"
+    "Name": "茗烟",
+    "ID": "f071250e2bc11911ca62482adf857b47"
    }
   },
   "relations": [
@@ -3259,7 +3403,8 @@
     "Person"
    ],
    "properties": {
-    "Name": "扫花"
+    "Name": "扫花",
+    "ID": "1b1c87d9c54ac62c837a5b3dbce19b17"
    }
   },
   "relations": [
@@ -3277,7 +3422,8 @@
     "Person"
    ],
    "properties": {
-    "Name": "双寿"
+    "Name": "双寿",
+    "ID": "8e490f087d745211fbc89367bb81491b"
    }
   },
   "relations": [
@@ -3295,7 +3441,8 @@
     "Person"
    ],
    "properties": {
-    "Name": "赵亦华"
+    "Name": "赵亦华",
+    "ID": "73d5559b97777588079183a79df4aa6d"
    }
   },
   "relations": [
@@ -3313,7 +3460,8 @@
     "Person"
    ],
    "properties": {
-    "Name": "钱槐"
+    "Name": "钱槐",
+    "ID": "06cf1b1308d65b25030aa9bd2959dcb0"
    }
   },
   "relations": [
@@ -3338,7 +3486,8 @@
    ],
    "properties": {
     "Name": "林之孝家的",
-    "status": "贾府中总领家事的媳妇"
+    "status": "贾府中总领家事的媳妇",
+    "ID": "cae0c2d5c3cb8631027118eb23390e02"
    }
   },
   "relations": [
@@ -3357,7 +3506,8 @@
    ],
    "properties": {
     "class": "十二优伶",
-    "Name": "豆官"
+    "Name": "豆官",
+    "ID": "065dbea924667964d1dece2baeeef8fb"
    }
   },
   "relations": [
@@ -3378,7 +3528,8 @@
     "number": "雨村",
     "name": "化",
     "word": "时飞",
-    "Name": "贾雨村"
+    "Name": "贾雨村",
+    "ID": "395ab410eb56234c814cd1fdada622e4"
    }
   },
   "relations": [
@@ -3397,7 +3548,8 @@
    ],
    "properties": {
     "class": "十二优伶",
-    "Name": "艾官"
+    "Name": "艾官",
+    "ID": "0f27286b72741805a8bd57fd5f4396db"
    }
   },
   "relations": [
@@ -3415,7 +3567,8 @@
     "Person"
    ],
    "properties": {
-    "Name": "霍启"
+    "Name": "霍启",
+    "ID": "a4de7adc0c74e7d897d83ef1a299e51d"
    }
   },
   "relations": [
@@ -3433,7 +3586,8 @@
     "Person"
    ],
    "properties": {
-    "Name": "单聘仁"
+    "Name": "单聘仁",
+    "ID": "910fe86aadd11b849a87cce54634018f"
    }
   },
   "relations": [
@@ -3451,7 +3605,8 @@
     "Person"
    ],
    "properties": {
-    "Name": "张友士"
+    "Name": "张友士",
+    "ID": "6d3d320e5f8ed574df0cd90f713cda78"
    }
   },
   "relations": [
@@ -3470,7 +3625,8 @@
    ],
    "properties": {
     "inherit": "三品威远将军",
-    "Name": "马尚"
+    "Name": "马尚",
+    "ID": "69055b2bc988ee35c0e8781b9c1efe92"
    }
   },
   "relations": [
@@ -3489,7 +3645,8 @@
    ],
    "properties": {
     "rank": "治国公",
-    "Name": "马魁"
+    "Name": "马魁",
+    "ID": "82d459b825ed3a60e8baac77ccdb6fdc"
    }
   },
   "relations": []
@@ -3501,7 +3658,8 @@
    ],
    "properties": {
     "word": "子亮",
-    "Name": "詹光"
+    "Name": "詹光",
+    "ID": "f5ff917b658036c465cacc021fc07265"
    }
   },
   "relations": [
@@ -3520,7 +3678,8 @@
    ],
    "properties": {
     "inherit": "二等男",
-    "Name": "戚建辉"
+    "Name": "戚建辉",
+    "ID": "c0dce1dc6a0a960e4eea969cfa75a5c2"
    }
   },
   "relations": [
@@ -3538,7 +3697,8 @@
     "Person"
    ],
    "properties": {
-    "Name": "襄阳侯"
+    "Name": "襄阳侯",
+    "ID": "c2a331e30b446a730e2acddd84be4e71"
    }
   },
   "relations": []
@@ -3550,7 +3710,8 @@
    ],
    "properties": {
     "class": "十二优伶",
-    "Name": "龄官"
+    "Name": "龄官",
+    "ID": "abb5bc358dcc78d35a0e7ab73bfce2a3"
    }
   },
   "relations": [
@@ -3570,7 +3731,8 @@
    "properties": {
     "address": "宁国府",
     "family": "贾家",
-    "Name": "贾蔷"
+    "Name": "贾蔷",
+    "ID": "8e5669db66c167f330348e6b0db7581b"
    }
   },
   "relations": [
@@ -3589,7 +3751,8 @@
    ],
    "properties": {
     "class": "十二优伶",
-    "Name": "文官"
+    "Name": "文官",
+    "ID": "cc4fb9322401d8b91947627d7709578d"
    }
   },
   "relations": [
@@ -3608,7 +3771,8 @@
    ],
    "properties": {
     "status": "贵顺亲王府的戏子",
-    "Name": "蒋玉菡"
+    "Name": "蒋玉菡",
+    "ID": "f044a06d7417e7211e05c8f001238295"
    }
   },
   "relations": [
@@ -3633,7 +3797,8 @@
    ],
    "properties": {
     "official": "国子监祭酒",
-    "Name": "李守中"
+    "Name": "李守中",
+    "ID": "b394972cfd32f9ad7bd43181b8c8c81e"
    }
   },
   "relations": [
@@ -3653,7 +3818,8 @@
    "properties": {
     "address": "稻香村",
     "class": "金陵十二钗(正)",
-    "Name": "李纨"
+    "Name": "李纨",
+    "ID": "9ad250f1e4e9d57ea7a8cdf974430633"
    }
   },
   "relations": [
@@ -3684,7 +3850,8 @@
    ],
    "properties": {
     "class": "十二优伶",
-    "Name": "葵官"
+    "Name": "葵官",
+    "ID": "b65a64e2fd47aeb402d83dfe57f597ff"
    }
   },
   "relations": [
@@ -3703,7 +3870,8 @@
    ],
    "properties": {
     "class": "金陵十二钗(副)",
-    "Name": "娇杏"
+    "Name": "娇杏",
+    "ID": "e2951c5599ac0592499bc92788b8ccfd"
    }
   },
   "relations": [
@@ -3721,7 +3889,8 @@
     "Person"
    ],
    "properties": {
-    "Name": "封氏"
+    "Name": "封氏",
+    "ID": "992fcbf337d04ff9e4444905e1625372"
    }
   },
   "relations": [
@@ -3739,7 +3908,8 @@
     "Person"
    ],
    "properties": {
-    "Name": "卜固修"
+    "Name": "卜固修",
+    "ID": "cb78926d9998c025a45290d66398557d"
    }
   },
   "relations": [
@@ -3758,7 +3928,8 @@
    ],
    "properties": {
     "inherit": "一等伯",
-    "Name": "牛继宗"
+    "Name": "牛继宗",
+    "ID": "98d8980f0b94081ce6c96ea1816ee84b"
    }
   },
   "relations": [
@@ -3777,7 +3948,8 @@
    ],
    "properties": {
     "rank": "镇国公",
-    "Name": "牛清"
+    "Name": "牛清",
+    "ID": "99184559bb17e31cd5d65e659bae6605"
    }
   },
   "relations": []
@@ -3789,7 +3961,8 @@
    ],
    "properties": {
     "inherit": "一等子",
-    "Name": "侯孝康"
+    "Name": "侯孝康",
+    "ID": "67b5790eb0250980c669488f647dd917"
    }
   },
   "relations": [
@@ -3808,7 +3981,8 @@
    ],
    "properties": {
     "rank": "修国公",
-    "Name": "侯晓明"
+    "Name": "侯晓明",
+    "ID": "b3ac3619cdac000ab54c5d9ac2b0feb6"
    }
   },
   "relations": []
@@ -3819,7 +3993,8 @@
     "Person"
    ],
    "properties": {
-    "Name": "张材家的"
+    "Name": "张材家的",
+    "ID": "d928dd6acd64cfceb22d396955d61887"
    }
   },
   "relations": [
@@ -3837,7 +4012,8 @@
     "Person"
    ],
    "properties": {
-    "Name": "张材"
+    "Name": "张材",
+    "ID": "49ee1b6dc4113168e476ed4855f8eb4e"
    }
   },
   "relations": []
@@ -3848,7 +4024,8 @@
     "Person"
    ],
    "properties": {
-    "Name": "孙氏"
+    "Name": "孙氏",
+    "ID": "0b08739e5ea990230566b0237a3ab0e2"
    }
   },
   "relations": [
@@ -3873,7 +4050,8 @@
    ],
    "properties": {
     "Name": "康熙",
-    "status": "皇帝"
+    "status": "皇帝",
+    "ID": "8484c9620c1f976e2e26039f3986c5bd"
    }
   },
   "relations": []
@@ -3885,7 +4063,8 @@
    ],
    "properties": {
     "alias": "灯姑娘",
-    "Name": "多姑娘"
+    "Name": "多姑娘",
+    "ID": "6ec04935c17683b4a22d3cebc00992a6"
    }
   },
   "relations": [
@@ -3905,7 +4084,8 @@
    "properties": {
     "nickname": "多浑虫",
     "status": "荣国府的酒头厨子",
-    "Name": "多官"
+    "Name": "多官",
+    "ID": "96eae230a04cdefd81f1089e88c163f8"
    }
   },
   "relations": []
@@ -3916,7 +4096,8 @@
     "Person"
    ],
    "properties": {
-    "Name": "吴贵"
+    "Name": "吴贵",
+    "ID": "107ff05f7ef32e63226b855af045e997"
    }
   },
   "relations": [
@@ -3935,7 +4116,8 @@
    ],
    "properties": {
     "class": "金陵十二钗(副)",
-    "Name": "尤三姐"
+    "Name": "尤三姐",
+    "ID": "fcf9290b45e1b8f25851d749d5b75d5c"
    }
   },
   "relations": [
@@ -3966,7 +4148,8 @@
    ],
    "properties": {
     "Name": "拐子",
-    "status": "人贩子"
+    "status": "人贩子",
+    "ID": "fe59911c4465822df4586d0c44fcb668"
    }
   },
   "relations": [
@@ -3985,7 +4168,8 @@
    ],
    "properties": {
     "official": "县官",
-    "Name": "赖尚荣"
+    "Name": "赖尚荣",
+    "ID": "297940d014649ac7036754a2975c43d3"
    }
   },
   "relations": [
@@ -4010,7 +4194,8 @@
    ],
    "properties": {
     "Name": "冷子兴",
-    "status": "古董商"
+    "status": "古董商",
+    "ID": "1ab691f645ca0579217987593a2889df"
    }
   },
   "relations": [
@@ -4040,7 +4225,8 @@
     "Person"
    ],
    "properties": {
-    "Name": "周瑞"
+    "Name": "周瑞",
+    "ID": "1742b2dad5a5b974f3e39db95a2856b7"
    }
   },
   "relations": []
@@ -4051,7 +4237,8 @@
     "Person"
    ],
    "properties": {
-    "Name": "严老爷"
+    "Name": "严老爷",
+    "ID": "fed2ad330046bcdac547cdc93b28f778"
    }
   },
   "relations": [
@@ -4069,7 +4256,8 @@
     "Person"
    ],
    "properties": {
-    "Name": "胡斯来"
+    "Name": "胡斯来",
+    "ID": "07f87c08ea7d73a3d16d49a5c05fd4f6"
    }
   },
   "relations": [
@@ -4088,7 +4276,8 @@
    ],
    "properties": {
     "inherit": "三品威镇将军",
-    "Name": "陈瑞文"
+    "Name": "陈瑞文",
+    "ID": "6b530b1999fa430b622a8dd938a6d8ef"
    }
   },
   "relations": [
@@ -4107,7 +4296,8 @@
    ],
    "properties": {
     "rank": "齐国公",
-    "Name": "陈翼"
+    "Name": "陈翼",
+    "ID": "4a5d4f7e29ff30de01cdd85f9439cbad"
    }
   },
   "relations": []
@@ -4118,7 +4308,8 @@
     "Person"
    ],
    "properties": {
-    "Name": "余信家的"
+    "Name": "余信家的",
+    "ID": "9daa21f1770b09780178b32a24034eca"
    }
   },
   "relations": [
@@ -4137,7 +4328,8 @@
    ],
    "properties": {
     "Name": "余信",
-    "status": "贾府掌管寺庙月例银子的管家"
+    "status": "贾府掌管寺庙月例银子的管家",
+    "ID": "c9d65618e70c6775193148655726b5eb"
    }
   },
   "relations": []
@@ -4149,7 +4341,8 @@
    ],
    "properties": {
     "inherit": "二等男",
-    "Name": "蒋子宁"
+    "Name": "蒋子宁",
+    "ID": "e1e6f139d697a0a90f3f3399daac9d07"
    }
   },
   "relations": [
@@ -4167,7 +4360,8 @@
     "Person"
    ],
    "properties": {
-    "Name": "平原侯"
+    "Name": "平原侯",
+    "ID": "dee8f30e89a9a303ef82a1461d603066"
    }
   },
   "relations": []
@@ -4178,7 +4372,8 @@
     "Person"
    ],
    "properties": {
-    "Name": "花母"
+    "Name": "花母",
+    "ID": "786253e844385c76471a19053eefc357"
    }
   },
   "relations": [
@@ -4196,7 +4391,8 @@
     "Person"
    ],
    "properties": {
-    "Name": "倪二"
+    "Name": "倪二",
+    "ID": "aa49e9a3f7597c659bdcdd2e5eba502b"
    }
   },
   "relations": [
@@ -4214,7 +4410,8 @@
     "Person"
    ],
    "properties": {
-    "Name": "贾芸"
+    "Name": "贾芸",
+    "ID": "600d6e873b995f99893cac53e11bff32"
    }
   },
   "relations": [
@@ -4238,7 +4435,8 @@
     "Person"
    ],
    "properties": {
-    "Name": "赵国基"
+    "Name": "赵国基",
+    "ID": "c8ae4c80d69615117f5708d7c123b6b9"
    }
   },
   "relations": [
@@ -4256,7 +4454,8 @@
     "Person"
    ],
    "properties": {
-    "Name": "皇帝"
+    "Name": "皇帝",
+    "ID": "987a86510e7d63e015a94667d4f5ac1c"
    }
   },
   "relations": []
@@ -4272,7 +4471,8 @@
     "rank": "荣国公",
     "alias": "贾法",
     "family": "贾家",
-    "Name": "贾源"
+    "Name": "贾源",
+    "ID": "710f4eb4d72d1399d44fe6245df8306b"
    }
   },
   "relations": [
@@ -4303,7 +4503,8 @@
     "Person"
    ],
    "properties": {
-    "Name": "赖嬷嬷"
+    "Name": "赖嬷嬷",
+    "ID": "6d6de95af38e83091ee04485f6e96cfb"
    }
   },
   "relations": [
@@ -4322,7 +4523,8 @@
    ],
    "properties": {
     "Name": "封肃",
-    "status": "地主"
+    "status": "地主",
+    "ID": "14ae25375dcad0736b61f93cf13d7883"
    }
   },
   "relations": [
@@ -4340,7 +4542,8 @@
     "Person"
    ],
    "properties": {
-    "Name": "马道婆"
+    "Name": "马道婆",
+    "ID": "4667df582b50a2d9631f9ba6f14e1ba8"
    }
   },
   "relations": [
@@ -4359,7 +4562,8 @@
    ],
    "properties": {
     "status": "神仙",
-    "Name": "神瑛侍者"
+    "Name": "神瑛侍者",
+    "ID": "1a16f3e151285af59597cb4f67628c18"
    }
   },
   "relations": [
@@ -4377,7 +4581,8 @@
     "Person"
    ],
    "properties": {
-    "Name": "刘氏"
+    "Name": "刘氏",
+    "ID": "40ca30876b63fd278f9af9969c5aaccc"
    }
   },
   "relations": [
@@ -4403,7 +4608,8 @@
    "properties": {
     "goodat": "画美人",
     "status": "古董行老板",
-    "Name": "程日兴"
+    "Name": "程日兴",
+    "ID": "ecd329afa94831224826056bb2467849"
    }
   },
   "relations": [
@@ -4422,7 +4628,8 @@
    ],
    "properties": {
     "inherit": "一等子",
-    "Name": "柳芳"
+    "Name": "柳芳",
+    "ID": "4efbd18079c92f28c3fd9988872b3a23"
    }
   },
   "relations": [
@@ -4441,7 +4648,8 @@
    ],
    "properties": {
     "rank": "理国公",
-    "Name": "柳彪"
+    "Name": "柳彪",
+    "ID": "603b461fe9201eec2fd6cb5b26cdcc81"
    }
   },
   "relations": []
@@ -4453,7 +4661,8 @@
    ],
    "properties": {
     "inherit": "二等男",
-    "Name": "谢鲸"
+    "Name": "谢鲸",
+    "ID": "a269bb7a9f25db10e007abd099e8356d"
    }
   },
   "relations": [
@@ -4471,7 +4680,8 @@
     "Person"
    ],
    "properties": {
-    "Name": "定城侯"
+    "Name": "定城侯",
+    "ID": "5b0d94b643dcfd092c46c88c424086a2"
    }
   },
   "relations": []
@@ -4482,7 +4692,8 @@
     "Person"
    ],
    "properties": {
-    "Name": "石光珠"
+    "Name": "石光珠",
+    "ID": "35b5f28a37c177e7f25ce8dda0405529"
    }
   },
   "relations": [
@@ -4500,7 +4711,8 @@
     "Person"
    ],
    "properties": {
-    "Name": "缮国公"
+    "Name": "缮国公",
+    "ID": "a3f21a8dad7d21b5242af0b25c8243d2"
    }
   },
   "relations": []
@@ -4512,7 +4724,8 @@
    ],
    "properties": {
     "official": "江宁织造|苏州织造|两淮巡盐御史",
-    "Name": "曹玺"
+    "Name": "曹玺",
+    "ID": "616cc211565ce92b7298cccd85839d9e"
    }
   },
   "relations": []
@@ -4523,7 +4736,8 @@
     "Person"
    ],
    "properties": {
-    "Name": "银姐"
+    "Name": "银姐",
+    "ID": "a9b359d1653f9a3717b5299708ea14ec"
    }
   },
   "relations": [
@@ -4542,7 +4756,8 @@
    ],
    "properties": {
     "status": "香料铺的掌柜",
-    "Name": "卜世仁"
+    "Name": "卜世仁",
+    "ID": "f45804dd13fe39ef5b394d316408d97b"
    }
   },
   "relations": [
@@ -4561,7 +4776,8 @@
    ],
    "properties": {
     "official": "通判",
-    "Name": "傅试"
+    "Name": "傅试",
+    "ID": "5b5524b7e629a1b2789a931cb0ef6fbc"
    }
   },
   "relations": [
@@ -4579,7 +4795,8 @@
     "Person"
    ],
    "properties": {
-    "Name": "吴贵妃"
+    "Name": "吴贵妃",
+    "ID": "81d7dee647a9176eb81aad64b0795a2d"
    }
   },
   "relations": [
@@ -4603,7 +4820,8 @@
     "Person"
    ],
    "properties": {
-    "Name": "吴天佑"
+    "Name": "吴天佑",
+    "ID": "1ee9a9d5d1967101289c2cd16b5c6d7c"
    }
   },
   "relations": [
@@ -4621,7 +4839,8 @@
     "Person"
    ],
    "properties": {
-    "Name": "赵天梁"
+    "Name": "赵天梁",
+    "ID": "0a762487d4519573a6c18dca302534c2"
    }
   },
   "relations": []
@@ -4632,7 +4851,8 @@
     "Person"
    ],
    "properties": {
-    "Name": "傅秋芳"
+    "Name": "傅秋芳",
+    "ID": "3c4eddb3e34cf42a9867832b3e4432e6"
    }
   },
   "relations": [
@@ -4650,7 +4870,8 @@
     "Person"
    ],
    "properties": {
-    "Name": "花自芳"
+    "Name": "花自芳",
+    "ID": "82b0dfb4a62fb30ea25cf2873761f48c"
    }
   },
   "relations": [
@@ -4668,7 +4889,8 @@
     "Person"
    ],
    "properties": {
-    "Name": "周姨娘"
+    "Name": "周姨娘",
+    "ID": "7647bf7934373403e3516dac6782e86e"
    }
   },
   "relations": [
@@ -4686,7 +4908,8 @@
     "Person"
    ],
    "properties": {
-    "Name": "单大娘"
+    "Name": "单大娘",
+    "ID": "ce75a77fb306dd9ef6af8c4bbeb2ca9e"
    }
   },
   "relations": [
@@ -4704,7 +4927,8 @@
     "Person"
    ],
    "properties": {
-    "Name": "单大良"
+    "Name": "单大良",
+    "ID": "14c25bab8d234f97ce63337ae4e155f2"
    }
   },
   "relations": []
@@ -4718,7 +4942,8 @@
     "chapter": "第2回",
     "address": "荣国府",
     "family": "贾家",
-    "Name": "贾代善"
+    "Name": "贾代善",
+    "ID": "401d93d1a2bd708079146729f9ca77b3"
    }
   },
   "relations": [
@@ -4760,7 +4985,8 @@
     "rank": "宁国公",
     "alias": "贾寅",
     "family": "贾家",
-    "Name": "贾演"
+    "Name": "贾演",
+    "ID": "d1439df685eb55f0816cd7f9f7239895"
    }
   },
   "relations": [
@@ -4802,7 +5028,8 @@
     "inherit": "一等神威将军",
     "official": "京营节度使",
     "family": "贾家",
-    "Name": "贾代化"
+    "Name": "贾代化",
+    "ID": "418790a3acb617cd45720f633db8fe7b"
    }
   },
   "relations": [
@@ -4827,7 +5054,8 @@
     "Person"
    ],
    "properties": {
-    "Name": "胡老爷"
+    "Name": "胡老爷",
+    "ID": "9073ded64e513c034d3fc632421eb760"
    }
   },
   "relations": [
@@ -4845,7 +5073,8 @@
     "Person"
    ],
    "properties": {
-    "Name": "胡氏"
+    "Name": "胡氏",
+    "ID": "8689d3221f1ae8306d70fa40a2796240"
    }
   },
   "relations": [
@@ -4870,7 +5099,8 @@
     "Person"
    ],
    "properties": {
-    "Name": "鲍二家的"
+    "Name": "鲍二家的",
+    "ID": "ccc45ca91f168abfa786b7250ef1c899"
    }
   },
   "relations": [
@@ -4888,7 +5118,8 @@
     "Person"
    ],
    "properties": {
-    "Name": "鲍二"
+    "Name": "鲍二",
+    "ID": "96ad8f92a3c4c0027e4edfb1a1465041"
    }
   },
   "relations": []
@@ -4900,7 +5131,8 @@
    ],
    "properties": {
     "class": "金陵十二钗(副)",
-    "Name": "李纹"
+    "Name": "李纹",
+    "ID": "9a135c6ffb97daa80149743e965798c9"
    }
   },
   "relations": [
@@ -4919,7 +5151,8 @@
    ],
    "properties": {
     "status": "贾府佣人",
-    "Name": "何婆子"
+    "Name": "何婆子",
+    "ID": "75a556b8dad99babfea0e9672776bd3f"
    }
   },
   "relations": [
@@ -4943,7 +5176,8 @@
     "Person"
    ],
    "properties": {
-    "Name": "潘又安"
+    "Name": "潘又安",
+    "ID": "c4b81a5877c759d34aee752e01a4d449"
    }
   },
   "relations": [
@@ -4961,7 +5195,8 @@
     "Book"
    ],
    "properties": {
-    "Name": "红楼梦"
+    "Name": "红楼梦",
+    "ID": "43b9d1cc9e67f3cdf53130e39de56c47"
    }
   },
   "relations": [
@@ -4985,7 +5220,8 @@
     "Version"
    ],
    "properties": {
-    "Name": "人民文学出版社1974年版"
+    "Name": "人民文学出版社1974年版",
+    "ID": "d064bf187b53fe8a1968acce11498ddb"
    }
   },
   "relations": [
@@ -5003,7 +5239,8 @@
     "Person"
    ],
    "properties": {
-    "Name": "小鸠儿"
+    "Name": "小鸠儿",
+    "ID": "ed0e6044a624b58671624536c388bec8"
    }
   },
   "relations": [
@@ -5028,7 +5265,8 @@
    ],
    "properties": {
     "status": "贾府做饭的佣人",
-    "Name": "柳家的"
+    "Name": "柳家的",
+    "ID": "dbf0c4d7d62925816aa54d1328aa5bcc"
    }
   },
   "relations": [
@@ -5051,7 +5289,8 @@
     "born": "大约1715(康熙54年)",
     "name": "霑(zhān)",
     "word": "梦阮",
-    "Name": "曹雪芹"
+    "Name": "曹雪芹",
+    "ID": "4dee1661113e48a993974fd8fed4478f"
    }
   },
   "relations": [
@@ -5099,7 +5338,8 @@
     "Person"
    ],
    "properties": {
-    "Name": "金荣"
+    "Name": "金荣",
+    "ID": "e3bd037696bec60fad4dd897f73f75ce"
    }
   },
   "relations": []
@@ -5110,7 +5350,8 @@
     "Person"
    ],
    "properties": {
-    "Name": "周奶娘"
+    "Name": "周奶娘",
+    "ID": "550665e92ef49b88c73a3f77757fb6ca"
    }
   },
   "relations": [
@@ -5128,7 +5369,8 @@
     "Person"
    ],
    "properties": {
-    "Name": "裘良"
+    "Name": "裘良",
+    "ID": "f923dc9c3f585d0b20c3b0e3fb9aaacc"
    }
   },
   "relations": [
@@ -5146,7 +5388,8 @@
     "Person"
    ],
    "properties": {
-    "Name": "景田侯"
+    "Name": "景田侯",
+    "ID": "8721e4728b5c76f5ecbdf6f690e5d4d8"
    }
   },
   "relations": []
@@ -5157,7 +5400,8 @@
     "Person"
    ],
    "properties": {
-    "Name": "焦大"
+    "Name": "焦大",
+    "ID": "225d31744b4a7c2c9663ff1cc26b5135"
    }
   },
   "relations": [
@@ -5175,7 +5419,8 @@
     "Person"
    ],
    "properties": {
-    "Name": "赵嬷嬷"
+    "Name": "赵嬷嬷",
+    "ID": "d015c4129f2d8e1504694ab89093464a"
    }
   },
   "relations": [
@@ -5205,7 +5450,8 @@
     "Person"
    ],
    "properties": {
-    "Name": "赵天栋"
+    "Name": "赵天栋",
+    "ID": "13ed99dead45eecb2fab91dd7e33cd6a"
    }
   },
   "relations": []
@@ -5216,7 +5462,8 @@
     "Person"
    ],
    "properties": {
-    "Name": "金彩"
+    "Name": "金彩",
+    "ID": "6fdd09e70e7ae0ca033b48e72adc3077"
    }
   },
   "relations": [
@@ -5235,7 +5482,8 @@
    ],
    "properties": {
     "class": "金陵十二钗(副)",
-    "Name": "李绮"
+    "Name": "李绮",
+    "ID": "6ec11072016e930414cd945d3280efa7"
    }
   },
   "relations": [
@@ -5266,7 +5514,8 @@
    ],
    "properties": {
     "alias": "小燕",
-    "Name": "春燕"
+    "Name": "春燕",
+    "ID": "144df0545dd4969a5b655ff47a154a19"
    }
   },
   "relations": [
@@ -5284,7 +5533,8 @@
     "Person"
    ],
    "properties": {
-    "Name": "邢德全"
+    "Name": "邢德全",
+    "ID": "61a82bdbc579d6245f58bfd44ed36050"
    }
   },
   "relations": [
@@ -5302,7 +5552,8 @@
     "Version"
    ],
    "properties": {
-    "Name": "人民文学出版社1982年版"
+    "Name": "人民文学出版社1982年版",
+    "ID": "fcde9abbf25173483c617c45de3684c5"
    }
   },
   "relations": [
@@ -5320,7 +5571,8 @@
     "Person"
    ],
    "properties": {
-    "Name": "小霞"
+    "Name": "小霞",
+    "ID": "c567715d1ec0766948251a42f223b5cf"
    }
   },
   "relations": [
@@ -5340,7 +5592,8 @@
    "properties": {
     "pron": "cáo|fǔ",
     "official": "江宁织造|苏州织造|两淮巡盐御史",
-    "Name": "曹頫"
+    "Name": "曹頫",
+    "ID": "f5bdc79350973b87decde8adc5d2a46b"
    }
   },
   "relations": []
@@ -5352,7 +5605,8 @@
    ],
    "properties": {
     "official": "一品光禄寺大夫(管理皇室内部事务的官职)",
-    "Name": "曹振彦"
+    "Name": "曹振彦",
+    "ID": "c7648d56f9668838333b5efdc19ff3d6"
    }
   },
   "relations": []
@@ -5367,7 +5621,8 @@
     "address": "宁国府",
     "family": "贾家",
     "hobby": "道学",
-    "Name": "贾敬"
+    "Name": "贾敬",
+    "ID": "6b29dfe7f6440e86cb4bace061cbfc30"
    }
   },
   "relations": [
@@ -5393,7 +5648,8 @@
    ],
    "properties": {
     "status": "贾府世交之后",
-    "Name": "孙绍祖"
+    "Name": "孙绍祖",
+    "ID": "b3af1d22ade003a8eeca429f8a36c199"
    }
   },
   "relations": []
@@ -5407,7 +5663,8 @@
     "address": "宁国府",
     "official": "监生|五品龙禁尉",
     "family": "贾家",
-    "Name": "贾蓉"
+    "Name": "贾蓉",
+    "ID": "15c07fb46fb0e874074339e3d7838d02"
    }
   },
   "relations": [
@@ -5445,7 +5702,8 @@
     "Person"
    ],
    "properties": {
-    "Name": "贾菌"
+    "Name": "贾菌",
+    "ID": "1b632ce20646b508b700748796cf2327"
    }
   },
   "relations": [
@@ -5463,7 +5721,8 @@
     "Person"
    ],
    "properties": {
-    "Name": "娄氏"
+    "Name": "娄氏",
+    "ID": "d899e21aa9d519a0d60e78179b7bb65c"
    }
   },
   "relations": [
@@ -5484,7 +5743,8 @@
     "address": "皇宫",
     "family": "贾家",
     "class": "金陵十二钗(正)",
-    "Name": "贾元春"
+    "Name": "贾元春",
+    "ID": "625e73a6dd306033212be37bba53c06d"
    }
   },
   "relations": [
@@ -5522,7 +5782,8 @@
     "Person"
    ],
    "properties": {
-    "Name": "贾太公"
+    "Name": "贾太公",
+    "ID": "d569219ae527fa1ad8a662ef2cba49f1"
    }
   },
   "relations": []
@@ -5533,7 +5794,8 @@
     "Person"
    ],
    "properties": {
-    "Name": "王君效"
+    "Name": "王君效",
+    "ID": "8a0dc1e14f853caba4fe3e4cd9505069"
    }
   },
   "relations": [
@@ -5553,7 +5815,8 @@
    "properties": {
     "alias": "王大夫|王太医",
     "Name": "王济仁",
-    "status": "太医"
+    "status": "太医",
+    "ID": "3677f2008270f28f2ff3739ebbbfd79e"
    }
   },
   "relations": []
@@ -5564,7 +5827,8 @@
     "Person"
    ],
    "properties": {
-    "Name": "李婶娘"
+    "Name": "李婶娘",
+    "ID": "a714e2fb2fb071b861ad5b69aa25e5c2"
    }
   },
   "relations": [
@@ -5582,7 +5846,8 @@
     "Person"
    ],
    "properties": {
-    "Name": "四姐"
+    "Name": "四姐",
+    "ID": "71a4b0dab0abdf82436ba46107cf1da5"
    }
   },
   "relations": [
@@ -5601,7 +5866,8 @@
    ],
    "properties": {
     "status": "贾府远房宗族",
-    "Name": "贾琼"
+    "Name": "贾琼",
+    "ID": "eb44b2e85feedb2bedd119bb56643306"
    }
   },
   "relations": []
@@ -5613,7 +5879,8 @@
    ],
    "properties": {
     "official": "江宁织造|苏州织造|两淮巡盐御史",
-    "Name": "曹寅"
+    "Name": "曹寅",
+    "ID": "8bd0292dbbba78ce4d08fb7ce968bced"
    }
   },
   "relations": [
@@ -5631,7 +5898,8 @@
     "Person"
    ],
    "properties": {
-    "Name": "夏奶奶"
+    "Name": "夏奶奶",
+    "ID": "35cfb2d18555016b6ad5235a754007d0"
    }
   },
   "relations": [
@@ -5649,7 +5917,8 @@
     "Book"
    ],
    "properties": {
-    "Name": "程乙本"
+    "Name": "程乙本",
+    "ID": "a7d852ff0cc7219944d8db3e76efd234"
    }
   },
   "relations": []
@@ -5660,7 +5929,8 @@
     "Person"
    ],
    "properties": {
-    "Name": "金氏"
+    "Name": "金氏",
+    "ID": "a177923c2e47cd1bc13f2cf968acffbc"
    }
   },
   "relations": [
@@ -5685,7 +5955,8 @@
    ],
    "properties": {
     "family": "贾家",
-    "Name": "贾璜"
+    "Name": "贾璜",
+    "ID": "809dfb6a6e3a8fddbd00821297697fda"
    }
   },
   "relations": [
@@ -5703,7 +5974,8 @@
     "Person"
    ],
    "properties": {
-    "Name": "五嫂子"
+    "Name": "五嫂子",
+    "ID": "79a8a509687fae745b5967b152dd173d"
    }
   },
   "relations": []
@@ -5716,7 +5988,8 @@
    "properties": {
     "address": "宁国府",
     "family": "贾家",
-    "Name": "贾敷"
+    "Name": "贾敷",
+    "ID": "fbbf59ccd54e23d86aad4ae439fac073"
    }
   },
   "relations": [
@@ -5737,7 +6010,8 @@
    "properties": {
     "origin": "庶出",
     "family": "贾家",
-    "Name": "贾琮"
+    "Name": "贾琮",
+    "ID": "5cc057f1be69fbab3bb73949c06c2cbb"
    }
   },
   "relations": [
@@ -5759,7 +6033,8 @@
     "address": "栊翠庵",
     "class": "金陵十二钗(正)",
     "status": "尼姑",
-    "Name": "妙玉"
+    "Name": "妙玉",
+    "ID": "44951a69d1f0300cb7955c705bb72784"
    }
   },
   "relations": [
@@ -5783,7 +6058,8 @@
     "Person"
    ],
    "properties": {
-    "Name": "嫣红"
+    "Name": "嫣红",
+    "ID": "601ec328fe61d99fb30dc6f8aced8a46"
    }
   },
   "relations": [
@@ -5802,7 +6078,8 @@
    ],
    "properties": {
     "status": "荣国府上夜的佣人",
-    "Name": "秦显家的"
+    "Name": "秦显家的",
+    "ID": "3ba2b6bfd923b13bd765c3ea70544dd8"
    }
   },
   "relations": [
@@ -5820,7 +6097,8 @@
     "Person"
    ],
    "properties": {
-    "Name": "文花"
+    "Name": "文花",
+    "ID": "c25416fbd4d4c9fa1960c73d6a8d65bc"
    }
   },
   "relations": [
@@ -5839,7 +6117,8 @@
    ],
    "properties": {
     "status": "大观园花草的佣人",
-    "Name": "叶妈"
+    "Name": "叶妈",
+    "ID": "e2250da4ec3908017a268818854632ed"
    }
   },
   "relations": [
@@ -5863,7 +6142,8 @@
     "Person"
    ],
    "properties": {
-    "Name": "夏婆子"
+    "Name": "夏婆子",
+    "ID": "42cd7ddc48c4aee0c4d3c8ff1f7aeed4"
    }
   },
   "relations": [
@@ -5887,7 +6167,8 @@
     "Person"
    ],
    "properties": {
-    "Name": "翠云"
+    "Name": "翠云",
+    "ID": "60e1cbc58be9c349a85ca72432b88bdb"
    }
   },
   "relations": [
@@ -5907,7 +6188,8 @@
    "properties": {
     "pron": "cáo|yóng",
     "official": "江宁织造|苏州织造|两淮巡盐御史",
-    "Name": "曹顒"
+    "Name": "曹顒",
+    "ID": "ee981093b49c4b69b0fa5f58ab25d009"
    }
   },
   "relations": []
@@ -5918,7 +6200,8 @@
     "Book"
    ],
    "properties": {
-    "Name": "脂砚斋重评石头记"
+    "Name": "脂砚斋重评石头记",
+    "ID": "a08907aabd87c22b87f7fadafe480680"
    }
   },
   "relations": []
@@ -5931,7 +6214,8 @@
    "properties": {
     "address": "荣国府",
     "family": "贾家",
-    "Name": "贾珠"
+    "Name": "贾珠",
+    "ID": "9491fd0af55ac4e3ef41569810ad809c"
    }
   },
   "relations": [
@@ -5969,7 +6253,8 @@
     "Person"
    ],
    "properties": {
-    "Name": "许氏"
+    "Name": "许氏",
+    "ID": "73678ce34a5f6057d88dbfa782da150e"
    }
   },
   "relations": [
@@ -5989,7 +6274,8 @@
    ],
    "properties": {
     "official": "前科探花|兰台寺大夫|巡盐御史",
-    "Name": "林如海"
+    "Name": "林如海",
+    "ID": "4b00def8926c8083ff79ab01f6c98495"
    }
   },
   "relations": [
@@ -6014,7 +6300,8 @@
    ],
    "properties": {
     "family": "贾家",
-    "Name": "贾瑞"
+    "Name": "贾瑞",
+    "ID": "5e5fece1dd754244e1d38ce50f02f379"
    }
   },
   "relations": [
@@ -6034,7 +6321,8 @@
    "properties": {
     "chapter": "第8回",
     "status": "贾府“代”字辈非嫡派宗族远亲",
-    "Name": "贾代儒"
+    "Name": "贾代儒",
+    "ID": "eb16df6a87ffae34a2069fbe138c2959"
    }
   },
   "relations": []
@@ -6045,7 +6333,8 @@
     "Person"
    ],
    "properties": {
-    "Name": "檀云"
+    "Name": "檀云",
+    "ID": "a8919d1094fbcff848216b1e55497fad"
    }
   },
   "relations": [
@@ -6063,7 +6352,8 @@
     "Person"
    ],
    "properties": {
-    "Name": "喜鸾"
+    "Name": "喜鸾",
+    "ID": "869728ad9234c01e5355a80a531a2df7"
    }
   },
   "relations": [
@@ -6081,7 +6371,8 @@
     "Person"
    ],
    "properties": {
-    "Name": "贾㻞"
+    "Name": "贾㻞",
+    "ID": "6fbc8472d7a34d5316913c42a6079405"
    }
   },
   "relations": []
@@ -6093,7 +6384,8 @@
    ],
    "properties": {
     "Name": "贾芹",
-    "status": "铁槛寺和尚道士的总管"
+    "status": "铁槛寺和尚道士的总管",
+    "ID": "5c6ddb64bd6b4731470c67d9b986f96d"
    }
   },
   "relations": [
@@ -6111,7 +6403,8 @@
     "Person"
    ],
    "properties": {
-    "Name": "周氏"
+    "Name": "周氏",
+    "ID": "9c5632eb8051cea21b72787b0717fe3a"
    }
   },
   "relations": []
@@ -6122,7 +6415,8 @@
     "Person"
    ],
    "properties": {
-    "Name": "甄宝玉"
+    "Name": "甄宝玉",
+    "ID": "7f46cbdabd09ea34e84d5519e2550be2"
    }
   },
   "relations": [
@@ -6140,7 +6434,8 @@
     "Person"
    ],
    "properties": {
-    "Name": "甄应嘉"
+    "Name": "甄应嘉",
+    "ID": "80e71f384b4cc02672d6c555293d07f4"
    }
   },
   "relations": []
@@ -6151,7 +6446,8 @@
     "Person"
    ],
    "properties": {
-    "Name": "佳蕙"
+    "Name": "佳蕙",
+    "ID": "ba2415616e25259f31eb404bd78a3f37"
    }
   },
   "relations": [
@@ -6171,7 +6467,8 @@
    "properties": {
     "address": "荣国府",
     "family": "贾家",
-    "Name": "贾兰"
+    "Name": "贾兰",
+    "ID": "282f50a1f8ac53f30b25a6276103283f"
    }
   },
   "relations": [
@@ -6197,7 +6494,8 @@
    ],
    "properties": {
     "family": "贾家",
-    "Name": "贾敏"
+    "Name": "贾敏",
+    "ID": "a97673be0c6e6e80594372b004590608"
    }
   },
   "relations": [
@@ -6246,7 +6544,8 @@
     "Person"
    ],
    "properties": {
-    "Name": "王板儿"
+    "Name": "王板儿",
+    "ID": "95a01b0e179a165cca1ea0be023df2b4"
    }
   },
   "relations": [
@@ -6284,7 +6583,8 @@
    "properties": {
     "pron": "qǐ|xiàn",
     "alias": "绮霞",
-    "Name": "绮霰"
+    "Name": "绮霰",
+    "ID": "5af7c2c3f30588e18f43041c9bcf3bcf"
    }
   },
   "relations": [
@@ -6302,7 +6602,8 @@
     "Person"
    ],
    "properties": {
-    "Name": "抱琴"
+    "Name": "抱琴",
+    "ID": "6a67c36e36c622b5c190ebf4f18dd84e"
    }
   },
   "relations": [

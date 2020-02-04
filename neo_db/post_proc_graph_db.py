@@ -1,5 +1,6 @@
 from config import graph
 import json
+from my_hash import my_hash
 
 def test_get_nodes():
     ret = graph.run("MATCH (n:Person)-[r]->(m:Person) RETURN n,r,m")
@@ -52,7 +53,10 @@ def get_node(node_name):
                         WHERE n.Name='{0}' 
                         RETURN labels(n) AS labels, n AS properties""".format(node_name))
     data = node.next()
-    return {'labels': data['labels'], 'properties': data['properties']}
+    dt = {'labels': data['labels'], 'properties': data['properties']}
+    dt_hash = my_hash(dt)
+    dt['properties']['ID'] = dt_hash
+    return dt
 
 # 从Neo4j数据库生成relation3.json
 def post_proc_graph_db():
